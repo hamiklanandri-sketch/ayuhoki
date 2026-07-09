@@ -23,14 +23,14 @@
     <meta name="publisher" content="AYUHOKI">
     <meta name="pinterest" content="nopin" />
     <meta name="description"
-        content="https://ayuhoki-4zp.pages.dev/badaigila/amp">
+        content="Selamat datang di AYUHOKI, platform hiburan digital yang menghadirkan pengalaman bermain modern dengan antarmuka yang mudah digunakan, proses transaksi yang praktis, serta dukungan berbagai metode pembayaran populer. Nikmati beragam pilihan permainan dari penyedia ternama dengan performa yang stabil dan layanan pelanggan yang siap membantu kapan saja.">
     <meta name="keywords"
-        content="AYUHOKI, AYUHOKI login, AYUHOKI link, AYUHOKI daftar, AYUHOKI alternatif, AYUHOKI utama, ayuhoki togel, AYUHOKI link login, alexstogel link daftar, AYUHOKI link alternatif, ayuhoki togel" />Selamat datang di AYUHOKI, platform hiburan digital yang menghadirkan pengalaman bermain modern dengan antarmuka yang mudah digunakan, proses transaksi yang praktis, serta dukungan berbagai metode pembayaran populer. Nikmati beragam pilihan permainan dari penyedia ternama dengan performa yang stabil dan layanan pelanggan yang siap membantu kapan saja.
+        content="slot gacor 2026 terbaru, slot gacor 2026 hari ini, slot gacor 2026 terpercaya, situs slot gacor 2026, link slot gacor 2026, daftar slot gacor 2026, rekomendasi slot gacor 2026, slot online gacor 2026, game slot populer 2026, platform slot online 2026, slot RTP tinggi 2026, slot online terbaru 2026, slot favorit 2026, slot digital 2026, permainan slot online 2026" />
     <meta name="sitecode" content="id">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="AYUHOKI 2026 – Platform Hiburan Digital Modern dengan Pengalaman Bermain yang Praktis & Nyaman">
     <meta name="twitter:description"
-        content="https://ayuhoki-4zp.pages.dev/badaigila/amp">
+        content="Selamat datang di AYUHOKI, platform hiburan digital yang menghadirkan pengalaman bermain modern dengan antarmuka yang mudah digunakan, proses transaksi yang praktis, serta dukungan berbagai metode pembayaran populer. Nikmati beragam pilihan permainan dari penyedia ternama dengan performa yang stabil dan layanan pelanggan yang siap membantu kapan saja.">
     <meta name="twitter:url" content="https://clarapyjamas.com/">
     <meta name="twitter:image" content="https://ayuhoki-4zp.pages.dev/ayuhoki/ab8f81c1-d348-47a6-8af9-224beff59a8b.png">
     <meta property="og:type" content="website">
@@ -39,7 +39,7 @@
     <meta property="og:url" content="https://clarapyjamas.com/">
     <meta property="og:title" content="AYUHOKI 2026 – Platform Hiburan Digital Modern dengan Pengalaman Bermain yang Praktis & Nyaman">
     <meta property="og:description"
-        content="https://ayuhoki-4zp.pages.dev/badaigila/amp">
+        content="Selamat datang di AYUHOKI, platform hiburan digital yang menghadirkan pengalaman bermain modern dengan antarmuka yang mudah digunakan, proses transaksi yang praktis, serta dukungan berbagai metode pembayaran populer. Nikmati beragam pilihan permainan dari penyedia ternama dengan performa yang stabil dan layanan pelanggan yang siap membantu kapan saja.">
     <meta property="og:image" content="https://ayuhoki-4zp.pages.dev/ayuhoki/ab8f81c1-d348-47a6-8af9-224beff59a8b.png">
     <link rel="icon" type="image/png" sizes="96x96"
         href="https://ayuhoki.dataklmsad902.site/images/setting-favicon/1/h2uzcy0rjDOsvnZL.png?s=1f15b8c524ca2d273a018abf9ef267a9">
@@ -4852,7 +4852,7 @@
                                 })();
                             </script>
                             <style>
-                                .alexis-togel-card {
+                                .ayuhoki-togel-card {
                                     max-width: 750px;
                                     width: 100%;
                                     padding: 40px 35px;
@@ -4879,7 +4879,7 @@
                                 }
 
                                 /* highlight utama red luxury */
-                                .alexis-togel-card::before {
+                                .ayuhoki-togel-card::before {
                                     content: "";
                                     position: absolute;
                                     inset: 0;
@@ -4906,7 +4906,7 @@
                                 }
 
                                 /* wave / satin red */
-                                .alexis-togel-card::after {
+                                .ayuhoki-togel-card::after {
                                     content: "";
                                     position: absolute;
                                     inset: -8%;
@@ -4935,18 +4935,18 @@
                                     transform: rotate(-6deg) scale(1.15);
                                 }
 
-                                .alexis-togel-card>* {
+                                .ayuhoki-togel-card>* {
                                     position: relative;
                                     z-index: 3;
                                 }
 
                                 /* judul utama */
-                                .alexis-togel-title {
+                                .ayuhoki-togel-title {
                                     text-align: center;
                                     margin-bottom: 30px;
                                 }
 
-                                .alexis-togel-title h1 {
+                                .ayuhoki-togel-title h1 {
                                     font-size: 34px;
                                     font-weight: 700;
                                     line-height: 1.4;
@@ -4954,18 +4954,18 @@
                                     margin-bottom: 5px;
                                 }
 
-                                .alexis-togel-title h1 span {
+                                .ayuhoki-togel-title h1 span {
                                     color: #ffd0d0;
                                     font-weight: 800;
                                 }
 
                                 /* header dalam card */
-                                .alexis-togel-brand {
+                                .ayuhoki-togel-brand {
                                     text-align: center;
                                     margin-bottom: 25px;
                                 }
 
-                                .alexis-togel-brand h2 {
+                                .ayuhoki-togel-brand h2 {
                                     font-size: 2rem;
                                     font-weight: 800;
                                     color: #ffffff;
@@ -4973,7 +4973,7 @@
                                     margin-bottom: 5px;
                                 }
 
-                                .alexis-togel-brand .sub {
+                                .ayuhoki-togel-brand .sub {
                                     font-size: 15px;
                                     color: #ffd0d0;
                                     font-weight: 500;
@@ -4982,7 +4982,7 @@
                                     padding-bottom: 8px;
                                 }
 
-                                .alexis-togel-brand .sub:after {
+                                .ayuhoki-togel-brand .sub:after {
                                     content: '';
                                     position: absolute;
                                     bottom: 0;
@@ -4994,7 +4994,7 @@
                                 }
 
                                 /* info box */
-                                .alexis-togel-info {
+                                .ayuhoki-togel-info {
                                     background: rgba(255, 255, 255, 0.06);
                                     border-radius: 20px;
                                     border: 1px solid rgba(255, 255, 255, 0.12);
@@ -5002,14 +5002,14 @@
                                     margin-bottom: 30px;
                                 }
 
-                                .alexis-togel-info-head {
+                                .ayuhoki-togel-info-head {
                                     padding: 15px 20px;
                                     border-bottom: 1px solid #f5ad0a;
                                     background: #000;
                                 }
 
-                                .alexis-togel-info-head h2,
-                                .alexis-togel-info-head h3 {
+                                .ayuhoki-togel-info-head h2,
+                                .ayuhoki-togel-info-head h3 {
                                     margin: 0;
                                     font-size: 16px;
                                     color: #ffffff;
@@ -5018,11 +5018,11 @@
                                     letter-spacing: 0.5px;
                                 }
 
-                                .alexis-togel-info-list {
+                                .ayuhoki-togel-info-list {
                                     padding: 5px 0;
                                 }
 
-                                .alexis-togel-info-row {
+                                .ayuhoki-togel-info-row {
                                     padding: 14px 22px;
                                     display: flex;
                                     align-items: center;
@@ -5030,17 +5030,17 @@
                                     border-bottom: 1px solid rgba(255, 255, 255, 0.08);
                                 }
 
-                                .alexis-togel-info-row:last-child {
+                                .ayuhoki-togel-info-row:last-child {
                                     border-bottom: none;
                                 }
 
-                                .alexis-togel-info-label {
+                                .ayuhoki-togel-info-label {
                                     display: flex;
                                     align-items: center;
                                     gap: 12px;
                                 }
 
-                                .alexis-togel-info-dot {
+                                .ayuhoki-togel-info-dot {
                                     width: 8px;
                                     height: 8px;
                                     background: #000;
@@ -5049,13 +5049,13 @@
                                     box-shadow: 0 0 10px #f5ad0a;
                                 }
 
-                                .alexis-togel-info-text {
+                                .ayuhoki-togel-info-text {
                                     color: #fff;
                                     font-weight: 600;
                                     font-size: 15px;
                                 }
 
-                                .alexis-togel-info-number {
+                                .ayuhoki-togel-info-number {
                                     color: #ffffff;
                                     font-size: 15px;
                                     font-weight: 600;
@@ -5066,7 +5066,7 @@
                                 }
 
                                 /* bonus section */
-                                .alexis-togel-bonus-wrap {
+                                .ayuhoki-togel-bonus-wrap {
                                     background: rgba(255, 255, 255, 0.05);
                                     border-radius: 20px;
                                     padding: 25px 20px;
@@ -5075,7 +5075,7 @@
                                     text-align: center;
                                 }
 
-                                .alexis-togel-bonus-head {
+                                .ayuhoki-togel-bonus-head {
                                     display: flex;
                                     align-items: center;
                                     justify-content: center;
@@ -5083,7 +5083,7 @@
                                     margin-bottom: 20px;
                                 }
 
-                                .alexis-togel-bonus-head .alexis-togel-icon {
+                                .ayuhoki-togel-bonus-head .ayuhoki-togel-icon {
                                     width: 8px;
                                     height: 8px;
                                     background: #fff;
@@ -5091,20 +5091,20 @@
                                     box-shadow: 0 0 10px #f99407;
                                 }
 
-                                .alexis-togel-bonus-head h3 {
+                                .ayuhoki-togel-bonus-head h3 {
                                     margin: 0;
                                     font-size: 16px;
                                     color: #ffffff;
                                     font-weight: 700;
                                 }
 
-                                .alexis-togel-bonus-list {
+                                .ayuhoki-togel-bonus-list {
                                     display: flex;
                                     flex-direction: column;
                                     gap: 12px;
                                 }
 
-                                .alexis-togel-bonus-item {
+                                .ayuhoki-togel-bonus-item {
                                     padding: 12px 15px;
                                     border-radius: 14px;
                                     text-align: left;
@@ -5129,7 +5129,7 @@
                                         0 4px 10px #000;
                                 }
 
-                                .alexis-togel-bonus-item::before {
+                                .ayuhoki-togel-bonus-item::before {
                                     content: "";
                                     position: absolute;
                                     inset: 0;
@@ -5150,7 +5150,7 @@
                                             rgba(255, 255, 255, 0) 100%);
                                 }
 
-                                .alexis-togel-bonus-item::after {
+                                .ayuhoki-togel-bonus-item::after {
                                     content: "";
                                     position: absolute;
                                     inset: -15%;
@@ -5173,41 +5173,41 @@
                                     transform: rotate(-4deg) scale(1.1);
                                 }
 
-                                .alexis-togel-bonus-item>* {
+                                .ayuhoki-togel-bonus-item>* {
                                     position: relative;
                                     z-index: 3;
                                 }
 
-                                .alexis-togel-bonus-item p {
+                                .ayuhoki-togel-bonus-item p {
                                     margin: 0;
                                     font-size: 15px;
                                     font-weight: 600;
                                     color: #ffffff;
                                 }
 
-                                .alexis-togel-highlight-main {
+                                .ayuhoki-togel-highlight-main {
                                     color: #ffffff;
                                     font-weight: 700;
                                 }
 
-                                .alexis-togel-highlight-sub {
+                                .ayuhoki-togel-highlight-sub {
                                     color: #fff;
                                 }
 
                                 /* CTA buttons */
-                                .alexis-togel-cta {
+                                .ayuhoki-togel-cta {
                                     margin-top: 25px;
                                     text-align: center;
                                 }
 
-                                .alexis-togel-buttons {
+                                .ayuhoki-togel-buttons {
                                     display: flex;
                                     gap: 15px;
                                     justify-content: center;
                                     flex-wrap: wrap;
                                 }
 
-                                .alexis-togel-btn {
+                                .ayuhoki-togel-btn {
                                     display: inline-block;
                                     padding: 14px 42px;
                                     border-radius: 50px;
@@ -5220,23 +5220,23 @@
                                     min-width: 140px;
                                 }
 
-                                .alexis-togel-btn-login {
+                                .ayuhoki-togel-btn-login {
                                     background: linear-gradient(135deg, #8b0202, #000000);
                                     color: #fff1f1;
                                     border-color: rgba(255, 255, 255, 0.24);
                                 }
 
-                                .alexis-togel-btn-login:hover {
+                                .ayuhoki-togel-btn-login:hover {
                                     background: rgba(255, 255, 255, 0.10);
                                 }
 
-                                .alexis-togel-btn-register {
+                                .ayuhoki-togel-btn-register {
                                     background: linear-gradient(135deg, #8b0202, #000000);
                                     color: #ffffff;
                                     border-color: rgba(255, 255, 255, 0.18);
                                 }
 
-                                .alexis-togel-btn-register:hover {
+                                .ayuhoki-togel-btn-register:hover {
                                     background: linear-gradient(135deg, #ff5656, #9b000c);
                                 }
                             </style>
@@ -5297,81 +5297,81 @@
                                     opacity: 1 !important;
                                 }
                             </style>
-                            <div class="alexis-togel-card">
-                                <div class="alexis-togel-title">
+                            <div class="ayuhoki-togel-card">
+                                <div class="ayuhoki-togel-title">
                                     <h1>AYUHOKI 2026 – Platform Hiburan Digital Modern dengan Pengalaman Bermain yang Praktis & Nyaman
                                     </h1>
                                 </div>
 
-                                <div class="alexis-togel-info">
-                                    <div class="alexis-togel-info-head">
+                                <div class="ayuhoki-togel-info">
+                                    <div class="ayuhoki-togel-info-head">
                                         <h2>INFORMASI RESMI AYUHOKI X SBOBET</h2>
                                     </div>
 
-                                    <div class="alexis-togel-info-list">
-                                        <div class="alexis-togel-info-row">
-                                            <div class="alexis-togel-info-label">
-                                                <span class="alexis-togel-info-dot"></span>
-                                                <span class="alexis-togel-info-text">Penilaian Member</span>
+                                    <div class="ayuhoki-togel-info-list">
+                                        <div class="ayuhoki-togel-info-row">
+                                            <div class="ayuhoki-togel-info-label">
+                                                <span class="ayuhoki-togel-info-dot"></span>
+                                                <span class="ayuhoki-togel-info-text">Penilaian Member</span>
                                             </div>
-                                            <span class="alexis-togel-info-number">777.888.100</span>
+                                            <span class="ayuhoki-togel-info-number">777.888.100</span>
                                         </div>
 
-                                        <div class="alexis-togel-info-row">
-                                            <div class="alexis-togel-info-label">
-                                                <span class="alexis-togel-info-dot"></span>
-                                                <span class="alexis-togel-info-text">Sistem Pembayaran</span>
+                                        <div class="ayuhoki-togel-info-row">
+                                            <div class="ayuhoki-togel-info-label">
+                                                <span class="ayuhoki-togel-info-dot"></span>
+                                                <span class="ayuhoki-togel-info-text">Sistem Pembayaran</span>
                                             </div>
-                                            <span class="alexis-togel-info-number">Transfer Bank, Qris, DANA.</span>
+                                            <span class="ayuhoki-togel-info-number">Transfer Bank, Qris, DANA.</span>
                                         </div>
 
-                                        <div class="alexis-togel-info-row">
-                                            <div class="alexis-togel-info-label">
-                                                <span class="alexis-togel-info-dot"></span>
-                                                <span class="alexis-togel-info-text">Layanan Customer Service</span>
+                                        <div class="ayuhoki-togel-info-row">
+                                            <div class="ayuhoki-togel-info-label">
+                                                <span class="ayuhoki-togel-info-dot"></span>
+                                                <span class="ayuhoki-togel-info-text">Layanan Customer Service</span>
                                             </div>
-                                            <span class="alexis-togel-info-number">24 Jam</span>
+                                            <span class="ayuhoki-togel-info-number">24 Jam</span>
                                         </div>
 
-                                        <div class="alexis-togel-info-row">
-                                            <div class="alexis-togel-info-label">
-                                                <span class="alexis-togel-info-dot"></span>
-                                                <span class="alexis-togel-info-text">Platform</span>
+                                        <div class="ayuhoki-togel-info-row">
+                                            <div class="ayuhoki-togel-info-label">
+                                                <span class="ayuhoki-togel-info-dot"></span>
+                                                <span class="ayuhoki-togel-info-text">Platform</span>
                                             </div>
-                                            <span class="alexis-togel-info-number">User-Friendly</span>
+                                            <span class="ayuhoki-togel-info-number">User-Friendly</span>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="alexis-togel-bonus-wrap">
-                                    <div class="alexis-togel-bonus-head">
-                                        <span class="alexis-togel-icon"></span>
+                                <div class="ayuhoki-togel-bonus-wrap">
+                                    <div class="ayuhoki-togel-bonus-head">
+                                        <span class="ayuhoki-togel-icon"></span>
                                         <h3>PENAWARAN MENARIK</h3>
-                                        <span class="alexis-togel-icon"></span>
+                                        <span class="ayuhoki-togel-icon"></span>
                                     </div>
 
-                                    <div class="alexis-togel-bonus-list">
-                                        <div class="alexis-togel-bonus-item">
-                                            <p><span class="alexis-togel-highlight-main">BONUS DEPOSIT 100%</span>
+                                    <div class="ayuhoki-togel-bonus-list">
+                                        <div class="ayuhoki-togel-bonus-item">
+                                            <p><span class="ayuhoki-togel-highlight-main">BONUS DEPOSIT 100%</span>
                                             </p>
                                         </div>
-                                        <div class="alexis-togel-bonus-item">
-                                            <p><span class="alexis-togel-highlight-sub">PROMO FREESPIN 200X</span>
+                                        <div class="ayuhoki-togel-bonus-item">
+                                            <p><span class="ayuhoki-togel-highlight-sub">PROMO FREESPIN 200X</span>
                                             </p>
                                         </div>
-                                        <div class="alexis-togel-bonus-item">
-                                            <p><span class="alexis-togel-highlight-sub">DEPOSIT 5000 GRATIS
+                                        <div class="ayuhoki-togel-bonus-item">
+                                            <p><span class="ayuhoki-togel-highlight-sub">DEPOSIT 5000 GRATIS
                                                     HOODIE</span></p>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="alexis-togel-cta">
-                                    <div class="alexis-togel-buttons">
+                                <div class="ayuhoki-togel-cta">
+                                    <div class="ayuhoki-togel-buttons">
                                         <a href="https://ayuhoki-4zp.pages.dev/badaigila/amp" rel="nofollow noreferrer"
-                                            class="alexis-togel-btn alexis-togel-btn-login" title="Masuk akun">LOGIN</a>
+                                            class="ayuhoki-togel-btn ayuhoki-togel-btn-login" title="Masuk akun">LOGIN</a>
                                         <a href="https://ayuhoki-4zp.pages.dev/badaigila/amp" rel="nofollow noreferrer"
-                                            class="alexis-togel-btn alexis-togel-btn-register"
+                                            class="ayuhoki-togel-btn ayuhoki-togel-btn-register"
                                             title="Daftar sekarang">DAFTAR</a>
                                     </div>
                                 </div>
@@ -7505,40 +7505,40 @@
       </script>
                 <style>
                     :root {
-                        --alexis-togel-bg: #000000;
-                        --alexis-togel-card: #220003;
-                        --alexis-togel-card-2: #8b0202;
-                        --alexis-togel-text: #fff1f1;
-                        --alexis-togel-muted: #ffd0d0;
-                        --alexis-togel-border: rgba(255, 255, 255, 0.14);
-                        --alexis-togel-accent: #8b0202;
-                        --alexis-togel-accent-2: #8b0202;
-                        --alexis-togel-radius: 16px;
-                        --alexis-togel-shadow: 0 10px 28px rgba(80, 0, 0, .38);
+                        --ayuhoki-togel-bg: #000000;
+                        --ayuhoki-togel-card: #220003;
+                        --ayuhoki-togel-card-2: #8b0202;
+                        --ayuhoki-togel-text: #fff1f1;
+                        --ayuhoki-togel-muted: #ffd0d0;
+                        --ayuhoki-togel-border: rgba(255, 255, 255, 0.14);
+                        --ayuhoki-togel-accent: #8b0202;
+                        --ayuhoki-togel-accent-2: #8b0202;
+                        --ayuhoki-togel-radius: 16px;
+                        --ayuhoki-togel-shadow: 0 10px 28px rgba(80, 0, 0, .38);
                     }
 
-                    .alexis-togel-wrap {
+                    .ayuhoki-togel-wrap {
                         background: linear-gradient(180deg, #000000 0%, #000000 100%);
-                        color: var(--alexis-togel-text);
+                        color: var(--ayuhoki-togel-text);
                         font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Arial, sans-serif;
                     }
 
-                    .alexis-togel-container {
+                    .ayuhoki-togel-container {
                         max-width: 1425px;
                         margin: 0 auto;
                         padding: 0 16px 0;
                     }
 
-                    .alexis-togel-section {
+                    .ayuhoki-togel-section {
                         background: linear-gradient(135deg, #8b0202 0%, #8b0202 38%, #8b0202 100%);
-                        border: 1px solid var(--alexis-togel-border);
-                        border-radius: var(--alexis-togel-radius);
-                        box-shadow: var(--alexis-togel-shadow);
+                        border: 1px solid var(--ayuhoki-togel-border);
+                        border-radius: var(--ayuhoki-togel-radius);
+                        box-shadow: var(--ayuhoki-togel-shadow);
                         padding: 24px;
                         margin-bottom: 18px;
                     }
 
-                    .alexis-togel-head {
+                    .ayuhoki-togel-head {
                         display: flex;
                         align-items: center;
                         gap: 12px;
@@ -7546,34 +7546,34 @@
                         font-size: 22px;
                         line-height: 1.25;
                         letter-spacing: .2px;
-                        color: var(--alexis-togel-text);
+                        color: var(--ayuhoki-togel-text);
                     }
 
-                    .alexis-togel-head svg {
+                    .ayuhoki-togel-head svg {
                         width: 22px;
                         height: 22px;
                         flex: 0 0 auto;
                     }
 
-                    .alexis-togel-body {
-                        color: var(--alexis-togel-muted);
+                    .ayuhoki-togel-body {
+                        color: var(--ayuhoki-togel-muted);
                         font-size: 15.5px;
                         line-height: 1.7;
                     }
 
-                    .alexis-togel-body a {
+                    .ayuhoki-togel-body a {
                         color: #ffffff;
                         text-underline-offset: 3px;
                     }
 
-                    .alexis-togel-stats {
+                    .ayuhoki-togel-stats {
                         display: flex;
                         flex-wrap: wrap;
                         gap: 10px;
                         margin-top: 14px;
                     }
 
-                    .alexis-togel-pill {
+                    .ayuhoki-togel-pill {
                         display: inline-flex;
                         align-items: center;
                         gap: 8px;
@@ -7581,63 +7581,63 @@
                         padding: 8px 12px;
                         border-radius: 999px;
                         font-size: 13.5px;
-                        color: var(--alexis-togel-text);
+                        color: var(--ayuhoki-togel-text);
                         background: linear-gradient(180deg, rgba(255, 255, 255, .10), rgba(255, 255, 255, 0));
                     }
 
-                    .alexis-togel-pill svg {
+                    .ayuhoki-togel-pill svg {
                         width: 16px;
                         height: 16px;
                     }
 
-                    .alexis-togel-grid {
+                    .ayuhoki-togel-grid {
                         display: grid;
                         gap: 12px;
                         grid-template-columns: repeat(4, minmax(0, 1fr));
                     }
 
                     @media (max-width:980px) {
-                        .alexis-togel-grid {
+                        .ayuhoki-togel-grid {
                             grid-template-columns: repeat(2, minmax(0, 1fr));
                         }
                     }
 
                     @media (max-width:520px) {
-                        .alexis-togel-grid {
+                        .ayuhoki-togel-grid {
                             grid-template-columns: 1fr;
                         }
                     }
 
-                    .alexis-togel-feature {
+                    .ayuhoki-togel-feature {
                         padding: 18px;
-                        border: 1px solid var(--alexis-togel-border);
+                        border: 1px solid var(--ayuhoki-togel-border);
                         border-radius: 14px;
                         background: linear-gradient(135deg, #8b0202 0%, #8b0202 100%);
                     }
 
-                    .alexis-togel-feature h3 {
+                    .ayuhoki-togel-feature h3 {
                         margin: 0 0 6px 0;
                         font-size: 16.5px;
                         display: flex;
                         align-items: center;
                         gap: 8px;
-                        color: var(--alexis-togel-text);
+                        color: var(--ayuhoki-togel-text);
                     }
 
-                    .alexis-togel-feature p {
+                    .ayuhoki-togel-feature p {
                         margin: 0;
-                        color: var(--alexis-togel-muted);
+                        color: var(--ayuhoki-togel-muted);
                         font-size: 14.5px;
                         line-height: 1.65;
                     }
 
-                    .alexis-togel-icon {
+                    .ayuhoki-togel-icon {
                         width: 18px;
                         height: 18px;
-                        color: var(--alexis-togel-accent);
+                        color: var(--ayuhoki-togel-accent);
                     }
 
-                    .alexis-togel-steps {
+                    .ayuhoki-togel-steps {
                         counter-reset: step;
                         display: flex;
                         flex-direction: column;
@@ -7647,17 +7647,17 @@
                         list-style: none;
                     }
 
-                    .alexis-togel-step {
+                    .ayuhoki-togel-step {
                         display: flex;
                         gap: 12px;
                         align-items: flex-start;
-                        border: 1px solid var(--alexis-togel-border);
+                        border: 1px solid var(--ayuhoki-togel-border);
                         border-radius: 12px;
                         padding: 14px 16px;
                         background: linear-gradient(135deg, #8b0202 0%, #8b0202 100%);
                     }
 
-                    .alexis-togel-step::before {
+                    .ayuhoki-togel-step::before {
                         counter-increment: step;
                         content: counter(step);
                         flex: 0 0 32px;
@@ -7672,40 +7672,40 @@
                         border: 1px solid rgba(255, 255, 255, .18);
                     }
 
-                    .alexis-togel-cta {
+                    .ayuhoki-togel-cta {
                         display: flex;
                         flex-wrap: wrap;
                         gap: 10px;
                         margin-top: 14px;
                     }
 
-                    .alexis-togel-link-btn {
+                    .ayuhoki-togel-link-btn {
                         display: inline-block;
                         padding: 10px 16px;
                         border-radius: 10px;
                         text-decoration: none;
                         font-weight: 600;
                         line-height: 1;
-                        border: 1px solid var(--alexis-togel-border);
+                        border: 1px solid var(--ayuhoki-togel-border);
                     }
 
-                    .alexis-togel-link-btn--primary {
+                    .ayuhoki-togel-link-btn--primary {
                         background: linear-gradient(135deg, #8b0202, #000000);
                         color: #ffffff;
                         border-color: rgba(255, 255, 255, .18);
                     }
 
-                    .alexis-togel-link-btn--outline {
+                    .ayuhoki-togel-link-btn--outline {
                         background: transparent;
-                        color: var(--alexis-togel-text);
+                        color: var(--ayuhoki-togel-text);
                     }
 
-                    .alexis-togel-section+.alexis-togel-section {
+                    .ayuhoki-togel-section+.ayuhoki-togel-section {
                         margin-top: 14px;
                     }
 
                     /* Typography */
-                    .alexis-togel-title-main {
+                    .ayuhoki-togel-title-main {
                         font-size: 32px;
                         font-weight: 800;
                         text-align: center;
@@ -7714,7 +7714,7 @@
                         line-height: 1.4;
                     }
 
-                    .alexis-togel-title-section {
+                    .ayuhoki-togel-title-section {
                         font-size: 26px;
                         font-weight: 700;
                         color: #efb508;
@@ -7723,7 +7723,7 @@
                         padding-left: 15px;
                     }
 
-                    .alexis-togel-title-section::before {
+                    .ayuhoki-togel-title-section::before {
                         content: '';
                         position: absolute;
                         left: 0;
@@ -7734,21 +7734,21 @@
                         border-radius: 4px;
                     }
 
-                    .alexis-togel-title-sub {
+                    .ayuhoki-togel-title-sub {
                         font-size: 20px;
                         font-weight: 600;
                         color: #fff1f1;
                         margin: 20px 0 10px 0;
                     }
 
-                    .alexis-togel-paragraph {
+                    .ayuhoki-togel-paragraph {
                         color: #ffd0d0;
                         margin-bottom: 15px;
                         font-size: 16px;
                         text-align: justify;
                     }
 
-                    .alexis-togel-link {
+                    .ayuhoki-togel-link {
                         color: #ffffff;
                         text-decoration: none;
                         font-weight: 600;
@@ -7756,7 +7756,7 @@
                     }
 
                     /* Highlight box */
-                    .alexis-togel-highlight-box {
+                    .ayuhoki-togel-highlight-box {
                         border-radius: 16px;
                         padding: 25px;
                         margin: 30px 0;
@@ -7772,7 +7772,7 @@
                             0 10px 25px #eca200;
                     }
 
-                    .alexis-togel-highlight-box::before {
+                    .ayuhoki-togel-highlight-box::before {
                         content: "";
                         position: absolute;
                         inset: 0;
@@ -7798,7 +7798,7 @@
                                 rgba(255, 255, 255, 0) 100%);
                     }
 
-                    .alexis-togel-highlight-box::after {
+                    .ayuhoki-togel-highlight-box::after {
                         content: "";
                         position: absolute;
                         inset: -12%;
@@ -7824,7 +7824,7 @@
                         transform: rotate(-6deg) scale(1.15);
                     }
 
-                    .alexis-togel-highlight-box>* {
+                    .ayuhoki-togel-highlight-box>* {
                         position: relative;
                         z-index: 3;
                     }
@@ -7834,7 +7834,7 @@
 ========================= */
 
                     /* H1 Utama */
-                    .alexis-togel-title-main,
+                    .ayuhoki-togel-title-main,
                     h1 {
                         font-size: 32px;
                         font-weight: 800;
@@ -7846,7 +7846,7 @@
                     }
 
                     /* H2 Section */
-                    .alexis-togel-title-section,
+                    .ayuhoki-togel-title-section,
                     h2 {
                         font-size: 28px;
                         font-weight: 700;
@@ -7858,7 +7858,7 @@
                     }
 
                     /* H3 Sub Section */
-                    .alexis-togel-title-sub,
+                    .ayuhoki-togel-title-sub,
                     h3 {
                         font-size: 24px;
                         font-weight: 600;
@@ -7877,7 +7877,7 @@
                     }
 
                     /* Paragraph */
-                    .alexis-togel-paragraph,
+                    .ayuhoki-togel-paragraph,
                     p {
                         font-size: 16px;
                         line-height: 1.8;
@@ -7899,8 +7899,8 @@
                         margin-bottom: 8px;
                     }
 
-                    .alexis-togel-body a,
-                    .alexis-togel-paragraph a,
+                    .ayuhoki-togel-body a,
+                    .ayuhoki-togel-paragraph a,
                     p a {
                         color: #ffd700;
                         text-decoration: underline;
@@ -7909,21 +7909,21 @@
                         font-weight: 600;
                     }
 
-                    .alexis-togel-body a:hover,
-                    .alexis-togel-paragraph a:hover,
+                    .ayuhoki-togel-body a:hover,
+                    .ayuhoki-togel-paragraph a:hover,
                     p a:hover {
                         color: #ff01ea;
                     }
 
                     /* Info Cards */
-                    .alexis-togel-info-grid {
+                    .ayuhoki-togel-info-grid {
                         display: grid;
                         grid-template-columns: repeat(4, 1fr);
                         gap: 15px;
                         margin: 25px 0;
                     }
 
-                    .alexis-togel-info-card {
+                    .ayuhoki-togel-info-card {
                         background: linear-gradient(135deg, #8b0202 0%, #8b0202 100%);
                         border: 1px solid rgba(255, 255, 255, 0.14);
                         border-radius: 16px;
@@ -7932,7 +7932,7 @@
                         box-shadow: inset 0 1px 3px rgba(255, 255, 255, 0.08);
                     }
 
-                    .alexis-togel-info-card .alexis-togel-label {
+                    .ayuhoki-togel-info-card .ayuhoki-togel-label {
                         font-size: 14px;
                         color: #ffb508;
                         font-weight: 600;
@@ -7940,7 +7940,7 @@
                         letter-spacing: 0.5px;
                     }
 
-                    .alexis-togel-info-card .alexis-togel-value {
+                    .ayuhoki-togel-info-card .ayuhoki-togel-value {
                         font-size: 18px;
                         font-weight: 700;
                         color: #ffffff;
@@ -7948,11 +7948,11 @@
                     }
 
                     /* FAQ */
-                    .alexis-togel-faq-container {
+                    .ayuhoki-togel-faq-container {
                         margin: 30px 0;
                     }
 
-                    .alexis-togel-faq-item {
+                    .ayuhoki-togel-faq-item {
                         margin-bottom: 12px;
                         border: 1px solid rgba(255, 255, 255, 0.14);
                         border-radius: 16px;
@@ -7960,7 +7960,7 @@
                         background: #220003;
                     }
 
-                    .alexis-togel-faq-question {
+                    .ayuhoki-togel-faq-question {
                         width: 100%;
                         text-align: left;
                         padding: 18px 20px;
@@ -7976,17 +7976,17 @@
                         transition: all 0.2s ease;
                     }
 
-                    .alexis-togel-faq-question:hover {
+                    .ayuhoki-togel-faq-question:hover {
                         background: linear-gradient(135deg, #ff5656 0%, #d10010 45%, #4a0006 100%);
                     }
 
-                    .alexis-togel-faq-question .alexis-togel-faq-icon {
+                    .ayuhoki-togel-faq-question .ayuhoki-togel-faq-icon {
                         color: #fff1f1;
                         font-size: 22px;
                         font-weight: 400;
                     }
 
-                    .alexis-togel-faq-answer {
+                    .ayuhoki-togel-faq-answer {
                         padding: 0 20px;
                         max-height: 0;
                         overflow: hidden;
@@ -7994,29 +7994,29 @@
                         background: #220003;
                     }
 
-                    .alexis-togel-faq-answer p {
+                    .ayuhoki-togel-faq-answer p {
                         margin: 15px 0;
                         color: #ffd0d0;
                     }
 
-                    .alexis-togel-faq-answer.open {
+                    .ayuhoki-togel-faq-answer.open {
                         max-height: 200px;
                         padding: 0 20px;
                     }
 
                     /* Reviews */
-                    .alexis-togel-reviews-section {
+                    .ayuhoki-togel-reviews-section {
                         margin: 40px 0;
                     }
 
-                    .alexis-togel-reviews-grid {
+                    .ayuhoki-togel-reviews-grid {
                         display: grid;
                         grid-template-columns: repeat(3, 1fr);
                         gap: 20px;
                         margin-top: 25px;
                     }
 
-                    .alexis-togel-review-card {
+                    .ayuhoki-togel-review-card {
                         border-radius: 20px;
                         padding: 20px;
                         position: relative;
@@ -8031,7 +8031,7 @@
                             0 8px 18px rgba(0, 0, 0, 0.30);
                     }
 
-                    .alexis-togel-review-card::before {
+                    .ayuhoki-togel-review-card::before {
                         content: "";
                         position: absolute;
                         inset: 0;
@@ -8052,7 +8052,7 @@
                                 rgba(255, 255, 255, 0) 100%);
                     }
 
-                    .alexis-togel-review-card::after {
+                    .ayuhoki-togel-review-card::after {
                         content: "";
                         position: absolute;
                         inset: -12%;
@@ -8078,29 +8078,29 @@
                         transform: rotate(-5deg) scale(1.1);
                     }
 
-                    .alexis-togel-review-card>* {
+                    .ayuhoki-togel-review-card>* {
                         position: relative;
                         z-index: 3;
                     }
 
-                    .alexis-togel-review-header {
+                    .ayuhoki-togel-review-header {
                         display: flex;
                         justify-content: space-between;
                         align-items: center;
                         margin-bottom: 12px;
                     }
 
-                    .alexis-togel-review-name {
+                    .ayuhoki-togel-review-name {
                         font-weight: 700;
                         color: #ffffff;
                     }
 
-                    .alexis-togel-review-stars {
+                    .ayuhoki-togel-review-stars {
                         color: #ffd700;
                         letter-spacing: 2px;
                     }
 
-                    .alexis-togel-review-text {
+                    .ayuhoki-togel-review-text {
                         color: #fff1f1;
                         font-size: 14px;
                         line-height: 1.7;
@@ -8108,7 +8108,7 @@
                         font-style: italic;
                     }
 
-                    .alexis-togel-review-date {
+                    .ayuhoki-togel-review-date {
                         color: #ffd0d0;
                         font-size: 12px;
                         display: block;
@@ -8116,19 +8116,19 @@
                     }
 
                     /* CTA Buttons */
-                    .alexis-togel-cta-section {
+                    .ayuhoki-togel-cta-section {
                         text-align: center;
                         margin: 40px 0 20px;
                     }
 
-                    .alexis-togel-cta-buttons {
+                    .ayuhoki-togel-cta-buttons {
                         display: flex;
                         gap: 15px;
                         justify-content: center;
                         flex-wrap: wrap;
                     }
 
-                    .alexis-togel-btn {
+                    .ayuhoki-togel-btn {
                         display: inline-block;
                         padding: 14px 40px;
                         border-radius: 50px;
@@ -8141,28 +8141,28 @@
                         min-width: 150px;
                     }
 
-                    .alexis-togel-btn-login {
+                    .ayuhoki-togel-btn-login {
                         background: #000000;
                         color: #fff1f1;
                         border-color: #fdb806;
                     }
 
-                    .alexis-togel-btn-login:hover {
+                    .ayuhoki-togel-btn-login:hover {
                         background: rgba(255, 255, 255, 0.08);
                         border-color: rgba(255, 255, 255, 0.30);
                     }
 
-                    .alexis-togel-btn-register {
+                    .ayuhoki-togel-btn-register {
                         background: linear-gradient(180deg, #000000, #000000);
                         color: #ffffff;
                         border-color: #fdb806;
                     }
 
-                    .alexis-togel-btn-register:hover {
+                    .ayuhoki-togel-btn-register:hover {
                         background: linear-gradient(180deg, #000000, #fdb806);
                     }
 
-                    .alexis-togel-footer {
+                    .ayuhoki-togel-footer {
                         text-align: center;
                         margin-top: 30px;
                         padding-top: 20px;
@@ -8173,43 +8173,43 @@
 
                     /* Responsive */
                     @media (max-width: 768px) {
-                        .alexis-togel-container {
+                        .ayuhoki-togel-container {
                             padding: 0 12px;
                         }
 
-                        .alexis-togel-info-grid {
+                        .ayuhoki-togel-info-grid {
                             grid-template-columns: repeat(2, 1fr);
                         }
 
-                        .alexis-togel-reviews-grid {
+                        .ayuhoki-togel-reviews-grid {
                             grid-template-columns: 1fr;
                         }
 
-                        .alexis-togel-title-main {
+                        .ayuhoki-togel-title-main {
                             font-size: 24px;
                         }
                     }
                 </style>
-                <div class="alexis-togel-container">
-                    <h1 class="alexis-togel-title-main">AYUHOKI X SBOBET > Link Live Streaming Judi Bola Mix Parlay
+                <div class="ayuhoki-togel-container">
+                    <h1 class="ayuhoki-togel-title-main">AYUHOKI X SBOBET > Link Live Streaming Judi Bola Mix Parlay
                         PILDUN 2026</h1>
 
-                    <div class="alexis-togel-info-grid">
-                        <div class="alexis-togel-info-card">
-                            <div class="alexis-togel-label">Penilaian Pengguna</div>
-                            <div class="alexis-togel-value">9.888.777</div>
+                    <div class="ayuhoki-togel-info-grid">
+                        <div class="ayuhoki-togel-info-card">
+                            <div class="ayuhoki-togel-label">Penilaian Pengguna</div>
+                            <div class="ayuhoki-togel-value">9.888.777</div>
                         </div>
-                        <div class="alexis-togel-info-card">
-                            <div class="alexis-togel-label">Sistem Pembayaran</div>
-                            <div class="alexis-togel-value">Semua Metode</div>
+                        <div class="ayuhoki-togel-info-card">
+                            <div class="ayuhoki-togel-label">Sistem Pembayaran</div>
+                            <div class="ayuhoki-togel-value">Semua Metode</div>
                         </div>
-                        <div class="alexis-togel-info-card">
-                            <div class="alexis-togel-label">Layanan Support</div>
-                            <div class="alexis-togel-value">24 jam</div>
+                        <div class="ayuhoki-togel-info-card">
+                            <div class="ayuhoki-togel-label">Layanan Support</div>
+                            <div class="ayuhoki-togel-value">24 jam</div>
                         </div>
-                        <div class="alexis-togel-info-card">
-                            <div class="alexis-togel-label">Platform Populer</div>
-                            <div class="alexis-togel-value">AYUHOKI</div>
+                        <div class="ayuhoki-togel-info-card">
+                            <div class="ayuhoki-togel-label">Platform Populer</div>
+                            <div class="ayuhoki-togel-value">AYUHOKI</div>
                         </div>
                     </div>
 
@@ -8217,7 +8217,7 @@
                             scrolling="auto" loading="lazy">
                         </iframe></center>
 
-                    <div class="alexis-togel-highlight-box">
+                    <div class="ayuhoki-togel-highlight-box">
                         <p>Piala Dunia 2026 menjadi salah satu turnamen sepak bola yang paling dinantikan karena
                             menghadirkan lebih banyak peserta, pertandingan menarik, dan persaingan ketat antarnegara.
                             Melalui&nbsp;<strong><a title="AYUHOKI X SBOBET"
@@ -8268,123 +8268,123 @@
                             dikenal.</p>
                     </div>
 
-                    <h2 class="alexis-togel-title-section">TOP REVIEW MEMBER AYUHOKI</h2>
+                    <h2 class="ayuhoki-togel-title-section">TOP REVIEW MEMBER AYUHOKI</h2>
 
-                    <div class="alexis-togel-reviews-grid">
-                        <div class="alexis-togel-review-card">
-                            <div class="alexis-togel-review-header">
-                                <span class="alexis-togel-review-name">Andika Pratama</span>
-                                <span class="alexis-togel-review-stars">★★★★★</span>
+                    <div class="ayuhoki-togel-reviews-grid">
+                        <div class="ayuhoki-togel-review-card">
+                            <div class="ayuhoki-togel-review-header">
+                                <span class="ayuhoki-togel-review-name">Andika Pratama</span>
+                                <span class="ayuhoki-togel-review-stars">★★★★★</span>
                             </div>
-                            <p class="alexis-togel-review-text">"AYUHOKI X SBOBET memberikan pengalaman yang praktis
+                            <p class="ayuhoki-togel-review-text">"AYUHOKI X SBOBET memberikan pengalaman yang praktis
                                 ketika saya ingin mengikuti pertandingan Piala Dunia 2026. Fitur live streaming mudah
                                 ditemukan, tampilan jadwal pertandingan terlihat jelas, dan pilihan mix parlay tersusun
                                 rapi sehingga saya lebih mudah memeriksa setiap laga sebelum menentukan pilihan."</p>
-                            <span class="alexis-togel-review-date">30 Juni 2026</span>
+                            <span class="ayuhoki-togel-review-date">30 Juni 2026</span>
                         </div>
 
-                        <div class="alexis-togel-review-card">
-                            <div class="alexis-togel-review-header">
-                                <span class="alexis-togel-review-name">Rizky Mahendra</span>
-                                <span class="alexis-togel-review-stars">★★★★☆</span>
+                        <div class="ayuhoki-togel-review-card">
+                            <div class="ayuhoki-togel-review-header">
+                                <span class="ayuhoki-togel-review-name">Rizky Mahendra</span>
+                                <span class="ayuhoki-togel-review-stars">★★★★☆</span>
                             </div>
-                            <p class="alexis-togel-review-text">"Saya menyukai tampilan AYUHOKI X SBOBET karena
+                            <p class="ayuhoki-togel-review-text">"Saya menyukai tampilan AYUHOKI X SBOBET karena
                                 akses menuju live streaming pertandingan bola terasa cepat dan tidak membingungkan.
                                 Informasi tim, jadwal kick-off, serta pilihan pasar taruhan tersedia dalam satu halaman.
                                 Hal ini membuat pengalaman mengikuti pertandingan PILDUN 2026 terasa lebih nyaman dan
                                 terorganisasi."</p>
-                            <span class="alexis-togel-review-date">29 Juni 2026</span>
+                            <span class="ayuhoki-togel-review-date">29 Juni 2026</span>
                         </div>
 
-                        <div class="alexis-togel-review-card">
-                            <div class="alexis-togel-review-header">
-                                <span class="alexis-togel-review-name">Fernando Wijaya</span>
-                                <span class="alexis-togel-review-stars">★★★★★</span>
+                        <div class="ayuhoki-togel-review-card">
+                            <div class="ayuhoki-togel-review-header">
+                                <span class="ayuhoki-togel-review-name">Fernando Wijaya</span>
+                                <span class="ayuhoki-togel-review-stars">★★★★★</span>
                             </div>
-                            <p class="alexis-togel-review-text">"Menurut saya, keunggulan AYUHOKI X SBOBET terletak
+                            <p class="ayuhoki-togel-review-text">"Menurut saya, keunggulan AYUHOKI X SBOBET terletak
                                 pada kemudahan akses melalui perangkat seluler. Saya dapat melihat pertandingan,
                                 memeriksa statistik tim, dan menyusun pilihan mix parlay tanpa harus membuka banyak
                                 halaman. Navigasinya cukup responsif dan informasi pertandingan Piala Dunia 2026 mudah
                                 dipahami."</p>
-                            <span class="alexis-togel-review-date">28 Juni 2026</span>
+                            <span class="ayuhoki-togel-review-date">28 Juni 2026</span>
                         </div>
 
-                        <div class="alexis-togel-review-card">
-                            <div class="alexis-togel-review-header">
-                                <span class="alexis-togel-review-name">Dimas Saputra</span>
-                                <span class="alexis-togel-review-stars">★★★★★</span>
+                        <div class="ayuhoki-togel-review-card">
+                            <div class="ayuhoki-togel-review-header">
+                                <span class="ayuhoki-togel-review-name">Dimas Saputra</span>
+                                <span class="ayuhoki-togel-review-stars">★★★★★</span>
                             </div>
-                            <p class="alexis-togel-review-text">"Selama menggunakan AYUHOKI X SBOBET, saya merasa
+                            <p class="ayuhoki-togel-review-text">"Selama menggunakan AYUHOKI X SBOBET, saya merasa
                                 fitur live streaming sangat membantu untuk memantau jalannya pertandingan secara
                                 langsung. Pilihan judi bola dan mix parlay juga ditampilkan dengan keterangan yang cukup
                                 lengkap. Saya tetap memeriksa statistik serta kondisi pemain sebelum menentukan
                                 pertandingan yang akan dipilih."</p>
-                            <span class="alexis-togel-review-date">27 Juni 2026</span>
+                            <span class="ayuhoki-togel-review-date">27 Juni 2026</span>
                         </div>
-                        <div class="alexis-togel-review-card">
-                            <div class="alexis-togel-review-header">
-                                <span class="alexis-togel-review-name">Reza Kurniawan</span>
-                                <span class="alexis-togel-review-stars">★★★★★</span>
+                        <div class="ayuhoki-togel-review-card">
+                            <div class="ayuhoki-togel-review-header">
+                                <span class="ayuhoki-togel-review-name">Reza Kurniawan</span>
+                                <span class="ayuhoki-togel-review-stars">★★★★★</span>
                             </div>
-                            <p class="alexis-togel-review-text">"AYUHOKI X SBOBET cocok bagi penggemar sepak bola
+                            <p class="ayuhoki-togel-review-text">"AYUHOKI X SBOBET cocok bagi penggemar sepak bola
                                 yang ingin memperoleh informasi PILDUN 2026 secara praktis. Jadwal laga, skor
                                 pertandingan, live streaming, serta pilihan mix parlay dapat ditemukan dengan cepat.
                                 Tampilan situsnya juga sederhana sehingga pengguna baru tidak membutuhkan waktu lama
                                 untuk memahami setiap menunya."</p>
-                            <span class="alexis-togel-review-date">26 Juni 2026</span>
+                            <span class="ayuhoki-togel-review-date">26 Juni 2026</span>
                         </div>
-                        <div class="alexis-togel-review-card">
-                            <div class="alexis-togel-review-header">
-                                <span class="alexis-togel-review-name">Kevin Santoso</span>
-                                <span class="alexis-togel-review-stars">★★★★★</span>
+                        <div class="ayuhoki-togel-review-card">
+                            <div class="ayuhoki-togel-review-header">
+                                <span class="ayuhoki-togel-review-name">Kevin Santoso</span>
+                                <span class="ayuhoki-togel-review-stars">★★★★★</span>
                             </div>
-                            <p class="alexis-togel-review-text">"Saya tertarik menggunakan AYUHOKI X SBOBET karena
+                            <p class="ayuhoki-togel-review-text">"Saya tertarik menggunakan AYUHOKI X SBOBET karena
                                 menyediakan akses pertandingan Piala Dunia 2026 dalam satu platform. Kualitas tampilan
                                 live streaming cukup nyaman ketika koneksi internet stabil. Selain itu, daftar
                                 pertandingan dan pilihan mix parlay disusun berdasarkan jadwal sehingga lebih mudah
                                 diperiksa sebelum laga dimulai."</p>
-                            <span class="alexis-togel-review-date">25 Juni 2026</span>
+                            <span class="ayuhoki-togel-review-date">25 Juni 2026</span>
                         </div>
-                        <div class="alexis-togel-review-card">
-                            <div class="alexis-togel-review-header">
-                                <span class="alexis-togel-review-name">Bagas Ramadhan</span>
-                                <span class="alexis-togel-review-stars">★★★★★</span>
+                        <div class="ayuhoki-togel-review-card">
+                            <div class="ayuhoki-togel-review-header">
+                                <span class="ayuhoki-togel-review-name">Bagas Ramadhan</span>
+                                <span class="ayuhoki-togel-review-stars">★★★★★</span>
                             </div>
-                            <p class="alexis-togel-review-text">"Pengalaman mengikuti pertandingan melalui AYUHOKI X
+                            <p class="ayuhoki-togel-review-text">"Pengalaman mengikuti pertandingan melalui AYUHOKI X
                                 SBOBET terasa menyenangkan karena saya dapat melihat siaran langsung sekaligus memeriksa
                                 informasi pasar judi bola. Fitur mix parlay mudah digunakan, tetapi saya tetap memilih
                                 pertandingan secara terbatas dan menyesuaikan anggaran agar aktivitas bermain tetap
                                 terkendali serta tidak berlebihan."</p>
-                            <span class="alexis-togel-review-date">24 Juni 2026</span>
+                            <span class="ayuhoki-togel-review-date">24 Juni 2026</span>
                         </div>
-                        <div class="alexis-togel-review-card">
-                            <div class="alexis-togel-review-header">
-                                <span class="alexis-togel-review-name">Adrian Gunawan</span>
-                                <span class="alexis-togel-review-stars">★★★★★</span>
+                        <div class="ayuhoki-togel-review-card">
+                            <div class="ayuhoki-togel-review-header">
+                                <span class="ayuhoki-togel-review-name">Adrian Gunawan</span>
+                                <span class="ayuhoki-togel-review-stars">★★★★★</span>
                             </div>
-                            <p class="alexis-togel-review-text">"Hal yang paling saya sukai dari AYUHOKI X SBOBET
+                            <p class="ayuhoki-togel-review-text">"Hal yang paling saya sukai dari AYUHOKI X SBOBET
                                 adalah tampilannya yang responsif saat dibuka melalui ponsel. Menu live streaming,
                                 jadwal PILDUN 2026, statistik pertandingan, dan pilihan mix parlay dapat diakses tanpa
                                 proses rumit. Informasinya membantu saya mengikuti laga favorit secara lebih terarah."
                             </p>
-                            <span class="alexis-togel-review-date">23 Juni 2026</span>
+                            <span class="ayuhoki-togel-review-date">23 Juni 2026</span>
                         </div>
-                        <div class="alexis-togel-review-card">
-                            <div class="alexis-togel-review-header">
-                                <span class="alexis-togel-review-name">Fajar Nugroho</span>
-                                <span class="alexis-togel-review-stars">★★★★★</span>
+                        <div class="ayuhoki-togel-review-card">
+                            <div class="ayuhoki-togel-review-header">
+                                <span class="ayuhoki-togel-review-name">Fajar Nugroho</span>
+                                <span class="ayuhoki-togel-review-stars">★★★★★</span>
                             </div>
-                            <p class="alexis-togel-review-text">"AYUHOKI X SBOBET menghadirkan kombinasi fitur yang
+                            <p class="ayuhoki-togel-review-text">"AYUHOKI X SBOBET menghadirkan kombinasi fitur yang
                                 cukup lengkap bagi pencinta pertandingan bola. Saya dapat menyaksikan live streaming,
                                 mengikuti perubahan skor, serta melihat pilihan mix parlay untuk berbagai laga Piala
                                 Dunia 2026. Seluruh menu tertata dengan baik dan proses navigasinya terasa cepat serta
                                 praktis."</p>
-                            <span class="alexis-togel-review-date">22 Juni 2026</span>
+                            <span class="ayuhoki-togel-review-date">22 Juni 2026</span>
                         </div>
 
                     </div>
 
-                    <div class="alexis-togel-footer">
+                    <div class="ayuhoki-togel-footer">
                         © 2026 AYUHOKI. All rights reserved.
                     </div>
                 </div>
