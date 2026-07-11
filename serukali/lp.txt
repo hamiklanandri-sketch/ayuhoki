@@ -11031,7 +11031,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <div class="info-grid">
           <div class="info-card">
             <div class="label">Penilaian Pengguna</div>
-            <div class="value">5 JUTA PENGGUNA</div>
+            <div class="value">7 JUTA PENGGUNA</div>
           </div>
 
           <div class="info-card">
