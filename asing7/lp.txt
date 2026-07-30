@@ -10,8 +10,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
   <meta name="format-detection" content="telephone=no" />
   <title>AYUHOKI - Link Utama Wadah Toto Gelap Resmi 2026</title>
-  <meta property="og:image" content="https://ayuhoki-4zp.pages.dev/ayuhoki/12c93c2a-87d3-4771-9e96-5ae0b5786e77.png" />
-  <meta property="og:image:secure_url" content="https://ayuhoki-4zp.pages.dev/ayuhoki/12c93c2a-87d3-4771-9e96-5ae0b5786e77.png" />
+  <meta property="og:image" content="https://ayuhoki-images.pages.dev/ayuhoki/wadah-toto-gelap.png" />
+  <meta property="og:image:secure_url" content="https://ayuhoki-images.pages.dev/ayuhoki/wadah-toto-gelap.png" />
   <meta property="og:url" content="https://ayuhoki999.com/"/>
   <meta property="og:canonical" content="https://ayuhoki999.com/"/>
   <meta property="og:author" content="https://ayuhoki999.com/"/>
@@ -46,8 +46,8 @@
   <link rel="preload" as="font" crossorigin="anonymous" href="https://www.footlocker.id/static/version1767024442/frontend/Footlocker/default/id_ID/WeltPixel_DesignElements/fonts/font-icons.woff2" />
   <link rel="canonical" href="https://ayuhoki999.com/"/>
   <link rel="alternate" hreflang="x-default" href="https://ayuhoki999.com/"/>
-  <link rel="icon" type="image/x-icon" href="https://ayuhoki.dataklmsad902.site/images/setting-favicon/1/h2uzcy0rjDOsvnZL.png?s=1f15b8c524ca2d273a018abf9ef267a9" />
-  <link rel="shortcut icon" type="image/x-icon" href="https://ayuhoki.dataklmsad902.site/images/setting-favicon/1/h2uzcy0rjDOsvnZL.png?s=1f15b8c524ca2d273a018abf9ef267a9" />
+  <link rel="icon" type="image/x-icon" href="https://ayu-hoki.pages.dev/ayuhoki/image-icon.png" />
+  <link rel="shortcut icon" type="image/x-icon" href="https://ayu-hoki.pages.dev/ayuhoki/image-icon.png" />
   <style type="text/css">
     html .cms-index-index #maincontent .custom-slider {
       display: block !important;
@@ -1120,7 +1120,7 @@ Color Disclaimer:
 
 Actual colors may vary. This is due to the fact that every computer monitor has a different capability to display colors, we cannot guarantee that the color you see accurately portrays the true color of the product.
 " />
-  <meta name="twitter:image" content="https://ayuhoki-4zp.pages.dev/ayuhoki/12c93c2a-87d3-4771-9e96-5ae0b5786e77.png" />
+  <meta name="twitter:image" content="https://ayuhoki-images.pages.dev/ayuhoki/wadah-toto-gelap.png" />
   <meta name="twitter:data1" content="IDR15000.00" />
   <meta name="twitter:label1" content="PRICE" />
   <meta name="twitter:data2" content="ID" />
@@ -1130,7 +1130,7 @@ Actual colors may vary. This is due to the fact that every computer monitor has 
   <meta property="og:site_name" content="" />
   <meta property="og:type" content="product" />
   <meta property="og:title" content="AYUHOKI - Link Utama Wadah Toto Gelap Resmi 2026" />
-  <meta property="og:image" content="https://ayuhoki-4zp.pages.dev/ayuhoki/12c93c2a-87d3-4771-9e96-5ae0b5786e77.png" />
+  <meta property="og:image" content="https://ayuhoki-images.pages.dev/ayuhoki/wadah-toto-gelap.png" />
   <meta property="og:description" content="A mid-depth cap with classic style for any occasion, this Nike Club Cap comes in smooth cotton twill that's been softly washed for casual, daily comfort. Soft and unstructured, the precurved bill makes for easy styling, and the adjustable back-strap lets you find the right fit.
 
 
@@ -1827,7 +1827,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
               <div class="col-md-offset-0 col-md-2 col-xs-7 col-lg-2 col-sm-offset-0 col-sm-7 h-logo responsive-main-header">
                 <span class="action nav-toggle"><span>Toggle Nav</span></span>
                 <a class="logo" href="https://ayuhoki999.com/"title="" aria-label="store logo">
-                  <img src="https://ayuhoki-4zp.pages.dev/ayuhoki/XY0LFluChP1ZcD2w.gif" title="" alt="AYUHOKI logo" width="170" />
+                  <img src="https://logoayuhoki.pages.dev/ayuhoki/logo-ayuhoki.gif" title="" alt="AYUHOKI logo" width="170" />
                 </a>
               </div>
               <div class="col-md-2 col-xs-5 col-sm-5 h-panel main-header-right">
@@ -4459,8 +4459,8 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                 left: 0px;
                                 transition-duration: 0ms;
                                 opacity: 1;
-                              " data-active="true" href="https://ayuhoki-4zp.pages.dev/ayuhoki/12c93c2a-87d3-4771-9e96-5ae0b5786e77.png">
-                            <img src="https://ayuhoki-4zp.pages.dev/ayuhoki/12c93c2a-87d3-4771-9e96-5ae0b5786e77.png" alt="AYUHOKI" class="fotorama__img" aria-hidden="false" />
+                              " data-active="true" href="https://ayuhoki-images.pages.dev/ayuhoki/wadah-toto-gelap.png">
+                            <img src="https://ayuhoki-images.pages.dev/ayuhoki/wadah-toto-gelap.png" alt="AYUHOKI" class="fotorama__img" aria-hidden="false" />
                           </div>
                           <div class="fotorama__stage__frame fotorama_vertical_ratio fotorama__loaded fotorama__loaded--img" aria-hidden="true" style="left: 0px; transition-duration: 0ms" href="https://www.footlocker.id/media/catalog/product/cache/f57d6f7ebc711fc328170f0ddc174b08/0/2/02-NIKE-EC51ANIK5-NIKFB5368011-Black.jpg">
                             <img src="https://www.footlocker.id/media/catalog/product/cache/f57d6f7ebc711fc328170f0ddc174b08/0/2/02-NIKE-EC51ANIK5-NIKFB5368011-Black.jpg" alt="AYUHOKI" class="fotorama__img" aria-hidden="false" />
@@ -4491,12 +4491,12 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                 "></div>
                             <div class="fotorama__nav__frame fotorama__nav__frame--thumb fotorama__active hidden" tabindex="0" role="button" data-gallery-role="nav-frame" data-nav-type="thumb" aria-label="AYUHOKI" style="width: 80px" data-active="true">
                               <div class="fotorama__thumb fotorama_vertical_ratio fotorama__loaded fotorama__loaded--img">
-                                <img src="https://ayuhoki-4zp.pages.dev/ayuhoki/12c93c2a-87d3-4771-9e96-5ae0b5786e77.png" alt="AYUHOKI" class="fotorama__img" aria-hidden="false" />
+                                <img src="https://ayuhoki-images.pages.dev/ayuhoki/wadah-toto-gelap.png" alt="AYUHOKI" class="fotorama__img" aria-hidden="false" />
                               </div>
                             </div>
                             <div class="fotorama__nav__frame fotorama__nav__frame--thumb" tabindex="0" role="button" data-gallery-role="nav-frame" data-nav-type="thumb" aria-label="AYUHOKI" style="width: 80px">
                               <div class="fotorama__thumb fotorama_vertical_ratio fotorama__loaded fotorama__loaded--img">
-                                <img src="https://ayuhoki-4zp.pages.dev/ayuhoki/12c93c2a-87d3-4771-9e96-5ae0b5786e77.png" alt="AYUHOKI" class="fotorama__img" aria-hidden="false" />
+                                <img src="https://ayuhoki-images.pages.dev/ayuhoki/wadah-toto-gelap.png" alt="AYUHOKI" class="fotorama__img" aria-hidden="false" />
                               </div>
                             </div>
                           </div>
@@ -5913,7 +5913,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
   <div class="review-card">
     <div class="review-top">
       <div class="review-avatar">
-        <img src="https://ayuhoki.dataklmsad902.site/images/setting-favicon/1/h2uzcy0rjDOsvnZL.png?s=1f15b8c524ca2d273a018abf9ef267a9" alt="User Avatar">
+        <img src="https://ayu-hoki.pages.dev/ayuhoki/image-icon.png" alt="User Avatar">
       </div>
 
       <div class="review-user">
@@ -5934,7 +5934,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
   <div class="review-card">
     <div class="review-top">
       <div class="review-avatar">
-        <img src="https://ayuhoki.dataklmsad902.site/images/setting-favicon/1/h2uzcy0rjDOsvnZL.png?s=1f15b8c524ca2d273a018abf9ef267a9" alt="User Avatar">
+        <img src="https://ayu-hoki.pages.dev/ayuhoki/image-icon.png" alt="User Avatar">
       </div>
 
       <div class="review-user">
@@ -5955,7 +5955,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
   <div class="review-card">
     <div class="review-top">
       <div class="review-avatar">
-        <img src="https://ayuhoki.dataklmsad902.site/images/setting-favicon/1/h2uzcy0rjDOsvnZL.png?s=1f15b8c524ca2d273a018abf9ef267a9" alt="User Avatar">
+        <img src="https://ayu-hoki.pages.dev/ayuhoki/image-icon.png" alt="User Avatar">
       </div>
 
       <div class="review-user">
@@ -7196,7 +7196,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             </style>
             <div style="text-align:center;">
   <img 
-    src="https://ayuhoki.dataklmsad902.site/images/setting-favicon/1/h2uzcy0rjDOsvnZL.png?s=1f15b8c524ca2d273a018abf9ef267a9" 
+    src="https://ayu-hoki.pages.dev/ayuhoki/image-icon.png" 
     alt="AYUHOKI - Link Utama Wadah Toto Gelap Resmi 2026"
     style="
       width:50px;
@@ -7226,7 +7226,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         <div class="sticky-cart-content">
           <div class="sticky-ung-content">
             <div class="sticky-img">
-              <img class="stickyImg" src="https://ayuhoki-4zp.pages.dev/ayuhoki/12c93c2a-87d3-4771-9e96-5ae0b5786e77.png" />
+              <img class="stickyImg" src="https://ayuhoki-images.pages.dev/ayuhoki/wadah-toto-gelap.png" />
             </div>
             <div class="sticky-name">
               <div class="sticky-product-name"> AYUHOKI - Link Utama Wadah Toto Gelap Resmi 2026 </div>
@@ -7548,7 +7548,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "@type": "Product",
         "name": "AYUHOKI - Link Utama Wadah Toto Gelap Resmi 2026",
         "description": "AYUHOKI merupakan link utama wadah toto gelap resmi dengan tampilan situs yang elegan, proses transaksi cepat, serta keamanan data yang terjamin 100%.",
-        "image": "https://ayuhoki-4zp.pages.dev/ayuhoki/12c93c2a-87d3-4771-9e96-5ae0b5786e77.png",
+        "image": "https://ayuhoki-images.pages.dev/ayuhoki/wadah-toto-gelap.png",
         "offers": {
           "@type": "http:\/\/schema.org\/Offer",
           "price": 7777,
@@ -7577,7 +7577,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "name": "AYUHOKI - Link Utama Wadah Toto Gelap Resmi 2026",
         "url": "https://ayuhoki999.com/",
         "sku": "SITUS-TOTO",
-        "image": ["https://ayuhoki.dataklmsad902.site/images/setting-favicon/1/h2uzcy0rjDOsvnZL.png?s=1f15b8c524ca2d273a018abf9ef267a9"],
+        "image": ["https://ayu-hoki.pages.dev/ayuhoki/image-icon.png"],
         "description": "AYUHOKI merupakan link utama wadah toto gelap resmi dengan tampilan situs yang elegan, proses transaksi cepat, serta keamanan data yang terjamin 100%.",
         "brand": {
           "@type": "Organization",
@@ -7598,7 +7598,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "AYUHOKI - Link Utama Wadah Toto Gelap Resmi 2026",
-        "image": "https://ayuhoki-4zp.pages.dev/ayuhoki/12c93c2a-87d3-4771-9e96-5ae0b5786e77.png",
+        "image": "https://ayuhoki-images.pages.dev/ayuhoki/wadah-toto-gelap.png",
         "description": "AYUHOKI merupakan link utama wadah toto gelap resmi dengan tampilan situs yang elegan, proses transaksi cepat, serta keamanan data yang terjamin 100%.",
         "sku": "TOTO ONLINE",
         "offers": {
