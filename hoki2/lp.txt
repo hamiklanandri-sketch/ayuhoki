@@ -187,7 +187,7 @@
   "@type": "Organization",
   "name": "AYUHOKI",
   "url": "https://ayuhoki999.com/",
-  "logo": "https://AYUHOKI.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp",
+  "logo": "https://logoayuhoki.pages.dev/ayuhoki/logo-ayuhoki.gif",
   "sameAs": [
     "https://www.facebook.com/AYUHOKI",
     "https://twitter.com/AYUHOKI",
@@ -1625,7 +1625,7 @@
                     <div class="header-mini__logo" bis_skin_checked="1">
                         <a href="https://ayuhoki999.com/">
                             <img alt="Logo Baru"
-                                src="https://AYUHOKI.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp"
+                                src="https://logoayuhoki.pages.dev/ayuhoki/logo-ayuhoki.gif"
                                 style="height:40px; width:auto; display:inline-block;">
                         </a>
                     </div>
