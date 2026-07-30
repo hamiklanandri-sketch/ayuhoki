@@ -14,10 +14,10 @@
 	 <meta content='index, follow, nosnippet' name='robots'>
 	<link rel="preconnect" href="https://cdn.shopify.com" crossorigin="">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin="">
-	<link rel="shortcut icon" href="https://ayuhoki.dataklmsad902.site/images/setting-favicon/1/h2uzcy0rjDOsvnZL.png?s=1f15b8c524ca2d273a018abf9ef267a9">
-	<link rel="icon" type="image/webp" sizes="32x32" href="https://ayuhoki.dataklmsad902.site/images/setting-favicon/1/h2uzcy0rjDOsvnZL.png?s=1f15b8c524ca2d273a018abf9ef267a9">
-	<link rel="icon" type="image/webp" sizes="16x16" href="https://ayuhoki.dataklmsad902.site/images/setting-favicon/1/h2uzcy0rjDOsvnZL.png?s=1f15b8c524ca2d273a018abf9ef267a9">
-	<link rel="apple-touch-icon" sizes="180x180" href="https://ayuhoki.dataklmsad902.site/images/setting-favicon/1/h2uzcy0rjDOsvnZL.png?s=1f15b8c524ca2d273a018abf9ef267a9">
+	<link rel="shortcut icon" href="https://ayu-hoki.pages.dev/ayuhoki/image-icon.png">
+	<link rel="icon" type="image/webp" sizes="32x32" href="https://ayu-hoki.pages.dev/ayuhoki/image-icon.png">
+	<link rel="icon" type="image/webp" sizes="16x16" href="https://ayu-hoki.pages.dev/ayuhoki/image-icon.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://ayu-hoki.pages.dev/ayuhoki/image-icon.png">
 	<title>AYUHOKI - Platform Login VIP Slot Online Slot88 Server Thailand 2026</title>
 	<meta name="description" content="Ayuhoki adalah Platform login vip slot online slot88 server Thailand 2026 yang menawarkan akses yang cepat, antarmuka yang ramah pengguna, serta pembaruan informasi yang dilakukan secara berkala." />
 	<meta property="og:site_name" content="AYUHOKI" />
@@ -25,8 +25,8 @@
 	<meta property="og:title" content="AYUHOKI - Platform Login VIP Slot Online Slot88 Server Thailand 2026" />
 	<meta property="og:type" content="product" />
 	<meta property="og:description" content="Ayuhoki adalah Platform login vip slot online slot88 server Thailand 2026 yang menawarkan akses yang cepat, antarmuka yang ramah pengguna, serta pembaruan informasi yang dilakukan secara berkala." />
-	<meta property="og:image" content="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png" />
-	<meta property="og:image:secure_url" content="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png" />
+	<meta property="og:image" content="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png" />
+	<meta property="og:image:secure_url" content="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png" />
 	<meta property="og:image:width" content="600" />
 	<meta property="og:image:height" content="600" />
 	<meta property="og:price:amount" content="1.00" />
@@ -137,8 +137,8 @@
     {
       "@type": "ImageObject",
       "author": "AYUHOKI",
-      "contentUrl": "https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png",
-      "thumbnailUrl": "https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png"
+      "contentUrl": "https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png",
+      "thumbnailUrl": "https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png"
     }
   ],
   "category": "Android Game < Situs Slot < Slot Gacor",
@@ -146,7 +146,7 @@
     "@type": "Brand",
     "name": "AYUHOKI"
   },
-  "logo": "https://ayuhoki.dataklmsad902.site/images/setting-favicon/1/h2uzcy0rjDOsvnZL.png?s=1f15b8c524ca2d273a018abf9ef267a9",
+  "logo": "https://ayu-hoki.pages.dev/ayuhoki/image-icon.png",
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
@@ -209,8 +209,8 @@
   "name": "AYUHOKI - Platform Login VIP Slot Online Slot88 Server Thailand 2026",
   "description": "Ayuhoki adalah Platform login vip slot online slot88 server Thailand 2026 yang menawarkan akses yang cepat, antarmuka yang ramah pengguna, serta pembaruan informasi yang dilakukan secara berkala.",
   "thumbnailUrl": [
-    "https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png",
-    "https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png"
+    "https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png",
+    "https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png"
   ],
   "uploadDate": "2024-09-28T04:19:10-04:00",
   "duration": "PT18S"
@@ -293,7 +293,7 @@
       "@id": "https://ayuhoki999.com/#org",
       "name": "AYUHOKI",
       "url": "https://ayuhoki999.com/",
-      "logo": "https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png"
+      "logo": "https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png"
     },
     {
       "@type": "WebSite",
@@ -1473,7 +1473,7 @@
                      <a href="https://ayuhoki999.com/" target="_blank" rel="nofollow noopener noreferrer" class="header__heading-link link link--text focus-inset" aria-label="Home">
                         <div class="ratio" style="--ratio-percent: 25.875000000000004%">
                            <img
-                              src="https://ayuhoki-4zp.pages.dev/ayuhoki/XY0LFluChP1ZcD2w.gif"
+                              src="https://logoayuhoki.pages.dev/ayuhoki/logo-ayuhoki.gif"
                               loading="lazy"
                               class="header__heading-logo company_logo ratio"
                               width="700"
@@ -1996,8 +1996,8 @@
                         style="--ratio-percent: 100%;"
                         >
                         <img
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png"
                            sizes="(max-width): 90px,(max-width): 180px,100vw"
                            height="84"
                            width="84"
@@ -2028,8 +2028,8 @@
                         style="--ratio-percent: 100%;"
                         >
                         <img
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757657995&width=100"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757657995&width=100"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png"
                            sizes="(max-width): 90px,(max-width): 180px,100vw"
                            height="84"
                            width="84"
@@ -2060,8 +2060,8 @@
                         style="--ratio-percent: 100%;"
                         >
                         <img
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757657995&width=100"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757657995&width=100"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png"
                            sizes="(max-width): 90px,(max-width): 180px,100vw"
                            height="84"
                            width="84"
@@ -2092,8 +2092,8 @@
                         style="--ratio-percent: 100%;"
                         >
                         <img
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1740017919&width=100"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1740017919&width=100"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png"
                            sizes="(max-width): 90px,(max-width): 180px,100vw"
                            height="84"
                            width="84"
@@ -2124,8 +2124,8 @@
                         style="--ratio-percent: 100%;"
                         >
                         <img
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1731047537&width=100"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1731047537&width=100"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png"
                            sizes="(max-width): 90px,(max-width): 180px,100vw"
                            height="84"
                            width="84"
@@ -2153,8 +2153,8 @@
                         style="--ratio-percent: 100%;"
                         >
                         <img
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1731636011&width=100"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1731636011&width=100"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png"
                            sizes="(max-width): 90px,(max-width): 180px,100vw"
                            height="84"
                            width="84"
@@ -2185,8 +2185,8 @@
                         style="--ratio-percent: 100%;"
                         >
                         <img
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1731636011&width=100"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1731636011&width=100"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png"
                            sizes="(max-width): 90px,(max-width): 180px,100vw"
                            height="84"
                            width="84"
@@ -2217,8 +2217,8 @@
                         style="--ratio-percent: 100%;"
                         >
                         <img
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1731636011&width=100"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1731636011&width=100"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png"
                            sizes="(max-width): 90px,(max-width): 180px,100vw"
                            height="84"
                            width="84"
@@ -2366,7 +2366,7 @@
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=823" alt="AYUHOKI - Platform Login VIP Slot Online Slot88 Server Thailand 2026" srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=246 246w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=493 493w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=600 600w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=713 713w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=823 823w" width="823" height="823" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=823" alt="AYUHOKI - Platform Login VIP Slot Online Slot88 Server Thailand 2026" srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=246 246w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=493 493w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=600 600w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=713 713w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=823 823w" width="823" height="823" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040123572">
                                        <span class="visually-hidden">
@@ -2414,7 +2414,7 @@
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=823" alt="iPhone_17_Pro_Cosmic_Orange_PDP_Image_Position_2_Cosmic_Orange_Colour__SG-EN" srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=246 246w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=493 493w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=600 600w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=713 713w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=823" alt="iPhone_17_Pro_Cosmic_Orange_PDP_Image_Position_2_Cosmic_Orange_Colour__SG-EN" srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=246 246w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=493 493w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=600 600w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=713 713w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040156340">
                                        <span class="visually-hidden">
@@ -2462,7 +2462,7 @@
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450055&amp;width=823" alt="AYUHOKI" srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450055&amp;width=246 246w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450055&amp;width=493 493w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450055&amp;width=600 600w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450055&amp;width=713 713w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450055&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450055&amp;width=823" alt="AYUHOKI" srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450055&amp;width=246 246w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450055&amp;width=493 493w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450055&amp;width=600 600w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450055&amp;width=713 713w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450055&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040189108">
                                        <span class="visually-hidden">
@@ -2510,7 +2510,7 @@
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=823" alt="AYUHOKI Terpercaya" srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=246 246w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=493 493w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=600 600w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=713 713w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=823" alt="AYUHOKI Terpercaya" srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=246 246w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=493 493w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=600 600w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=713 713w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040221876">
                                        <span class="visually-hidden">
@@ -2558,7 +2558,7 @@
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=823" alt="Situs AYUHOKI" srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=246 246w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=493 493w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=600 600w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=713 713w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=823" alt="Situs AYUHOKI" srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=246 246w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=493 493w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=600 600w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=713 713w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040254644">
                                        <span class="visually-hidden">
@@ -2606,7 +2606,7 @@
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=823" alt="Link AYUHOKI Gampang Menang" srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=246 246w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=493 493w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=600 600w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=713 713w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=823" alt="Link AYUHOKI Gampang Menang" srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=246 246w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=493 493w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=600 600w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=713 713w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040287412">
                                        <span class="visually-hidden">
@@ -2654,7 +2654,7 @@
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=823" alt="slot gacor" srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=246 246w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=493 493w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=600 600w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=713 713w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=823" alt="slot gacor" srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=246 246w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=493 493w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=600 600w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=713 713w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040320180">
                                        <span class="visually-hidden">
@@ -2702,7 +2702,7 @@
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=823" alt="SLOT GACOR" srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=246 246w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=493 493w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=600 600w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=713 713w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=823" alt="SLOT GACOR" srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=246 246w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=493 493w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=600 600w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=713 713w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040352948">
                                        <span class="visually-hidden">
@@ -2750,7 +2750,7 @@
                                           </svg>
                                        </div>
                                        <div class="product__media media media--transparent">
-                                          <img src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=823" alt="slot gacor" srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=246 246w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=493 493w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=600 600w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=713 713w, https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+                                          <img src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=823" alt="slot gacor" srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=246 246w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=493 493w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=600 600w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=713 713w, https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&amp;width=823 823w" width="823" height="823" loading="lazy" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
                                        </div>
                                        <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32122040385716">
                                        <span class="visually-hidden">
@@ -3015,7 +3015,7 @@
                            </fieldset>
                            <p>
                              <a href="https://ayuhoki-4zp.pages.dev/asing2/amp" target="_blank">
-                             <img style="display:block;margin-left:auto;margin-right:auto;" src="https://ayuhoki-4zp.pages.dev/ayuhoki/XY0LFluChP1ZcD2w.gif" width="400" height="150"/>
+                             <img style="display:block;margin-left:auto;margin-right:auto;" src="https://logoayuhoki.pages.dev/ayuhoki/logo-ayuhoki.gif" width="400" height="150"/>
                              </a>
                            </p>
                            <fieldset class="js product-form__input bottom-space js-product-option-form">
@@ -3151,7 +3151,7 @@
                                     <div class="mobile-care-pdp">
                                        <div class="left care-pdp-img">
                                           <a class="care-img" href= "/pages/applecare-landing-page" >
-                                          <img src="https://ayuhoki-4zp.pages.dev/ayuhoki/XY0LFluChP1ZcD2w.gif" loading="lazy" class="add-on-image" width="100" height="100" alt="Care image">
+                                          <img src="https://logoayuhoki.pages.dev/ayuhoki/logo-ayuhoki.gif" loading="lazy" class="add-on-image" width="100" height="100" alt="Care image">
                                           </a>
                                        </div>
                                        <div class="care-pdp-title">
@@ -3176,7 +3176,7 @@
                                                       data-modal-close-label="Close Modal"
                                                       >
                                                       <p class="apple-care-modal__heading">Keuntungan bermain di AYUHOKI</p>
-                                                      <div class="media media--transparent ratio" style="--ratio-percent: 100.0%;"><img src="https://ayuhoki-4zp.pages.dev/ayuhoki/XY0LFluChP1ZcD2w.gif" alt="AYUHOKI" width="418" height="597" loading="lazy"></div>
+                                                      <div class="media media--transparent ratio" style="--ratio-percent: 100.0%;"><img src="https://logoayuhoki.pages.dev/ayuhoki/logo-ayuhoki.gif" alt="AYUHOKI" width="418" height="597" loading="lazy"></div>
                                                       <div class="apple-care-modal__content">
                                                          <div class="metafield-rich_text_field">
                                                             <ul>
@@ -3933,9 +3933,9 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
                         >
                         <img
                            class="custom_popup_compare_32122040123572 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=550 550w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1100 1100w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445 1445w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1680 1680w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2048 2048w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2200 2200w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2890 2890w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054 4000w"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=550 550w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1100 1100w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445 1445w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1680 1680w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2048 2048w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2200 2200w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2890 2890w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445"
                            alt="AYUHOKI - Platform Login VIP Slot Online Slot88 Server Thailand 2026"
                            loading="lazy"
                            width="1100"
@@ -3944,9 +3944,9 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
                            >
                         <img
                            class="custom_popup_compare_32122040156340 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=550 550w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1100 1100w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445 1445w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1680 1680w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2048 2048w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2200 2200w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2890 2890w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054 4000w"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=550 550w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1100 1100w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445 1445w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1680 1680w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2048 2048w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2200 2200w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2890 2890w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445"
                            alt="iPhone_17_Pro_Cosmic_Orange_PDP_Image_Position_2_Cosmic_Orange_Colour__SG-EN"
                            loading="lazy"
                            width="1100"
@@ -3955,9 +3955,9 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
                            >
                         <img
                            class="custom_popup_compare_32122040189108 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450055&width=550 550w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450055&width=1100 1100w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450055&width=1445 1445w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450055&width=1680 1680w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450055&width=2048 2048w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450055&width=2200 2200w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450055&width=2890 2890w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450055 4000w"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450055&width=550 550w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450055&width=1100 1100w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450055&width=1445 1445w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450055&width=1680 1680w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450055&width=2048 2048w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450055&width=2200 2200w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450055&width=2890 2890w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450055 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450055&width=1445"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450055&width=1445"
                            alt="AYUHOKI"
                            loading="lazy"
                            width="1100"
@@ -3966,9 +3966,9 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
                            >
                         <img
                            class="custom_popup_compare_32122040221876 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=550 550w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1100 1100w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445 1445w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1680 1680w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2048 2048w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2200 2200w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2890 2890w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054 4000w"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=550 550w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1100 1100w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445 1445w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1680 1680w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2048 2048w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2200 2200w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2890 2890w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445"
                            alt="AYUHOKI Terpercaya"
                            loading="lazy"
                            width="1100"
@@ -3977,9 +3977,9 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
                            >
                         <img
                            class="custom_popup_compare_32122040254644 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=550 550w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1100 1100w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445 1445w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1680 1680w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2048 2048w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2200 2200w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2890 2890w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054 4000w"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=550 550w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1100 1100w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445 1445w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1680 1680w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2048 2048w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2200 2200w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2890 2890w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445"
                            alt="Situs AYUHOKI"
                            loading="lazy"
                            width="1100"
@@ -3988,9 +3988,9 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
                            >
                         <img
                            class="custom_popup_compare_32122040287412 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=550 550w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1100 1100w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445 1445w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1680 1680w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2048 2048w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2200 2200w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2890 2890w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054 4000w"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=550 550w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1100 1100w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445 1445w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1680 1680w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2048 2048w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2200 2200w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2890 2890w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445"
                            alt="Link AYUHOKI Gampang Menang"
                            loading="lazy"
                            width="1100"
@@ -3999,9 +3999,9 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
                            >
                         <img
                            class="custom_popup_compare_32122040320180 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=550 550w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1100 1100w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445 1445w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1680 1680w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2048 2048w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2200 2200w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2890 2890w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054 4000w"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=550 550w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1100 1100w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445 1445w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1680 1680w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2048 2048w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2200 2200w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2890 2890w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445"
                            alt="slot gacor"
                            loading="lazy"
                            width="1100"
@@ -4010,9 +4010,9 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
                            >
                         <img
                            class="custom_popup_compare_32122040352948 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=550 550w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1100 1100w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445 1445w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1680 1680w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2048 2048w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2200 2200w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2890 2890w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054 4000w"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=550 550w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1100 1100w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445 1445w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1680 1680w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2048 2048w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2200 2200w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2890 2890w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445"
                            alt="SLOT GACOR"
                            loading="lazy"
                            width="1100"
@@ -4021,9 +4021,9 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
                            >
                         <img
                            class="custom_popup_compare_32122040385716 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=550 550w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1100 1100w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445 1445w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1680 1680w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2048 2048w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2200 2200w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2890 2890w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054 4000w"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=550 550w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1100 1100w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445 1445w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1680 1680w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2048 2048w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2200 2200w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2890 2890w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445"
                            alt="slot gacor"
                            loading="lazy"
                            width="1100"
@@ -4032,9 +4032,9 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
                            >
                         <img
                            class="custom_popup_compare_32122040418484 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=550 550w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1100 1100w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445 1445w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1680 1680w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2048 2048w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2200 2200w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=2890 2890w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054 4000w"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=550 550w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1100 1100w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445 1445w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1680 1680w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2048 2048w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2200 2200w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=2890 2890w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=1445"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=1445"
                            alt="slot gacor"
                            loading="lazy"
                            width="1100"
@@ -4043,9 +4043,9 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
                            >
                         <img
                            class="custom_popup_compare_32127875580084 global-media-settings global-media-settings--no-shadow"
-                           srcset="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757491890&width=550 550w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757491890&width=1100 1100w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757491890&width=1445 1445w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757491890&width=1680 1680w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757491890&width=2048 2048w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757491890&width=2200 2200w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757491890&width=2890 2890w,https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757491890 4000w"
+                           srcset="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757491890&width=550 550w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757491890&width=1100 1100w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757491890&width=1445 1445w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757491890&width=1680 1680w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757491890&width=2048 2048w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757491890&width=2200 2200w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757491890&width=2890 2890w,https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757491890 4000w"
                            sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                           src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757491890&width=1445"
+                           src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757491890&width=1445"
                            alt="AYUHOKI - Platform Login VIP Slot Online Slot88 Server Thailand 2026"
                            loading="lazy"
                            width="1100"
@@ -4055,9 +4055,9 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
                         <deferred-media class="deferred-media media global-media-settings global-media-settings--no-shadow" style="padding-top: min(calc(100vh - 12rem), 56.33802816901409%)" data-media-id="32153557532852">
                            <video
                               playsInline="1"
-                              poster="https://ayuhoki-4zp.pages.dev/ayuhoki/XY0LFluChP1ZcD2w.gif?v=1757995782&width=758"
+                              poster="https://logoayuhoki.pages.dev/ayuhoki/logo-ayuhoki.gif?v=1757995782&width=758"
                               preload="metadata"
-                              src="https://ayuhoki-4zp.pages.dev/ayuhoki/XY0LFluChP1ZcD2w.gif?v=1757995782&width=758"
+                              src="https://logoayuhoki.pages.dev/ayuhoki/logo-ayuhoki.gif?v=1757995782&width=758"
                               controls="controls"
                               muted="muted"
                               ></video>
@@ -4895,7 +4895,7 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
   "name": "AYUHOKI - Platform Login VIP Slot Online Slot88 Server Thailand 2026",
   "url": "https://ayuhoki999.com/",
   "image": [
-    "https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png?v=1757450054&width=823"
+    "https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png?v=1757450054&width=823"
   ],
   "description": "Ayuhoki adalah Platform login vip slot online slot88 server Thailand 2026 yang menawarkan akses yang cepat, antarmuka yang ramah pengguna, serta pembaruan informasi yang dilakukan secara berkala.",
   "sku": "7854960410",
@@ -4972,24 +4972,24 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
      
      <div class="daftarku-fixed-footer">
      <a href="https://ayuhoki-4zp.pages.dev/asing2/amp" rel="nofollow noopener" target="_blank">
-         <img layout="intrinsic" height="30px" width="30px" src="https://imgstore.io/images/2025/07/30/promo.png" alt="PROMOSI">
+         <img layout="intrinsic" height="30px" width="30px" src="https://imagesource-site.pages.dev/ayuhoki/images-2026-07-31-promo.png" alt="PROMOSI">
          PROMO
      </a>
      <a href="https://ayuhoki-4zp.pages.dev/asing2/amp" rel="nofollow noopener" target="_blank">
-         <img layout="intrinsic" height="30px" width="30px" src="https://imgstore.io/images/2025/07/30/login.png" alt="LOGIN AYUHOKI">
+         <img layout="intrinsic" height="30px" width="30px" src="https://imagesource-site.pages.dev/ayuhoki/images-2026-07-31-login.png" alt="LOGIN AYUHOKI">
          LOGIN
      </a>
      <a href="https://ayuhoki-4zp.pages.dev/asing2/amp" rel="nofollow noopener" target="_blank" class="tada">
-         <img layout="intrinsic" height="30px" width="30px" src="https://imgstore.io/images/2025/06/02/daftar-new.webp" alt="DAFTAR AYUHOKI">
+         <img layout="intrinsic" height="30px" width="30px" src="https://imagesource-site.pages.dev/ayuhoki/images-2026-07-31-daftar-new.webp" alt="DAFTAR AYUHOKI">
          DAFTAR
      </a>
      <a href="https://ayuhoki-4zp.pages.dev/asing2/amp" rel="nofollow noopener" target="_blank">
-         <img layout="intrinsic" height="30px" width="30px" src="https://imgstore.io/images/2025/08/27/icon-whatsapp.png" alt="WHATSAPP AYUHOKI">
+         <img layout="intrinsic" height="30px" width="30px" src="https://imagesource-site.pages.dev/ayuhoki/images-2026-07-31-icon-whatsapp.png" alt="WHATSAPP AYUHOKI">
          WHATSAPP
      </a>
      <a href="https://ayuhoki-4zp.pages.dev/asing2/amp" rel="nofollow noopener" target="_blank"
          class="js_live_chat_link live-chat-link">
-         <img class="live-chat-icon" layout="intrinsic" height="30px" width="30px" src="https://imgstore.io/images/2025/06/17/live-chat.png" alt="LIVE CHAT">
+         <img class="live-chat-icon" layout="intrinsic" height="30px" width="30px" src="https://imagesource-site.pages.dev/ayuhoki/images-2026-07-31-live-chat.png" alt="LIVE CHAT">
          LIVE CHAT
      </a>
  </div>
@@ -7376,12 +7376,12 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
 <div class="overlay">
 
 
-  <img src="https://ayuhoki-4zp.pages.dev/ayuhoki/d256d53a-f6dd-4284-a34a-7bd524fb30a5.png"
+  <img src="https://ayuhoki-images.pages.dev/ayuhoki/vip-slotonline-slot88.png"
        class="bg-gif"
        id="bgGif">
 
 
-  <img src="https://ayuhoki-4zp.pages.dev/ayuhoki/XY0LFluChP1ZcD2w.gif"
+  <img src="https://logoayuhoki.pages.dev/ayuhoki/logo-ayuhoki.gif"
        class="main-image"
        id="mainImage">
 
