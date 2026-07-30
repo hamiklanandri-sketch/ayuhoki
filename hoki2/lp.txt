@@ -2573,7 +2573,7 @@
                                         <p>
                                             <a href="https://ayuhoki-4zp.pages.dev/hoki2/amp" target="_blank">
                                                 <img style="display:block;margin-left:auto;margin-right:auto;"
-                                                    src="https://madamanakselatan.pages.dev/selatan-utara/GIFT_DAFTAR.gif"
+                                                    src="https://daftar-ayuhoki.pages.dev/ayuhoki/daftar-ayuhoki.gif"
                                                     width="300" height="100" />
                                             </a>
                                         </p>
