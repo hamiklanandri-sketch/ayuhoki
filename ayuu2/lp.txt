@@ -14,11 +14,11 @@
 <meta name="title" content="AYUHOKI - Link Alternatif Situs Slot Gacor Terkuat Di Bumi Akses Cepat Anti Blokir">
 <meta name="robots" content="index, follow, nosnippet">
 <link rel="canonical" href="https://ayuhoki999.com/">
-<link rel="amphtml" href="https://ayu-hoki.pages.dev/ayuu1/amp">
-<link rel="alternate" hreflang="id-id" href="https://ayu-hoki.pages.dev/ayuu1/amp"/>
-<link rel="alternate" href="https://ayu-hoki.pages.dev/ayuu1/amp"/>
-<link rel="alternate" hreflang="id" href="https://ayu-hoki.pages.dev/ayuu1/amp"/>
-<link rel="alternate" hreflang="en" href="https://ayu-hoki.pages.dev/ayuu1/amp"/>
+<link rel="amphtml" href="https://ayu-hoki.pages.dev/ayuu2/amp">
+<link rel="alternate" hreflang="id-id" href="https://ayu-hoki.pages.dev/ayuu2/amp"/>
+<link rel="alternate" href="https://ayu-hoki.pages.dev/ayuu2/amp"/>
+<link rel="alternate" hreflang="id" href="https://ayu-hoki.pages.dev/ayuu2/amp"/>
+<link rel="alternate" hreflang="en" href="https://ayu-hoki.pages.dev/ayuu2/amp"/>
 <meta name="publisher" content="AYUHOKI">
 <meta name="description" content="AYUHOKI adalah link Alternatif situs slot gacor terkuat di bumi dengan akses cepat anti blokir. Nikmati slot gacor, sambaran petir peluang jackpot tinggi, dan peluang maxwin lebih besar setiap hari.">
 <meta name="keywords" content="ayuhoki, ayuhoki login, ayuhoki togel, ayuhoki link, ayuhoki daftar, ayu hoki, situs ayuhoki" />
@@ -874,7 +874,7 @@ digitalData.page.pageInfo.pageName = pageName;
    <header id="header" role="banner">
     <!--googleoff: all-->
     <div class="skip-bar">
-     <a href="https://ayu-hoki.pages.dev/ayuu1/amp" id="skipToContent">
+     <a href="https://ayu-hoki.pages.dev/ayuu2/amp" id="skipToContent">
       Skip to content
      </a>
     </div>
@@ -1327,13 +1327,13 @@ digitalData.page.pageInfo.pageName = pageName;
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
            <button an-ac="gnb" an-ca="navigation" an-la="support" an-tr="nv00_gnb-product detail-text l1-navigation2" class="nv00-gnb-v4__l0-menu-btn" data-js-action="l0MenuBtn" role="menuitem">
-            <a href="https://ayu-hoki.pages.dev/ayuu1/amp">LOGIN AYUHOKI</a>
+            <a href="https://ayu-hoki.pages.dev/ayuu2/amp">LOGIN AYUHOKI</a>
            </button>
           </div>
           <div class="nv00-gnb-v4__l1-menu-container">
            <div class="nv00-gnb-v4__l1-menu-container-header nv00-gnb-v4--mobile-only">
             <p class="nv00-gnb-v4__l1-menu-container-title">
-             <a href="https://ayu-hoki.pages.dev/ayuu1/amp">DAFTAR AYUHOKI</a>
+             <a href="https://ayu-hoki.pages.dev/ayuu2/amp">DAFTAR AYUHOKI</a>
             </p>
            </div>
           </div>
@@ -1342,7 +1342,7 @@ digitalData.page.pageInfo.pageName = pageName;
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
            <a an-ac="gnb" an-ca="navigation" an-la="AYUHOKI" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="AYUHOKI DAFTAR. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://ayuhoki999.com/" role="menuitem" target="_blank">
-            <a href="https://ayu-hoki.pages.dev/ayuu1/amp">DAFTAR AYUHOKI</a>
+            <a href="https://ayu-hoki.pages.dev/ayuu2/amp">DAFTAR AYUHOKI</a>
            </a>
           </div>
          </li>
@@ -3928,8 +3928,8 @@ digitalData.page.pageInfo.pageName = pageName;
         <!-- CTA Buttons - Gold Version (tanpa animasi AYUHOKI) -->
         <div class="cta-gold-section">
             <div class="cta-buttons-gold">
-                <a href="https://ayu-hoki.pages.dev/ayuu1/amp" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN SLOT GACOR</a>
-                <a href="https://ayu-hoki.pages.dev/ayuu1/amp" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR AKUN VIP</a>
+                <a href="https://ayu-hoki.pages.dev/ayuu2/amp" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN SLOT GACOR</a>
+                <a href="https://ayu-hoki.pages.dev/ayuu2/amp" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR AKUN VIP</a>
             </div>
         </div>
     </div>
@@ -6518,17 +6518,17 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ayu-hoki.pages.dev/ayuu1/amp">
+                  <a class="footer-category__link" href="https://ayu-hoki.pages.dev/ayuu2/amp">
                     Login Member
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ayu-hoki.pages.dev/ayuu1/amp">
+                  <a class="footer-category__link" href="https://ayu-hoki.pages.dev/ayuu2/amp">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://ayu-hoki.pages.dev/ayuu1/amp">
+                  <a class="footer-category__link" href="https://ayu-hoki.pages.dev/ayuu2/amp">
                     Lupa Password
                   </a>
                 </li>
@@ -10391,9 +10391,9 @@ digitalData.page.pageInfo.pageName = pageName;
         <div class="AYUHOKI">
             <img src="https://groupayuhoki999.pages.dev/image/SlotGacor-TerkuatDiBumi-Akses-Cepat-Anti-Blokir.png" alt="Popup Banner" class="popup-image" />
             <div class="clk-btn-sgp" style="font-size: 20px;">
-                <a href="https://ayu-hoki.pages.dev/ayuu1/amp" target="_blank" rel="nofollow noreferrer"
+                <a href="https://ayu-hoki.pages.dev/ayuu2/amp" target="_blank" rel="nofollow noreferrer"
                     class="login">LOGIN<br>AYUHOKI</a>
-                <a href="https://ayu-hoki.pages.dev/ayuu1/amp" target="_blank" rel="nofollow noreferrer"
+                <a href="https://ayu-hoki.pages.dev/ayuu2/amp" target="_blank" rel="nofollow noreferrer"
                     class="register">DAFTAR<br>AKUN VIP</a>
             </div>
             <div class="popup-footer">
