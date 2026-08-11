@@ -1,0 +1,2671 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" prefix="fb: http://www.facebook.com/2008/fbml">
+<head>
+<title>AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir</title>
+<meta name="description" content="AYUHOKI adalah platform game online resmi dengan layanan premium terpercaya, akses praktis, informasi lengkap, pelayanan terjamin serta fitur anti blokir.">
+<meta name="keywords" content="AYUHOKI">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<meta http-equiv="x-ua-compatible" content="IE=Edge"/>
+<link rel="apple-touch-icon" sizes="180x180" href="https://marketworld.to/images/2026/08/11/favicon-AYUHOKI-Platform-Game-Online.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://marketworld.to/images/2026/08/11/favicon-AYUHOKI-Platform-Game-Online.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://marketworld.to/images/2026/08/11/favicon-AYUHOKI-Platform-Game-Online.png" />
+<link rel="manifest" href="https://assets.bonanza.com/site.webmanifest" />
+<link rel="mask-icon" href="https://assets.bonanza.com/safari-pinned-tab.svg" color="#335749" />
+<link rel="canonical" href="https://ayuhoki999.com/" />
+<link rel="amphtml" href="https://ayu-hoki.pages.dev/atep8/amp">
+<link rel="alternate" hreflang="id-ID" href="https://ayu-hoki.pages.dev/atep8/amp"/>
+<link rel="alternate" href="https://ayu-hoki.pages.dev/atep8/amp"/>
+<link rel="alternate" hreflang="id" href="https://ayu-hoki.pages.dev/atep8/amp"/>
+<link rel="alternate" hreflang="en" href="https://ayu-hoki.pages.dev/atep8/amp"/>
+<link rel="alternate" hreflang="x-default" href="https://ayu-hoki.pages.dev/atep8/amp"/>
+<meta name="msapplication-TileColor" content="#335749" />
+<meta name="theme-color" content="#000000" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="robots" content="follow">
+<meta itemprop="url" content="https://ayuhoki999.com/" />
+<meta itemprop="quantity" content="18" />
+<meta itemprop="availability" content="in_stock" />
+
+  <!-- open graph tags for FB & Pinterest -->
+  <meta property="og:type" content="product" />
+  <meta property="og:site_name" content="AYUHOKI" />
+  <meta property="og:title" content="AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir" />
+  <meta property="og:url" content="https://ayuhoki999.com/" />
+  <meta property="og:price:currency" content="USD" />
+  <meta property="og:availability" content="instock" />
+  <meta property="og:image" content="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="1200" />
+  <meta property="og:description" content="AYUHOKI adalah platform game online resmi dengan layanan premium terpercaya, akses praktis, informasi lengkap, pelayanan terjamin serta fitur anti blokir." />
+  <meta property="product:price:amount" content="3.99" />
+  <meta property="product:retailer_item_id" content="1798738873" />
+  <meta property="wanelo:store:url" content="https://ayuhoki999.com/" />
+  <meta property="wanelo:store:name" content="AYUHOKI" />
+
+  <meta name="twitter:card" content="product">
+  <meta name="twitter:site" content="@AYUHOKI">
+  <meta name="twitter:title" content="AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir">
+  <meta name="twitter:description" content="AYUHOKI adalah platform game online resmi dengan layanan premium terpercaya, akses praktis, informasi lengkap, pelayanan terjamin serta fitur anti blokir.">
+  <meta name="twitter:image:src" content="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp">
+  <meta name="twitter:data1" content="3.99 USD">
+  <meta name="twitter:label1" content="PRICE">
+  <meta name="twitter:data2" content="Computer Software and Games">
+  <meta name="twitter:label2" content="CATEGORY">
+  <meta name="twitter:domain" content="ccutegirlagency.com">
+
+<link
+  rel="search"
+  type="application/opensearchdescription+xml"
+  title="Bonanza: Search Items"
+  href="https://www.bonanza.com/opensearch.xml">
+<link rel="canonical" href="https://ayuhoki999.com/">
+<link rel="stylesheet" media="screen, print" href="https://assets.bonanza.com/assets/global_css-9af8c792c4b0065d1f1c9f59df4bd543.gz.css" />
+<link rel="stylesheet" media="screen, print" href="https://assets.bonanza.com/assets/items_css-d5a50cdd4e0d004e14d94a293c60dd04.gz.css" /><link rel="stylesheet" media="screen, print" href="https://assets.bonanza.com/assets/items_buy_css-47ccbb99d1ca186442571b94e8631899.gz.css" />
+
+<link rel="stylesheet" media="screen, print" href="https://assets.bonanza.com/assets/validation_css-8d8a2c6e80caadb971b3d5c9da6877a7.gz.css" /><link rel="stylesheet" media="screen, print" href="https://assets.bonanza.com/assets/sessions_css-6679cd03f087e2147af60db785446134.gz.css" /><link rel="stylesheet" media="screen, print" href="https://assets.bonanza.com/assets/accept_cookies_banner_bonz_css-50a39b7fef2db0ee24a2a301c7cdd13f.gz.css" /><link rel="stylesheet" media="screen" href="//fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic" />
+
+<script>
+//<![CDATA[
+var BONZ = {
+  cookie_domain: '.bonanza.com',
+  environment_name: 'production',
+  staticAssetHost: 'https://assets.bonanza.com/',
+  pusherKey: '3f611e158fd0402f04bb',
+  isMobile: false,
+  globalLazyJsUrl: 'https://assets.bonanza.com/assets/global_lazy_js-cf9a47d3d6522ec7a9716b08070e8ea6.gz.js',
+  globalLazyCssUrl: 'https://assets.bonanza.com/assets/global_lazy_css-67207c468a2f88578d69391864acae32.gz.css',
+  printCssUrl: 'https://assets.bonanza.com/assets/print_css-755a519bd3443cbaf02a814ea8a4dab3.gz.css',
+  loadedPackages: [],
+  loadingPackages: []
+};
+window.suggestmeyes_loaded = true;
+BONZ.globalLoader = {
+  callbacks: [],
+  run: function() {
+    BONZ.globalLoader.run = null;
+    BONZ.onGlobalLoaded = function(func) { func(); };
+
+    if (typeof(window.Rollbar) !== "undefined" && typeof(window.Rollbar.configure) === "function") {
+      window.Rollbar.configure({ payload: { custom: { globalLoaded: true } } });
+    }
+
+    for (var i = 0; i < BONZ.globalLoader.callbacks.length; i++) {
+      BONZ.globalLoader.callbacks[i]();
+    }
+  }
+};
+
+BONZ.onGlobalLoaded = function(func) { BONZ.globalLoader.callbacks.push(func); };
+window.jQuery = function(func) { BONZ.globalLoader.callbacks.push(function() { $(func); }); };
+window.$ = window.jQuery;
+        var _rollbarConfig = navigator.language.startsWith("zh") ? {} : {
+  accessToken: "d866c87fce3044b0a1fb30c86b353a00",
+  rollbarJsUrl: "https://assets.bonanza.com/javascripts/lib/rollbar.min.js",
+  captureUncaught: true,
+  verbose: false,
+  hostSafeList: [
+    "amazonaws.com",
+    "greenbeedecor.com",
+    "ccutegirlagency.com", "play.ccutegirlagency.com"
+  ],
+  ignoredMessages: [
+    "^Script error.?$",
+    "Error loading script",
+    "The environment is incompatible.",
+    "Unexpected token u",
+    "fbq",
+    'Blocked a frame with origin "http://m.bonanza.com" from accessing a frame with origin "https://www.google.com"',
+    "Uncaught ReferenceError: __show__deepen is not defined", // Error specific to UC-Browser (chinese mobile browser)
+  ],
+  payload: {
+    environment: "production",
+    client: {
+      javascript: {
+        source_map_enabled: true,
+        code_version: "3684d6903f85bb1fb30a0ed3620fbd50",
+        guess_uncaught_frames: true
+      }
+    },
+    server: { environment: "production", host: "app9" },
+    notifier: { plugins: { jquery: { ignoreAjaxErrors: true } } },
+    context: "items#show",
+    person: { id: null, username: null },
+    custom: {
+      packages: [],
+      loading: [],
+      rails_uuid: "1cbf6a47-786c-44",
+      timestamp: 1778833286,
+      globalLoaded: false
+    }
+  }
+};
+
+        if (!navigator.language.startsWith("zh")) { 
+  !function(){"use strict";function r(r,o,n){if(o.hasOwnProperty&&o.hasOwnProperty("addEventListener")){for(var e=o.addEventListener;e._rollbarOldAdd&&e.belongsToShim;)e=e._rollbarOldAdd;var t=function(o,n,t){e.call(this,o,r.wrap(n),t)};t._rollbarOldAdd=e,t.belongsToShim=n,o.addEventListener=t;for(var a=o.removeEventListener;a._rollbarOldRemove&&a.belongsToShim;)a=a._rollbarOldRemove;var l=function(r,o,n){a.call(this,r,o&&o._rollbar_wrapped||o,n)};l._rollbarOldRemove=a,l.belongsToShim=n,o.removeEventListener=l}}function o(r,n){this.impl=r(n,this),this.options=n,function(r){for(var o=function(r){return function(){var o=Array.prototype.slice.call(arguments,0);if(this.impl[r])return this.impl[r].apply(this.impl,o)}},n="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleAnonymousErrors,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureEvent,captureDomContentLoaded,captureLoad".split(","),e=0;e<n.length;e++)r[n[e]]=o(n[e])}(o.prototype)}o.prototype._swapAndProcessMessages=function(r,o){var n,e,t;for(this.impl=r(this.options);n=o.shift();)e=n.method,t=n.args,this[e]&&"function"==typeof this[e]&&("captureDomContentLoaded"===e||"captureLoad"===e?this[e].apply(this,[t[0],n.ts]):this[e].apply(this,t));return this};var n=o;function e(r){return e="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(r){return typeof r}:function(r){return r&&"function"==typeof Symbol&&r.constructor===Symbol&&r!==Symbol.prototype?"symbol":typeof r},e(r)}function t(r){return function(){try{return r.apply(this,arguments)}catch(r){try{console.error("[Rollbar]: Internal error",r)}catch(r){}}}}var a=0;function l(r,o){this.options=r,this._rollbarOldOnError=null;var n=a++;this.shimId=function(){return n},"undefined"!=typeof window&&window._rollbarShims&&(window._rollbarShims[n]={handler:o,messages:[]})}var i=function(r,o){return new l(r,o)},s=function(r){return new n(i,r)};function d(r){return t((function(){var o=Array.prototype.slice.call(arguments,0),n={shim:this,method:r,args:o,ts:new Date};window._rollbarShims[this.shimId()].messages.push(n)}))}l.prototype.loadFull=function(r,o,n,e,a){var l=!1,i=o.createElement("script"),s=o.getElementsByTagName("script")[0],d=s.parentNode;i.crossOrigin="",i.src=e.rollbarJsUrl,n||(i.async=!0),i.onload=i.onreadystatechange=t((function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){i.onload=i.onreadystatechange=null;try{d.removeChild(i)}catch(r){}l=!0,function(){var o;if(void 0===r._rollbarDidLoad){o=new Error("rollbar.js did not load");for(var n,e,t,l,i=0;n=r._rollbarShims[i++];)for(n=n.messages||[];e=n.shift();)for(t=e.args||[],i=0;i<t.length;++i)if("function"==typeof(l=t[i])){l(o);break}}"function"==typeof a&&a(o)}()}})),d.insertBefore(i,s)},l.prototype.wrap=function(r,o,n){try{var e;if(e="function"==typeof o?o:function(){return o||{}}, "function"!=typeof r)return r;if(r._isWrap)return r;if(!r._rollbar_wrapped&&(r._rollbar_wrapped=function(){n&&"function"==typeof n&&n.apply(this,arguments);try{return r.apply(this,arguments)}catch(n){var o=n;throw o&&("string"==typeof o&&(o=new String(o)),o._rollbarContext=e()||{},o._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=o),o}},r._rollbar_wrapped._isWrap=!0,r.hasOwnProperty))for(var t in r)r.hasOwnProperty(t)&&(r._rollbar_wrapped[t]=r[t]);return r._rollbar_wrapped}catch(o){return r}};for(var c="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleAnonymousErrors,handleUnhandledRejection,captureEvent,captureDomContentLoaded,captureLoad".split(","),p=0;p<c.length;++p)l.prototype[c[p]]=d(c[p]);var h=function(o,n){if(o){var a=n.globalAlias||"Rollbar";if("object"===e(o[a]))return o[a];o._rollbarShims={},o._rollbarWrappedError=null;var l=new s(n);return t((function(){n.captureUncaught&&(l._rollbarOldOnError=o.onerror,function(r,o){if(r){var n;if("function"==typeof o._rollbarOldOnError)n=o._rollbarOldOnError;else if(r.onerror){for(n=r.onerror;n._rollbarOldOnError;)n=n._rollbarOldOnError;o._rollbarOldOnError=n}o.handleAnonymousErrors();var e=function(){var e=Array.prototype.slice.call(arguments,0);!function(r,o,n,e){r._rollbarWrappedError&&(e[4]||(e[4]=r._rollbarWrappedError),e[5]||(e[5]=r._rollbarWrappedError._rollbarContext),r._rollbarWrappedError=null);var t=o.handleUncaughtException.apply(o,e);n&&n.apply(r,e),"anonymous"===t&&(o.anonymousErrorsPending+=1)}(r,o,n,e)};e._rollbarOldOnError=n,r.onerror=e}}(o,l),n.wrapGlobalEventHandlers&&function(o,n,e){if(o){var t,a,l="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(t=0;t<l.length;++t)o[a=l[t]]&&o[a].prototype&&r(n,o[a].prototype,e)}}(o,l,!0)),n.captureUnhandledRejections&&function(r,o){if(r){"function"==typeof r._rollbarURH&&r._rollbarURH.belongsToShim&&r.removeEventListener("unhandledrejection",r._rollbarURH);var n=function(r){var n,e,t;try{n=r.reason}catch(r){n=void 0}try{e=r.promise}catch(r){e="[unhandledrejection] error getting `promise` from event"}try{t=r.detail,!n&&t&&(n=t.reason,e=t.promise)}catch(r){}n||(n="[unhandledrejection] error getting `reason` from event"),o&&o.handleUnhandledRejection&&o.handleUnhandledRejection(n,e)};n.belongsToShim=!0,r._rollbarURH=n,r.addEventListener("unhandledrejection",n)}}(o,l);var t=n.autoInstrument;return!1!==n.enabled&&(void 0===t||!0===t||function(r){return!("object"!==e(r)||void 0!==r.page&&!r.page)}(t))&&o.addEventListener&&(o.addEventListener("load",l.captureLoad.bind(l)),o.addEventListener("DOMContentLoaded",l.captureDomContentLoaded.bind(l))),o[a]=l,l}))()}}(window,_rollbarConfig),y=function(r){if(!r&&!window._rollbarInitialized){for(var o,n,e=(_rollbarConfig=_rollbarConfig||{}).globalAlias||"Rollbar",t=window.rollbar,a=function(r){return new t(r)},l=0;o=window._rollbarShims[l++];)n||(n=o.handler),o.handler._swapAndProcessMessages(a,o.messages);window[e]=n,window._rollbarInitialized=!0}};window.rollbar=s,h.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,y)}();
+}
+
+        BONZ.run = function(fn) { try { return fn.call(); } catch(e) { window.Rollbar.log(e); } };
+        BONZ.wrap = function(fn) {
+          return function() {
+            try { return fn.apply(undefined, arguments); } catch(e) { window.Rollbar.log(e); }
+          };
+        };
+        BONZ.packageLoaded = function(packageName) {
+          BONZ.loadedPackages.push(packageName);
+          if (typeof(window.Rollbar) !== "undefined" && typeof(window.Rollbar.configure) === "function") {
+            window.Rollbar.configure({ payload: { custom: { packages: BONZ.loadedPackages } } });
+          }
+        };
+        BONZ.packageLoading = function(packageName) {
+          BONZ.loadingPackages.push(packageName);
+          if (typeof(window.Rollbar) !== "undefined" && typeof(window.Rollbar.configure) === "function") {
+            window.Rollbar.configure({ payload: { custom: { loading: BONZ.loadingPackages } } });
+          }
+        };
+BONZ.handleBrokenImage = function(imageEl, itemId, imageURL) {
+  if (typeof(BONZ.Application) !== 'undefined') BONZ.Application.handleBrokenImage(imageEl, itemId, imageURL);
+};
+BONZ.resizeIframe = function(el) {
+  $(function() { BONZ.Util.resizeIframe(el); });
+};
+CKEDITOR_BASEPATH = "https://assets.bonanza.com/scripts/ckeditor/";
+BONZ.onGlobalLoaded(function() {
+  $(document).ajaxSend(function(e, xhr, options) {
+    var token = $("meta[name='csrf-token']").attr("content");
+
+    if (token !== undefined) {
+      xhr.setRequestHeader("X-CSRF-Token", token);
+    }
+  });
+});
+
+//]]>
+</script>
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Product",
+"name": "AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir",
+"image": "https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp",
+"description": "AYUHOKI adalah platform game online resmi dengan layanan premium terpercaya, akses praktis, informasi lengkap, pelayanan terjamin serta fitur anti blokir.",
+"brand": {
+"@type": "Brand",
+"name": "AYUHOKI"
+},
+"sku": "AYUHOKI-ID",
+"mpn": "AYUHOKI-ID",
+"url": "https://ayuhoki999.com/",
+"offers": {
+"@type": "Offer",
+"url": "https://ayuhoki999.com/",
+"priceCurrency": "IDR",
+"price": "10000.0",
+"priceValidUntil": "2026-12-31",
+"itemCondition": "https://schema.org/NewCondition",
+"availability": "https://schema.org/InStock",
+"seller": {
+"@type": "Organization",
+"name": "AYUHOKI"
+}
+},
+"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"reviewCount": 199
+},
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "datePublished": "2026-05-10",
+      "reviewBody": "Tampilan AYUHOKI terasa simpel dan tidak membingungkan. Menu permainan tertata dengan baik, sementara proses masuk ke halaman yang dibutuhkan juga terasa praktis dari perangkat mobile.",
+      "author": {
+        "@type": "Person",
+        "name": "Yoga Prasetyo"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "datePublished": "2026-05-12",
+      "reviewBody": "Saya suka konsep halaman AYUHOKI karena navigasinya cukup jelas. Berbagai informasi dan pilihan permainan dapat ditemukan dengan mudah tanpa harus berpindah-pindah halaman terlalu banyak.",
+      "author": {
+        "@type": "Person",
+        "name": "Arif Maulana"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "datePublished": "2026-05-12",
+      "reviewBody": "AYUHOKI memiliki tampilan yang responsif saat dibuka melalui smartphone. Susunan menu tetap rapi dan halaman terasa ringan sehingga cukup nyaman digunakan untuk menjelajahi fitur yang tersedia.",
+      "author": {
+        "@type": "Person",
+        "name": "Ilham Hidayat"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "datePublished": "2026-05-13",
+      "reviewBody": "Hal yang menarik dari AYUHOKI adalah penyajian informasinya yang terstruktur. Menu, fitur, dan pilihan game ditempatkan dengan jelas sehingga pengguna baru pun lebih mudah memahami platform.",
+      "author": {
+        "@type": "Person",
+        "name": "Putri Maharani"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "datePublished": "2026-05-14",
+      "reviewBody": "Akses menuju AYUHOKI terasa sederhana karena link masuknya mudah digunakan. Setelah masuk, saya bisa langsung melihat berbagai menu dan informasi tanpa navigasi yang terasa terlalu rumit.",
+      "author": {
+        "@type": "Person",
+        "name": "Intan Permatasari"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 4,
+        "bestRating": 5
+      },
+      "datePublished": "2026-05-15",
+      "reviewBody": "Secara keseluruhan AYUHOKI memberikan pengalaman portal game online dengan tampilan modern. Navigasinya praktis, fitur mudah ditemukan, dan desain halaman tetap nyaman dilihat di berbagai perangkat.",
+      "author": {
+        "@type": "Person",
+        "name": "Citra Kirana"
+      }
+    }
+  ]
+}
+</script>
+
+    <script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"name": "Home",
+"item": "https://ayuhoki999.com/"
+},
+{
+"@type": "ListItem",
+"position": 2,
+"name": "AYUHOKI",
+"item": "https://ayuhoki999.com/"
+},
+{
+"@type": "ListItem",
+"position": 3,
+"name": "AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir",
+"item": "https://ayuhoki999.com/"
+}
+]
+}
+</script>
+
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"name": "AYUHOKI",
+"url": "https://ayuhoki999.com/",
+"logo": "https://marketworld.to/images/2026/08/11/favicon-AYUHOKI-Platform-Game-Online.png",
+"sameAs": [
+"https://ayu-hoki.pages.dev/atep8/amp",
+"https://twitter.com/AYUHOKI"
+],
+"contactPoint": {
+"@type": "ContactPoint",
+"telephone": "+62-852-6245-1681",
+"contactType": "customer support",
+"areaServed": "ID",
+"availableLanguage": ["Indonesian", "English"]
+}
+}
+</script>
+
+    <script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "WebSite",
+"name": "AYUHOKI",
+"url": "https://ayuhoki999.com/",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://ayuhoki999.com/?s={search_term_string}",
+"query-input": "required name=search_term_string"
+}
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Apa itu AYUHOKI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AYUHOKI adalah platform game online resmi dengan layanan premium terpercaya, akses praktis, informasi lengkap, pelayanan terjamin serta fitur anti blokir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Bagaimana cara menggunakan link masuk cepat AYUHOKI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pengguna dapat menggunakan link masuk AYUHOKI yang tersedia untuk mengakses halaman utama secara lebih praktis. Sistem navigasinya dibuat sederhana agar berbagai menu dan informasi mudah ditemukan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah fitur AYUHOKI dapat diakses melalui perangkat mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ya, tampilan AYUHOKI dirancang responsif sehingga dapat menyesuaikan layar smartphone, tablet, maupun desktop untuk memberikan pengalaman penggunaan yang lebih nyaman."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Mengapa akses AYUHOKI dibuat sederhana dan praktis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Konsep akses praktis AYUHOKI bertujuan mempermudah pengguna menjelajahi permainan, informasi, serta berbagai fitur yang tersedia tanpa harus melewati navigasi yang terlalu rumit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apa keunggulan fitur anti blokir di AYUHOKI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tujuan utama fitur ini adalah memberikan kenyamanan akses tanpa harus ribet mencari cara lain. Pemain cukup menggunakan link resmi yang disediakan platform, lalu bisa langsung masuk ke akun."
+      }
+    }
+  ]
+}
+</script>
+
+    <script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "NewsArticle",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://ayuhoki999.com/"
+},
+"headline": "AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir",
+"alternativeHeadline": "AYUHOKI: Akses Slot Online Lebih Praktis Cukup dengan 1 ID",
+"image": [
+"https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp"
+],
+"datePublished": "2026-01-04T09:00:00+07:00",
+"dateModified": "2026-05-15T09:00:00+07:00",
+"author": {
+"@type": "Person",
+"@id": "https://ayuhoki999.com/",
+"name": "AYUHOKI",
+"url": "https://ayuhoki999.com/"
+},
+"publisher": {
+"@type": "Organization",
+"@id": "https://ayuhoki999.com/",
+"name": "AYUHOKI",
+"logo": {
+"@type": "ImageObject",
+"url": "https://marketworld.to/images/2026/08/11/favicon-AYUHOKI-Platform-Game-Online.png"
+}
+},
+"description": "AYUHOKI adalah platform game online resmi dengan layanan premium terpercaya, akses praktis, informasi lengkap, pelayanan terjamin serta fitur anti blokir.",
+"articleSection": "AYUHOKI, Slot Online",
+"keywords": [
+  "AYUHOKI",
+  "AYUHOKI LOGIN",
+  "AYUHOKI DAFTAR",
+  "LINK AYUHOKI",
+  "AYUHOKI MAIN",
+  "AYUHOKI ALTERNATIF",
+  "SITUS AYUHOKI",
+  "GAME ONLINE",
+  "MASUK AYUHOKI"
+],
+"inLanguage": "id-ID",
+"isAccessibleForFree": true,
+"hasPart": [
+{
+"@type": "WebPageElement",
+"name": "Bagian Artikel",
+"cssSelector": "main"
+}
+]
+}
+</script>
+<script src="https://assets.bonanza.com/assets/global_js-5e457a5129aa7c9f96f772a5d19f0e86.gz.js" crossorigin="anonymous"></script>
+<script src="https://assets.bonanza.com/assets/items_js-bd2161ce25bf416d567b82a6a0284402.gz.js" crossorigin="anonymous"></script><script src="https://assets.bonanza.com/assets/items_buy_js-d22c3d96e3a430b0bee247673737a5cb.gz.js" crossorigin="anonymous"></script>
+
+<script src="https://assets.bonanza.com/assets/validation_js-fc0b5cd997aec3405694f3e9bdad023c.gz.js" crossorigin="anonymous"></script><script src="https://assets.bonanza.com/assets/sessions_js-4cb2bc6e481a364bdfc35956ea962864.gz.js" crossorigin="anonymous"></script><script src="https://assets.bonanza.com/assets/accept_cookies_banner_js-3129f207f786b19ec4caf78c56e69cc5.gz.js" crossorigin="anonymous"></script>
+
+
+
+
+        <!-- Google Analytics -->
+      <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga("create", "UA-1649289-6", ".bonanza.com");
+      ga("set", "anonymizeIp", true);
+      ga("set", "dimension1", "items_-_show");
+      ga("set", "dimension2", "Digital_Goods_-_Computer_Software_and_Games");
+ga("set", "dimension3", "9391730");
+ga("set", "dimension4", "1-2_months");
+
+      ga("require", "displayfeatures");
+      ga("require", "ec"); <!-- must occur after creating the tracker object and before using any enhanced commerce functionality -->
+
+ga("ec:addProduct", {"item_id":"1798738873","item_name":"AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir","item_category":"Digital Goods/Computer Software and Games","price":"3.99"});
+ga("ec:setAction", "detail");
+
+
+      ga("send", "pageview");
+      
+
+      ga(function(tracker) {
+        document.cookie = "ga_id=" + tracker.get("clientId") + "; path=/";
+      });
+      </script>
+      <!-- Global site tag (gtag.js) - Google Analytics v4 -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=AW-1040189919"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        dataLayer.push({'event': 'pageLoad','page_type': 'productDetail'});
+
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+      
+        gtag('config', 'G-G46KDSM8QZ');
+        gtag('config', 'AW-1040189919');
+        
+
+      </script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-G46KDSM8QZ"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        dataLayer.push({'event': 'pageLoad','page_type': 'productDetail'});
+
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-G46KDSM8QZ');
+         dataLayer.push({"event":"view_item","items":[{"item_id":"1798738873","price":"3.99"}],"eventModel":{"ecommerce":{"currency":"USD","value":3.99,"items":[{"item_id":"1798738873","item_name":"AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir","item_category":"Digital Goods/Computer Software and Games","price":"3.99"}]}},"value":3.99});
+</script>
+
+      <!-- End Google Analytics -->
+
+
+<script>
+  window.uetq = window.uetq || [];
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){window.dataLayer.push(arguments);}
+
+  var defaultState = 'reject';
+
+  if (defaultState == 'reject') {
+    gtag('consent', 'update', {
+      ad_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied',
+      analytics_storage: 'denied'
+    });
+
+    window.uetq.push('consent', 'default', {
+      ad_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied',
+      analytics_storage: 'denied'
+    });
+  } else if (defaultState == 'do_not_sell') {
+    gtag('consent', 'update', {
+      ad_storage: 'granted',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied',
+      analytics_storage: 'granted'
+    });
+
+    window.uetq.push('consent', 'default', {
+      ad_storage: 'granted',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied',
+      analytics_storage: 'granted'
+    });
+  } else {
+    gtag('consent', 'default', {
+      ad_storage: 'granted',
+      ad_user_data: 'granted',
+      ad_personalization: 'granted',
+      analytics_storage: 'granted'
+    });
+
+    window.uetq.push('consent', 'default', {
+      ad_storage: 'granted',
+      ad_user_data: 'granted',
+      ad_personalization: 'granted',
+      analytics_storage: 'granted'
+    });
+  }
+
+
+
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K7ZTHJG');</script>
+<!-- End Google Tag Manager -->
+
+  <script async type='text/javascript' src='https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=T6dtgR'></script>
+  <script>
+    !function(){if(!window.klaviyo){window._klOnsite=window._klOnsite||[];try{window.klaviyo=new Proxy({},{get:function(n,i){return"push"===i?function(){var n;(n=window._klOnsite).push.apply(n,arguments)}:function(){for(var n=arguments.length,o=new Array(n),w=0;w<n;w++)o[w]=arguments[w];var t="function"==typeof o[o.length-1]?o.pop():void 0,e=new Promise((function(n){window._klOnsite.push([i].concat(o,[function(i){t&&t(i),n(i)}]))}));return e}}})}catch(n){window.klaviyo=window.klaviyo||[],window.klaviyo.push=function(){var n;(n=window._klOnsite).push.apply(n,arguments)}}}}();
+
+
+    var item = {
+  "ProductName": "AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir",
+  "ProductID": "1798738873",
+  "SKU": null,
+  "Categories": ["Digital Goods","Computer Software and Games"],
+  "ImageURL": "https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp",
+  "URL": "https://ayuhoki999.com/",
+  
+  "Price": 3.99
+};
+klaviyo.push(["track", "Viewed Product", item]);
+
+klaviyo.push(["trackViewedItem", {
+  "Title": "AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir",
+  "ItemId": "1798738873",
+  "Categories": ["Digital Goods","Computer Software and Games"],
+  "ImageUrl": "https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp",
+  "Url": "https://ayuhoki999.com/",
+  "Metadata": {
+    
+   "Price": 3.99
+  }
+}]);        
+
+  </script>
+
+  <script>
+    (function(){
+      var t;
+      try {
+        t = Intl.DateTimeFormat().resolvedOptions().timeZone
+      } catch (e) {}
+
+      var xhr = new XMLHttpRequest();
+      xhr.open("POST", "/track", true);
+      xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+
+      var params = "h=" + encodeURIComponent(window.location.href) +
+        "&r=" + encodeURIComponent("https://www.bonanza.com/listings/PRAGMATA-Deluxe-Edition-PC-Steam-Account-Offline-Shared-Access/1803753076") +
+        "&u=" + encodeURIComponent("") +
+        "&m=" + encodeURIComponent("GET") +
+        "&p=" + encodeURIComponent("AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir") +
+        "&pt=" + encodeURIComponent("productDetail") +
+        "&t=" + encodeURIComponent(t);
+
+      xhr.send(params);
+
+      XMLHttpRequest
+    })();
+  </script>
+
+
+
+
+
+<style id="dark-theme-black">
+/* === TEMA HITAM — ganti semua area putih === */
+html, body,
+body#items_show_body,
+body.show_body,
+#content,
+#content_and_sidebar,
+.item_listing_body,
+.item_listing_main,
+.item_listing_images,
+.item_listing_basic_info,
+.item_listing_additional_info,
+.item_listing_seller_and_shipping_info,
+.item_listing_title_and_price,
+.item_status_and_price_container,
+.item_status_and_price_content,
+.main_image_container,
+.item_image_thumbnails,
+.item_image_carousel,
+.responsive_header,
+.responsive_header_bar,
+.header_bar,
+.header_shopping,
+.header_utilities,
+.breadcrumbs_container,
+.breadcrumbs,
+.discount_banner,
+.discounts_expander,
+.footer,
+#footer,
+.site_footer,
+#header,
+.header_search,
+.header_search .wrapper,
+.header_search_container,
+#header_search_box,
+.responsive_header_main_content,
+.responsive_header_top_bar,
+.responsive_header_menu_and_logo_container,
+.responsive_header_links_container {
+  background: #000 !important;
+  background-color: #000 !important;
+  color: #fff !important;
+}
+.responsive_header,
+.responsive_header_bar,
+.header_bar {
+  border-bottom-color: #c00 !important;
+}
+.responsive_header a,
+.responsive_header i,
+.header_bar a,
+.header_bar i,
+.header_shopping a,
+.header_utilities a,
+.breadcrumbs a,
+.breadcrumbs,
+.item_listing_body,
+.item_listing_basic_info,
+.item_listing_basic_info h2,
+.item_listing_basic_info h2 span,
+.item_price,
+.item_status_and_price_content,
+.item_status_and_price_content div {
+  color: #fff !important;
+}
+.item_listing_basic_info h2,
+.item_listing_basic_info h2 span[itemprop="name"],
+.item_price {
+  color: #00bcd4 !important;
+}
+.main_image_container,
+.image_thumbnail_container,
+.item_image_carousel,
+.slick_carousel_item_container {
+  background: #000 !important;
+  border-color: #333 !important;
+}
+.item_listing_flag,
+.item_listing_flag .flag_text_container {
+  background: #111 !important;
+  color: #ddd !important;
+  border-color: #333 !important;
+}
+.item_listing_flag.digital_download,
+.item_listing_flag.digital_download .flag_text_container {
+  background: #0a2a14 !important;
+  color: #7dcea0 !important;
+}
+.item_listing_flag.recent_views,
+.item_listing_flag.recent_views .flag_text_container {
+  background: #0a1a2a !important;
+  color: #7eb8e8 !important;
+}
+input[type="number"],
+input[type="text"],
+.quantity_input,
+.item_quantity,
+.add_to_cart_button_container input,
+.item_listing_add_to_cart_container input {
+  background: #111 !important;
+  color: #fff !important;
+  border: 1px solid #444 !important;
+}
+.quantity_decrement,
+.quantity_increment,
+button.quantity_button {
+  background: #1a1a1a !important;
+  color: #fff !important;
+  border: 1px solid #444 !important;
+}
+.slick-dots li button,
+.item_image_carousel .slick-dots li button {
+  background: #333 !important;
+  border-color: #666 !important;
+}
+.slick-dots li.slick-active button {
+  background: #1a6fd4 !important;
+}
+
+/* === Kartu seller + quantity hitam === */
+.item_listing_seller_details,
+.seller_details,
+.booth_details,
+.seller_contact_options,
+.item_listing_seller_and_shipping_info,
+.item_quantity_select,
+.quantity_button,
+.quantity_dropdown,
+select.quantity_dropdown {
+  background: #000 !important;
+  background-color: #000 !important;
+  color: #fff !important;
+  border-color: #333 !important;
+}
+.item_listing_seller_details,
+.seller_details {
+  border: 1px solid #333 !important;
+  border-radius: 6px;
+}
+.booth_link a,
+.feedback_rating,
+.feedback_rating_details,
+.feedback_rating a,
+.seller_details a {
+  color: #7eb8e8 !important;
+}
+.user_feedback_star,
+.user_feedback_star i,
+.feedback_rating .fa-star {
+  color: #f5c842 !important;
+}
+.seller_details_contact_button,
+a.seller_details_contact_button,
+a.contact_seller {
+  background: #111 !important;
+  color: #7eb8e8 !important;
+  border: 1px solid #444 !important;
+}
+.seller_details_contact_button:hover,
+a.contact_seller:hover {
+  background: #1a1a1a !important;
+  color: #fff !important;
+}
+.item_quantity_select .quantity_button,
+.quantity_button.subtract,
+.quantity_button.add {
+  background: #111 !important;
+  color: #fff !important;
+  border: 1px solid #444 !important;
+}
+.item_quantity_select .quantity_button.disabled {
+  background: #0a0a0a !important;
+  color: #666 !important;
+}
+.quantity_dropdown,
+select#item_to_add_quantity {
+  background: #111 !important;
+  color: #fff !important;
+  border: 1px solid #444 !important;
+}
+.item_listing_tag.membership.gold,
+.item_listing_tag.membership.gold a {
+  background: #c9a227 !important;
+  color: #000 !important;
+}
+
+/* === Header tengah (logo + search) hitam === */
+#header,
+#header .wrapper,
+.header_search,
+.header_search .wrapper,
+.header_search_container,
+#header_search_box,
+.header_search form,
+.bonanza_logo {
+  background: #000 !important;
+  background-color: #000 !important;
+  background-image: none !important;
+  display: inline-flex !important;
+  align-items: center !important;
+}
+.bonanza_logo img,
+img.link_to_home {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  max-height: 48px !important;
+  width: auto !important;
+  height: 40px !important;
+  object-fit: contain !important;
+}
+.header_search input[type="text"],
+.header_search input[type="search"],
+#header_search_box input,
+.header_search_container input {
+  background: #111 !important;
+  color: #fff !important;
+  border: 1px solid #333 !important;
+}
+.header_search button,
+.header_search .search_button,
+#header_search_box button {
+  background: #1a5c2a !important;
+  color: #fff !important;
+  border: none !important;
+}
+
+/* === Footer hitam === */
+#footer,
+#footer .wrapper,
+.footer_links,
+.footer_links .wrapper,
+.footer_links_container,
+.footer_links_menu,
+.footer_links_menu_item,
+.footer_bottom,
+.footer_bottom .wrapper,
+.footer_legal,
+.footer_links_social_media,
+.utilities,
+.trust {
+  background: #000 !important;
+  background-color: #000 !important;
+  background-image: none !important;
+  color: #ccc !important;
+  border-color: #222 !important;
+}
+#footer a,
+.footer_links a,
+.footer_links_menu_item a,
+.footer_legal a,
+.footer_legal li,
+.utilities a,
+.accessibility_trigger,
+.accessibility_trigger span,
+#select_locale_link {
+  color: #ddd !important;
+}
+#footer a:hover,
+.footer_links a:hover,
+.footer_legal a:hover {
+  color: #fff !important;
+}
+.footer_legal {
+  border-top: 1px solid #222 !important;
+}
+.footer_bottom {
+  border-top: 1px solid #222 !important;
+  border-bottom: 1px solid #222 !important;
+}
+</style>
+
+<style id="global-text-readability">
+/* === Teks terbaca di background hitam === */
+.item_listing_additional_info,
+.item_listing_body,
+.item_listing_main,
+.item_listing_basic_info,
+.item_listing_seller_and_shipping_info {
+  color: #e8e8e8 !important;
+}
+.article-section-AYUHOKI,
+.article-section-AYUHOKI * { color: #e0e0e0 !important; }
+.article-section-AYUHOKI a  { color: #00bcd4 !important; }
+.article-section-AYUHOKI strong { color:#ffffff !important; font-weight:700; }
+.article-section-AYUHOKI h1,
+.article-section-AYUHOKI h2,
+.article-section-AYUHOKI h3 { color:#ffffff !important; }
+
+.AYUHOKI-section-title { color:#d4e4ff !important; }
+
+.faq-section-AYUHOKI h2.AYUHOKI-h2,
+.review-section-AYUHOKI h2.AYUHOKI-h2 { color:#ffffff !important; }
+
+.faq-answer-AYUHOKI { color:#e0e0e0 !important; background:#0a0a0a !important; }
+
+.review-card-AYUHOKI { background:#0d0d0d !important; border-color:rgba(26,111,212,0.2) !important; }
+.review-body { color:#e0e0e0 !important; }
+.review-name { color:#ffffff !important; }
+.review-stars { color:#e0a800 !important; }
+
+.AYUHOKI-float-table tbody td { color:#e0e0e0 !important; }
+.AYUHOKI-float-table tbody td:first-child { color:#a8c8ff !important; }
+.AYUHOKI-float-table tbody tr:nth-child(odd) { background:#0a0a0a !important; }
+.AYUHOKI-float-table tbody tr:nth-child(even) { background:#111 !important; }
+
+/* === CENTER FIX — rata tengah konten utama === */
+.item_listing_basic_info,
+.item_listing_basic_info .item_listing_title_and_price,
+.item_listing_basic_info .item_listing_add_to_cart_container,
+.item_listing_basic_info .item_listing_seller_details_container {
+  text-align: center !important;
+}
+.item_listing_basic_info .item_listing_add_to_cart_container form,
+.item_listing_basic_info .item_listing_add_to_cart_container .add_to_cart_button_container {
+  display: flex !important;
+  justify-content: center !important;
+  flex-wrap: wrap;
+}
+.AYUHOKI-float-table,
+.winner-section,
+#winnerBoard,
+.faq-section-AYUHOKI,
+.review-section-AYUHOKI,
+.article-section-AYUHOKI,
+.btn-x {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+.item_listing_basic_info .btn-x {
+  display: block !important;
+  width: fit-content;
+  margin: 6px auto !important;
+}
+/* center tombol daftar/login */
+.item_listing_add_to_cart_container {
+  text-align: center !important;
+}
+
+/* Winner table — teks terang di background hitam */
+.winner-scroll-container,
+.winner-scroll-container * { color: #e0e0e0; }
+.winner-row-id   { color:#ffffff   !important; font-weight:700; }
+.winner-row-game { color:#c8deff   !important; }
+.winner-row-amount {
+  background:-webkit-linear-gradient(left,#ffe066,#f5c842) !important;
+  -webkit-background-clip:text !important;
+  -webkit-text-fill-color:transparent !important;
+}
+.winner-update-bar { color:#c8deff !important; background:linear-gradient(135deg,#000000,#0d1f3c) !important; }
+.winner-update-bar span { color:#c8deff !important; }
+</style>
+
+
+<style id="header-bounce-effect">
+/* Bounce effect on header nav links */
+.header_shopping .header_top_level_menu > li > a,
+.header_utilities .header_top_level_menu > li > a,
+.header_utilities .account > li > a {
+  display: inline-block;
+  transition: transform 0.15s ease;
+}
+.header_shopping .header_top_level_menu > li > a:hover,
+.header_utilities .header_top_level_menu > li > a:hover,
+.header_utilities .account > li > a:hover {
+  animation: headerBounce 0.5s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+}
+@keyframes headerBounce {
+  0%   { transform: translateY(0); }
+  20%  { transform: translateY(-6px); }
+  40%  { transform: translateY(-3px); }
+  60%  { transform: translateY(-5px); }
+  80%  { transform: translateY(-2px); }
+  100% { transform: translateY(0); }
+}
+</style>
+
+<style id="meteor-subtle">
+/* Meteor: ekor dari ATAS, batu/kepala di BAWAH */
+.meteor-sky{
+  position:fixed;
+  inset:0;
+  pointer-events:none;
+  z-index:9990;
+  overflow:hidden;
+}
+.meteor{
+  position:absolute;
+  display:block;
+  width:2px;
+  height:100px;
+  border-radius:2px;
+  opacity:0;
+  /* ekor transparan di atas → merah dekat batu di bawah */
+  background:linear-gradient(
+    to bottom,
+    transparent 0%,
+    rgba(180,0,0,0.15) 35%,
+    rgba(220,20,20,0.65) 70%,
+    rgba(255,70,70,0.95) 100%
+  );
+  box-shadow:0 0 6px 1px rgba(255,40,40,0.35);
+}
+/* batu / kepala di ujung BAWAH */
+.meteor::before{
+  content:'';
+  position:absolute;
+  bottom:-3px;top:auto;left:50%;
+  width:7px;height:7px;
+  margin-left:-3.5px;
+  border-radius:50%;
+  background:#ff4a4a;
+  box-shadow:0 0 12px 4px rgba(255,40,40,0.8);
+}
+/* kiri atas → kanan bawah */
+.m1,.m2,.m3{
+  top:-120px;
+  left:5%;
+  transform:rotate(-30deg);
+  animation:meteorFromLeft linear infinite;
+}
+/* kanan atas → kiri bawah */
+.m4,.m5,.m6{
+  top:-120px;
+  right:5%;
+  left:auto;
+  transform:rotate(30deg);
+  animation:meteorFromRight linear infinite;
+}
+.m1{animation-duration:4.2s;animation-delay:0s;left:2%;}
+.m2{animation-duration:5s;animation-delay:1.5s;height:80px;left:12%;}
+.m3{animation-duration:4.5s;animation-delay:3s;height:110px;left:22%;}
+.m4{animation-duration:4.8s;animation-delay:0.7s;right:2%;}
+.m5{animation-duration:5.2s;animation-delay:2.3s;height:75px;right:14%;}
+.m6{animation-duration:4.6s;animation-delay:3.8s;height:95px;right:24%;}
+@keyframes meteorFromLeft{
+  0%{transform:translate3d(0,0,0) rotate(-30deg);opacity:0;}
+  6%{opacity:0.9;}
+  50%{opacity:0.65;}
+  100%{transform:translate3d(50vw,120vh,0) rotate(-30deg);opacity:0;}
+}
+@keyframes meteorFromRight{
+  0%{transform:translate3d(0,0,0) rotate(30deg);opacity:0;}
+  6%{opacity:0.9;}
+  50%{opacity:0.65;}
+  100%{transform:translate3d(-50vw,120vh,0) rotate(30deg);opacity:0;}
+}
+@media (prefers-reduced-motion:reduce){
+  .meteor-sky{display:none;}
+}
+</style>
+</head>
+
+      <body id="items_show_body" class="show_body">
+      
+      <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K7ZTHJG"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="meteor-sky" aria-hidden="true">
+  <span class="meteor m1"></span>
+  <span class="meteor m2"></span>
+  <span class="meteor m3"></span>
+  <span class="meteor m4"></span>
+  <span class="meteor m5"></span>
+  <span class="meteor m6"></span>
+</div>
+        
+
+<div id="header" class="">
+  
+  <div class="header_search">
+  <div class="wrapper">
+    <a class="bonanza_logo" title="AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir" href="https://ayuhoki999.com/">
+    <img alt="AYUHOKI" data-retina="true" src="https://marketworld.to/images/2026/08/11/logo-AYUHOKI-Platform-Game-Online.gif" width="150" height="40" style="object-fit:contain;display:block;" onerror="this.onerror=null;this.src='https://marketworld.to/images/2026/08/11/logo-AYUHOKI-Platform-Game-Online.gif';"/>
+    <span class="tagline"></span>
+</a>
+    
+<div id="header_search_box" class="header_search_container">
+    <form action="/" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />      <input type="hidden" name="q[filter_category_id]" />
+      <input type="hidden" name="q[catalog_id]" />
+      <input type="hidden" name="q[in_booth_id]" />
+      <input value="true" type="hidden" name="q[translate_term]" />
+      <input value="0" type="hidden" name="q[shipping_in_price]" />
+      <input value="relevancy" type="hidden" name="q[sort_by]" />
+
+      <input class="search_term" aria-label="Search for items" placeholder="Search..." type="text" name="q[search_term]" />
+      <button name="button" type="submit" title="Submit search" aria-label="Submit search"><i class="fa fa-search inline_icon fa-flip-horizontal"></i></button>
+</form></div>
+  </div>
+</div>
+
+  
+
+  <div class="header_shopping">
+    <div class="wrapper">
+
+      <ul class="header_top_level_menu">
+
+                  <li class="womens_fashion header_top_level_menu_item has_children">
+          <a data-short-name="AYUHOKI" href="https://ayuhoki999.com/">AYUHOKI</a>
+        </li>
+
+                  <li class="mens_fashion header_top_level_menu_item has_children">
+          <a data-short-name="AYUHOKI LINK" href="https://ayuhoki999.com/">AYUHOKI LINK</a>
+        </li>
+
+                  <li class="home_and_garden header_top_level_menu_item has_children">
+          <a data-short-name="AYUHOKI DAFTAR" href="https://ayuhoki999.com/">AYUHOKI DAFTAR</a>
+        </li>
+
+                  <li class="health_and_beauty header_top_level_menu_item has_children">
+          <a data-short-name="GAME ONLINE" href="https://ayuhoki999.com/">GAME ONLINE</a>
+        </li>
+
+                  <li class="collectibles header_top_level_menu_item has_children">
+          <a data-short-name="AYUHOKI" href="https://ayuhoki999.com/">AYUHOKI</a>
+        </li>
+
+                  <li class="handbags header_top_level_menu_item has_children">
+          <a class="SITUS AYUHOKI" data-short-name="SITUS AYUHOKI" href="https://ayuhoki999.com/">SITUS AYUHOKI</a>
+        </li>
+
+                  <li class="jewelry header_top_level_menu_item has_children">
+          <a href="https://ayuhoki999.com/">MASUK AYUHOKI</a>
+        </li>
+
+      </ul>
+    </div>
+  </div>
+
+
+</div>
+
+
+<!-- =================== TOMBOL LOGIN DAFTAR (area merah) =================== -->
+<style>
+#btn-bar {
+  display: flex;
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.nav-btn {
+  flex: 1;
+  display: block;
+  padding: 16px 20px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #000000 !important;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  border: none;
+  transition: filter 0.2s ease;
+}
+.nav-btn.daftar {
+  background: linear-gradient(135deg, #033761, #00bcd4, #033761);
+  border-right: 1px solid rgba(100,150,255,0.2);
+}
+.nav-btn.login {
+  background: linear-gradient(135deg, #033761, #00bcd4, #033761);
+}
+/* Efek kilatan cepat */
+.nav-btn::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.45), transparent);
+  transform: skewX(-20deg);
+  animation: navBtnShine 1.4s linear infinite;
+  pointer-events: none;
+}
+.nav-btn.login::before {
+  animation-delay: 0.7s;
+}
+@keyframes navBtnShine {
+  0%   { left: -100%; }
+  100% { left: 150%;  }
+}
+.nav-btn:hover {
+  filter: brightness(1.15);
+}
+</style>
+<div id="btn-bar">
+  <a href="https://ayu-hoki.pages.dev/atep8/amp" class="nav-btn daftar" target="_blank" rel="nofollow noopener">DAFTAR </a>
+  <a href="https://ayu-hoki.pages.dev/atep8/amp" class="nav-btn login" target="_blank" rel="nofollow noopener">LOGIN</a>
+</div>
+<!-- =================== END TOMBOL LOGIN DAFTAR =================== -->
+
+<div id="site_wrapper">
+  <div id="responsive_header" class="desktop_version">
+    <div class="responsive_header_top_bar">
+    <div class="responsive_header_main_content">
+      <div class="responsive_header_menu_and_logo_container">
+        <span class="responsive_header_menu_button"></span>
+        <span class="responsive_header_menu_button close_button is_hidden"></span>
+
+        <a title="AYUHOKI" href="https://ayuhoki999.com/"><img class="link_to_home" alt="AYUHOKI" data-retina="true" src="https://marketworld.to/images/2026/08/11/favicon-AYUHOKI-Platform-Game-Online.png" style="object-fit:contain;max-height:36px;" onerror="this.onerror=null;this.src='https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp';"/></a>
+      </div>
+
+      <div class="responsive_header_links_container">
+          <a class="responsive_header_link search" href="#"><img alt="Search" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /></a>
+
+          <a class="responsive_header_link log_in" href="https://ayu-hoki.pages.dev/atep8/amp">Log in</a>
+      </div>
+    </div>
+
+      <div class="responsive_header_search_form_container is_hidden">
+        
+<form class="responsive_header_search_form" action="https://ayu-hoki.pages.dev/atep8/amp" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />  <input type="hidden" name="q[filter_category_id]" />
+  <input value="true" type="hidden" name="q[translate_term]" />
+  <input value="0" type="hidden" name="q[shipping_in_price]" />
+  <input type="hidden" name="q[catalog_id]" />
+  <input type="hidden" name="q[in_booth_id]" />
+  <input value="relevancy" type="hidden" name="q[sort_by]" />
+
+  <img class="search_form_icon" src="https://assets.bonanza.com/images/mobile/search_icon_blue.png" alt="Search icon blue" />
+  <input class="search_term" autocomplete="off" aria-label="Search the site for items" type="text" name="q[search_term]" />
+  <a class="search_form_clear_button" href="#"><img alt="Close search form" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /><i class="fa fa-close inline_icon"></i></a>
+  <button name="button" type="submit">Go</button>
+  <a class="search_form_close_button" href="#">Close</a>
+</form>
+      </div>
+
+    
+</div>
+
+  </div>
+
+  <div class="responsive_header_top_menu desktop_version">
+  <div class="responsive_header_top_menu_section featured_categories">
+    <div class="menu_section_header">
+      <h5>Shop by Category</h5>
+    </div>
+
+    <div class="menu_section_content">
+
+        <div class="menu_section_expandable_link" data-category-name="womens_fashion">
+          <a href="https://ayuhoki999.com/">AYUHOKI</a>
+        </div>
+        <div class="menu_section_expandable_link" data-category-name="mens_fashion">
+          <a href="https://ayuhoki999.com/">LINK AYUHOKI</a>
+        </div>
+        <div class="menu_section_expandable_link" data-category-name="home_and_garden">
+          <a href="https://ayuhoki999.com/">SITUS AYUHOKI</a>
+                  <div class="expandable_submenu_section">
+          <h5>CATEGORIES</h5>
+</div>        <div class="expandable_submenu_section">
+          <h5>TOP BRANDS</h5>
+</div>
+        </div>
+        <div class="menu_section_expandable_link" data-category-name="health_and_beauty">
+          <a href="https://ayuhoki999.com/">GAME ONLINE</a>
+                  <div class="expandable_submenu_section">
+          <h5>CATEGORIES</h5>
+        SS</div>        <div class="expandable_submenu_section">
+          <h5>TOP BRANDS</h5></div>
+        </div>
+        <div class="menu_section_expandable_link" data-category-name="collectibles">
+          <a href="https://ayu-hoki.pages.dev/atep8/amp">MASUK AYUHOKI</a>
+        </div>
+        <div class="menu_section_expandable_link" data-category-name="handbags">
+          <a class="link_to_search" href="https://ayuhoki999.com/">GAME ONLINE</a>
+        </div>
+        <div class="menu_section_expandable_link" data-category-name="jewelry">
+          <a href="https://ayuhoki999.com/">AKSES GAME ONLINE</a>
+        </div>
+    </div>
+  </div>
+
+  <div class="responsive_header_top_menu_section account_actions">
+    <div class="menu_section_header">
+      <h5>Your Account</h5>
+    </div>
+
+    <div class="menu_section_content">
+      <ul>
+
+        <li><a href="https://ayu-hoki.pages.dev/atep8/amp">GAME (100)</a></li>
+
+          <li><a href="https://ayu-hoki.pages.dev/atep8/amp">Login/Daftar</a></li>
+      </ul>
+    </div>
+  </div>
+
+
+  <div class="responsive_header_top_menu_section more_actions">
+    <div class="menu_section_header">
+      <h5>More</h5>
+    </div>
+
+    <div class="menu_section_content">
+      <ul>
+          <li><a href="https://ayuhoki999.com/">Start Play Slot Online</a></li>
+
+        <li><a href="https://ayuhoki999.com/">Help Center</a></li>
+        <li><a href="https://ayuhoki999.com/">Contact Support</a></li>
+        <li><a href="https://ayuhoki999.com/">About AYUHOKI</a></li>
+        <li><a href="https://ayuhoki999.com/">Blog</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+  
+
+  <div id="main_wrapper" class="">
+
+    <div id="content" class="clearfix">
+      
+
+      
+
+
+
+
+<div class="item_listing_content_wrapper lang_id locale_id_us">
+  
+
+  
+
+
+
+
+
+
+
+
+<span class="rendering_time">Rendered at 01:21:25 05/15/26</span>
+
+
+  <div class="item_listing_back_link">
+    <a href="https://www.bonanza.com/listings/pragmata-deluxe-edition-pc-steam-account-offline-shared-access/1803753076"><i class="fa fa-angle-left inline_icon"></i> Back</a>
+  </div>
+
+  <div class="item_listing_breadcrumbs">
+    <div id="breadcrumb"><a href="https://ayuhoki999.com/">Home</a> &raquo;
+<a href="https://ayuhoki999.com/">AYUHOKI</a> &raquo;
+<strong>AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir</strong></div>
+  </div>
+
+  
+    <div class="discount_banner discounts_1">
+      <div class="discounts_expander closed discount">
+        <div class="coupon_icon">
+          <i class="fa fa-tags inline_icon"></i>
+        </div>
+        <div class="coupon_text with_expander">
+          <strong>Seller discounts available!</strong>
+          <span>
+            <span class="expander_label_closed">Show <i class="fa fa-angle-down inline_icon"></i></span>
+            <span class="expander_label_open">Hide <i class="fa fa-angle-up inline_icon"></i></span>
+          </span>
+        </div>
+      </div>
+    </div>
+
+
+  <div class="item_listing_body" itemscope itemtype="http://schema.org/Product">
+    <div class="item_listing_main">
+      <div class="item_listing_images">
+        
+
+<div class="main_image_container">
+  <div class="zoom_event_container"><i class="fa fa-search-plus inline_icon zoom_icon fa-flip-horizontal"></i></div>
+  <div class="zoom_cursor_container"><div class="zoom_cursor"></div></div>
+
+  <a title="Show full-size image of AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir" href="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp"><img itemprop="image" alt="AYUHOKI" src="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp" /></a>
+
+</div>
+
+<div class="item_image_zoom_space">
+  <div class="item_image_zoom_inner">
+    <img alt="AYUHOKI " src="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp" />
+  </div>
+</div>
+
+  <div class="item_image_thumbnails">
+      <div class="image_thumbnail_container current" data-image-id="16056996741" data-index="0">
+        <a class="photo_thumb photo_thumb_0 fancybox_trigger" rel="item_image_gallery" aria-label="Show a larger size of this image" data-index="0" href="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp"><img id="image_thumbnail_0" onerror="BONZ.handleBrokenImage(this, 1798738873, &#39;https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp)" alt="AYUHOKI" src="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp" /></a>
+      </div>
+      <div class="image_thumbnail_container" data-image-id="16056999056" data-index="1">
+        <a class="photo_thumb photo_thumb_1 fancybox_trigger" rel="item_image_gallery" aria-label="Show a larger size of this image" data-index="1" href="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp"><img id="image_thumbnail_1" onerror="BONZ.handleBrokenImage(this, 1798738873, &#39;https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp)" alt="AYUHOKI LINK" src="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp" /></a>
+      </div>
+      <div class="image_thumbnail_container" data-image-id="16056993454" data-index="2">
+        <a class="photo_thumb photo_thumb_2 fancybox_trigger" rel="item_image_gallery" aria-label="Show a larger size of this image" data-index="2" href="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp"><img id="image_thumbnail_2" onerror="BONZ.handleBrokenImage(this, 1798738873, &#39;https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp)" alt="GAME ONLINE" src="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp" /></a>
+      </div>
+  </div>
+
+<div class="item_image_carousel" data-show-arrows="true">
+    <div class="slick_carousel_item_container">
+      <a class="photo_thumb photo_thumb_0" rel="" aria-label="Show a larger size of this image" data-index="0" href="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp"><img id="image_thumbnail_0" onerror="BONZ.handleBrokenImage(this, 1798738873, &#39;https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp)" alt="AYUHOKI" src="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp" /></a>
+    </div>
+    <div class="slick_carousel_item_container">
+      <a class="photo_thumb photo_thumb_1" rel="" aria-label="Show a larger size of this image" data-index="1" href="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp"><img id="image_thumbnail_1" onerror="BONZ.handleBrokenImage(this, 1798738873, &#39;https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp)" alt="AYUHOKI LINK" src="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp" /></a>
+    </div>
+    <div class="slick_carousel_item_container">
+      <a class="photo_thumb photo_thumb_2" rel="" aria-label="Show a larger size of this image" data-index="2" href="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp"><img id="image_thumbnail_2" onerror="BONZ.handleBrokenImage(this, 1798738873, &#39;https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp)" alt="GAME ONLINE" src="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp" /></a>
+    </div>
+</div>
+
+
+        <div class="gift_card_items" data-url="https://ayuhoki999.com/" data-max-items="4">
+          <div class="related_booth_items_heading">
+            <h4>Gift Cards for Every Occasion!</h4>
+            <div class="loading"><i class="fa fa-spinner inline_icon fa-pulse"></i></div>
+          </div>
+        </div>
+
+          <div class="item_listing_related_booth_items" data-url="https://ayuhoki999.com/" data-max-items="4">
+            <div class="related_booth_items_header">
+              <h4>More from this seller:</h4>
+              <div class="loading"><i class="fa fa-spinner inline_icon fa-pulse"></i></div>
+            </div>
+          </div>
+
+        <div class="ad_banner_items" data-url="https://ayuhoki999.com/" data-max-items="4">
+          <div class="related_booth_items_heading">
+            <h4>Items you might like</h4>
+            <div class="loading"><i class="fa fa-spinner inline_icon fa-pulse"></i></div>
+          </div>
+        </div>
+      </div>
+
+
+
+      <div class="item_listing_basic_info">
+        
+<div class="item_listing_title_and_price">
+  <div class="item_listing_flags">
+      <div class="item_listing_flag digital_download">
+        <div class="flag_text_container">Digital Download</div>
+      </div>
+
+      <div class="item_listing_flag recent_views">
+        <div class="flag_text_container">99 recent views</div>
+      </div>
+
+  </div>
+
+  <h2 lang="en">
+    <span itemprop="name">AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir</span>
+
+      <meta itemprop="category" content="Software >> Digital Goods & Currency" />
+  </h2>
+
+
+
+  
+
+  <div class="item_status_and_price_container">
+    <div class="item_status_and_price_content" itemprop="offers" itemtype="https://schema.org/Offer" itemscope>
+
+
+      <div class="item_price">
+        $69.99
+      </div>
+
+              <div style="font-size: 14px; color: #b0b0b0">
+                  AYUHOKI adalah platform game online resmi dengan layanan premium terpercaya, akses praktis, informasi lengkap, pelayanan terjamin serta fitur anti blokir.
+              </div>
+
+
+      <link itemprop="url" href="https://ayuhoki999.com/" />
+  <meta itemprop="itemCondition" content="http://schema.org/NewCondition">
+  <meta itemprop="availability" content="https://schema.org/InStock" />
+<meta itemprop="price" content="3.99" />
+<meta itemprop="priceCurrency" content="USD" />
+<div itemprop="shippingDetails" itemtype="https://schema.org/OfferShippingDetails" itemscope>
+    <div itemprop="shippingRate" itemtype="https://schema.org/MonetaryAmount" itemscope>
+        <meta itemprop="value" content="0" />
+      <meta itemprop="currency" content="USD" />
+    </div>
+  <div itemprop="shippingDestination" itemtype="https://schema.org/DefinedRegion" itemscope>
+    <meta itemprop="addressCountry" content="US" />
+  </div>
+    <div itemprop="deliveryTime" itemtype="https://schema.org/ShippingDeliveryTime" itemscope>
+      <div itemprop="handlingTime" itemtype="https://schema.org/QuantitativeValue" itemscope>
+        <meta itemprop="maxValue" content="" />
+      </div>
+    </div>
+</div>
+
+
+          <br/>
+    </div>
+
+  </div>
+</div>
+
+
+
+          
+<div class="item_listing_add_to_cart_container">
+  <form class="add_item_to_cart_form" action="https://ayuhoki999.com/" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="tlTUDZNwQTQIvfKegGOwvkKd8DvvBx8B/3JAYq3kYjo98BKqm4sgn6VE/98GQsLE2gfNLazKf6NIITcCEXbUnw==" />
+
+      <div class="item_quantity_select" data-max-quantity="18">
+        <div class="quantity_button disabled subtract"><i class="fa fa-minus inline_icon"></i></div>
+        <select class="quantity_dropdown" aria-label="Item quantity to add to cart" name="item_to_add[quantity]" id="item_to_add_quantity"><option selected="selected" value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option></select>
+        <div class="quantity_button add"><i class="fa fa-plus inline_icon"></i></div>
+      </div>
+
+
+
+
+
+
+</form></div>
+
+
+<div class="item_listing_additional_actions_container">
+
+
+  <div class="social_share_options_container">
+    <div class="social_share_options  shifted" data-booth-id="9391730" data-booth-owner-sharing="false">
+      <a class="facebook" popup="true" title="Share" href="https://www.facebook.com/sharer.php?u=https://ayuhoki999.com/"><img alt="Share on Facebook" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /><i class="fa fa-facebook-official inline_icon"></i></a>
+      <a popup="new_window height=525,width=600,scrollbars=1" class="twitter" title="Tweet" href="https://twitter.com/share?url=https://www.bonanza.com/listings/1798738873&amp;text=Crimson+Desert+Deluxe+Edition+PC+Steam+%7C+Account+%7C+Offline+%7C+Shared+Access&amp;related=AYUHOKI:Everything but the Ordinary&amp;count=none&amp;counturl=https://ayuhoki999.com/"><img alt="Share on Twitter" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /><i class="fa fa-twitter inline_icon"></i></a>
+        <a class="pinterest" popup="true" title="Pin it" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.bonanza.com%2Flistings%2FCrimson-Desert-Deluxe-Edition-PC-Steam-Account-Offline-Shared-Access%2F1798738873&amp;media=https%3A%2F%2Fimages-bucket.bonanzastatic.com%2Fafu%2Fimages%2F71bb%2Fea73%2Fb0da_16056996741%2Fimage-bda1df13-63d9-4172-8d21-4a0d069efd3a.png"><img alt="Share on Pinterest" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /><i class="fa fa-pinterest inline_icon"></i></a>
+      <a class="email_share" title="Email" href="/cdn-cgi/l/email-protection#93ace0e6f1f9f6f0e7aed5fce6fdf7b3f2fdb3fae7f6feb3e7fbf2e7b3fef2f7f6b3fef6b3e7fbfafdf8b3fcf5b3eafce6b5f2fee3a8f1fcf7eaaedbfab3e7fbf6e1f6bfb6a3d7b6a3d2b6a3d7b6a3d2dab3f5fce6fdf7b3e7fbfae0b3fae7f6feb3fcfdb3d1fcfdf2fde9f2b3f2fdf7b3dab3e7fbfce6f4fbe7b3eafce6b3fefaf4fbe7b3000000af8f6b3fae7bdb6a3d7b6a3d2b6a3d7b6a3d2fbe7e7e3e0a9bcbce4e4e4bdf1fcfdf2fde9f2bdf0fcfebc000000ae0e7fafdf4e0bcd0e1fafee0fcfdbed7f6e0f6e1e7bed7f6ffe6ebf6bed6f7fae7fafcfdbec3d0bec0e7f6f2febed2f0f0fce6fde7bedcf5f5000000afdf6bec0fbf2e1f6f7bed2f0f0f6e0e0bca2a4aaaba4a0ababa4a0b6a3d7b6a3d2b6a3d7b6a3d2d1fcfdf2fde9f2b3fae0b3f2fdb3fcfd000000afdf6b3fef2e1f8f6e7e30000002f0f6b3f7f6f7faf0f2e7f6f7b3e7fcb3f1e6eafafdf4b3f2fdf7b3e0f6000000ffafdf4b3b5e2e6fce7a8d6e5f6e1eae7fbfafdf4b3f1e6e7b3e7fbf6b3fce1f7fafdf2e1eabdb5e2e6fce7a8"><img alt="Share by Email" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /><i class="fa fa-envelope-square inline_icon"></i></a>
+    </div>
+  </div>
+</div>
+
+
+
+                
+<div class="item_listing_seller_and_shipping_info">
+  
+<div class="item_listing_seller_details">
+  <div class="seller_details">
+    
+  <div class="seller_tags">
+      <div class="item_listing_tag membership gold">
+        <a target="_blank" href="https://ayuhoki999.com/"><i class="fa fa-star inline_icon"></i> Premium Seller</a>
+      </div>
+  </div>
+
+
+    <div class="booth_details">
+      <div class="seller_profile_picture">
+        <a href="https://ayuhoki999.com/"><img class="user_profile_pic" alt="AYUHOKI" src="https://marketworld.to/images/2026/08/11/favicon-AYUHOKI-Platform-Game-Online.png" /></a>
+      </div>
+      <div class="booth_title_and_feedback">
+        <div class="booth_link"><a href="https://ayuhoki999.com/">AYUHOKI</a></div>
+        <div class="feedback_rating"><a href="/"><div class="user_feedback_stars_container"><span class="sr-only">4.96 stars average  user feedback</span><span class="user_feedback_star"><i class="fa fa-star inline_icon"></i></span><span class="user_feedback_star"><i class="fa fa-star inline_icon"></i></span><span class="user_feedback_star"><i class="fa fa-star inline_icon"></i></span><span class="user_feedback_star"><i class="fa fa-star inline_icon"></i></span><span class="user_feedback_star"><i class="fa fa-star inline_icon"></i></span></div></a> <span class="feedback_rating_details">(199 transactions)</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="seller_contact_options">
+    <a class="seller_details_contact_button contact_seller" href="https://ayuhoki999.com/"><span class="short_form">Contact</span><span class="long_form">Contact the seller</span></a>
+
+  </div>
+</div>
+
+
+  
+<!-- TABEL INFORMASI SITUS -->
+<style>
+/* =========================================
+   AYUHOKI — DARK NAVY BLUE THEME
+   Primary: #000000 (navy dark)
+   Accent:  #00bcd4 (navy medium)
+   Glow:    #00bcd4 (electric blue)
+   Light:   #4a9eff (bright blue)
+   ========================================= */
+
+:root {
+  --navy:      #000000;
+  --navy-mid:  #0d1f3c;
+  --navy-card: #0f2347;
+  --navy-btn:  #00bcd4;
+  --blue-glow: #00bcd4;
+  --blue-light:#00bcd4;
+  --blue-flash:#00bcd4;
+  --white:     #ffffff;
+  --off-white: #e8e8e8;
+  --gold:      #f5c842;
+}
+
+/* ---- GLOBAL HEADING BORDERS ---- */
+.AYUHOKI-section-title {
+  font-size:15px; font-weight:700; color:#d4e4ff;
+  border-left:4px solid var(--blue-glow);
+  padding-left:10px; margin-bottom:14px;
+  display:flex; align-items:center; gap:6px;
+}
+
+/* =========================================
+   FLOATING TABLE EFFECT
+   ========================================= */
+.AYUHOKI-float-table {
+  margin-top:20px;
+  border-radius:10px;
+  overflow:hidden;
+  font-size:13px;
+  box-shadow:
+    0 4px 16px rgba(26,111,212,0.25),
+    0 2px 6px rgba(0,0,0,0.5),
+    0 0 0 1px rgba(26,111,212,0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background: var(--navy-card);
+}
+.AYUHOKI-float-table:hover {
+  transform: translateY(-4px);
+  box-shadow:
+    0 12px 32px rgba(26,111,212,0.4),
+    0 4px 12px rgba(0,0,0,0.6),
+    0 0 0 1px rgba(74,158,255,0.5);
+}
+.AYUHOKI-float-table table {
+  width:100%; border-collapse:collapse;
+}
+.AYUHOKI-float-table thead tr {
+  background: linear-gradient(135deg, var(--navy-btn), var(--blue-glow));
+  color:#ffffff;
+}
+.AYUHOKI-float-table thead th {
+  padding:11px 14px; text-align:left; font-size:14px; letter-spacing:0.4px;
+}
+.AYUHOKI-float-table tbody tr {
+  border-bottom:1px solid rgba(74,158,255,0.12);
+  transition: background 0.2s;
+}
+.AYUHOKI-float-table tbody tr:hover {
+  background: rgba(26,111,212,0.15);
+}
+.AYUHOKI-float-table tbody tr:nth-child(odd) {
+  background: rgba(15,35,71,0.6);
+}
+.AYUHOKI-float-table tbody tr:nth-child(even) {
+  background: rgba(13,31,60,0.4);
+}
+.AYUHOKI-float-table td {
+  padding:9px 14px; color: var(--off-white);
+}
+.AYUHOKI-float-table td:first-child {
+  font-weight:600; color:#a8c8ff; width:45%;
+}
+.AYUHOKI-float-table a { color: var(--blue-light); }
+
+
+
+
+
+/* =========================================
+   FAQ ACCORDION — DARK FLOAT
+   ========================================= */
+.faq-section-AYUHOKI { margin-bottom:32px; }
+.faq-section-AYUHOKI h2.AYUHOKI-h2 {
+  font-size:17px; font-weight:700; color:#ffffff;
+  border-bottom:3px solid var(--blue-glow);
+  padding-bottom:8px; margin-bottom:16px;
+}
+.faq-item-AYUHOKI {
+  margin-bottom:12px;
+  border-radius:9px; overflow:hidden;
+  box-shadow:
+    0 4px 16px rgba(0,0,0,0.4),
+    0 0 0 1px rgba(26,111,212,0.25);
+  transition: transform 0.25s, box-shadow 0.25s;
+}
+.faq-item-AYUHOKI:hover {
+  transform:translateY(-3px);
+  box-shadow:
+    0 10px 28px rgba(26,111,212,0.35),
+    0 0 0 1px rgba(74,158,255,0.5);
+}
+.faq-btn-AYUHOKI {
+  width:100%; text-align:left;
+  background: linear-gradient(135deg, var(--navy-btn), var(--blue-glow));
+  color:#ffffff; border:none; cursor:pointer;
+  padding:11px 14px; font-size:13px; font-weight:600;
+  display:flex; justify-content:space-between; align-items:center;
+  gap:8px;
+}
+.faq-btn-AYUHOKI .faq-chevron {
+  font-size:18px; font-weight:300;
+  transition: transform 0.3s ease;
+  flex-shrink:0;
+}
+.faq-item-AYUHOKI.open .faq-chevron { transform: rotate(45deg); }
+.faq-answer-AYUHOKI {
+  background: #0a0a0a;
+  color: #e0e0e0;
+  padding:0 14px; font-size:13px; line-height:1.7;
+  max-height:0; overflow:hidden;
+  transition: max-height 0.35s cubic-bezier(0.4,0,0.2,1), padding 0.35s;
+}
+.faq-item-AYUHOKI.open .faq-answer-AYUHOKI {
+  max-height:300px; padding:11px 14px;
+}
+
+/* =========================================
+   REVIEW SLIDER — DARK FLOAT CARDS
+   ========================================= */
+.review-section-AYUHOKI { margin-bottom:24px; }
+.review-section-AYUHOKI h2.AYUHOKI-h2 {
+  font-size:17px; font-weight:700; color:#ffffff;
+  border-bottom:3px solid var(--blue-glow);
+  padding-bottom:8px; margin-bottom:16px;
+}
+.review-slider-outer {
+  overflow:hidden; position:relative;
+  /* Fade edges */
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, black 6%, black 94%, transparent 100%);
+  mask-image: linear-gradient(to right, transparent 0%, black 6%, black 94%, transparent 100%);
+}
+.review-slider-track {
+  display:flex; gap:14px;
+  width:max-content;
+  animation: reviewSlide 28s linear infinite;
+}
+@keyframes reviewSlide {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.review-slider-track:hover { animation-play-state:paused; }
+.review-card-AYUHOKI {
+  min-width:270px; max-width:270px;
+  background: var(--navy-card);
+  border:1px solid rgba(26,111,212,0.25);
+  border-radius:10px; padding:16px;
+  box-shadow:0 4px 16px rgba(0,0,0,0.4);
+  flex-shrink:0;
+  transition: transform 0.25s, box-shadow 0.25s, border-color 0.25s;
+}
+.review-card-AYUHOKI:hover {
+  transform:translateY(-4px);
+  box-shadow:0 10px 28px rgba(26,111,212,0.35);
+  border-color:rgba(74,158,255,0.5);
+}
+.review-card-header {
+  display:flex; align-items:center; gap:10px; margin-bottom:9px;
+}
+.review-avatar {
+  width:36px; height:36px; border-radius:50%;
+  display:flex; align-items:center; justify-content:center;
+  font-weight:700; font-size:14px; flex-shrink:0;
+  border:2px solid rgba(74,158,255,0.4);
+}
+.review-name { font-size:13px; font-weight:700; color:#ffffff; }
+.review-stars { color:var(--gold); font-size:12px; }
+.review-body {
+  font-size:12px; color:#e0e0e0; line-height:1.7;
+  font-style:italic;
+}
+
+/* =========================================
+   ARTICLE SECTION
+   ========================================= */
+.article-section-AYUHOKI h2 {
+  font-size:18px; font-weight:700; color:#ffffff;
+  border-bottom:3px solid #00bcd4;
+  padding-bottom:8px; margin-bottom:14px;
+}
+.article-section-AYUHOKI h1,
+.article-section-AYUHOKI h3 {
+  color:#ffffff;
+}
+.article-section-AYUHOKI p {
+  font-size:13px; color:#e8e8e8 !important; line-height:1.8; margin-bottom:12px;
+}
+.article-section-AYUHOKI strong { color:#ffffff; }
+
+/* =========================================
+   BTN-X — DAFTAR / LOGIN (dark navy flash)
+   ========================================= */
+.btn-x {
+  display:inline-block; min-width:200px;
+  text-align:center; padding:14px 28px; margin:5px;
+  font-weight:700; border-radius:10px;
+  text-decoration:none; cursor:pointer;
+  position:relative; overflow:hidden;
+  color:#000000 !important;
+  background: linear-gradient(135deg, #000000 0%, #00bcd4 50%, #00bcd4 100%);
+  background-size: 200% 200%;
+  box-shadow:
+    0 3px 15px rgba(26,111,212,0.5),
+    0 0 0 1px rgba(74,158,255,0.3);
+  animation: btnNavyGlow 3s ease-in-out infinite alternate;
+  transition: transform 0.2s;
+}
+@keyframes btnNavyGlow {
+  0%   { background-position:0% 50%;   box-shadow: 0 3px 15px rgba(26,111,212,0.5), 0 0 20px rgba(74,158,255,0.2); }
+  50%  { background-position:100% 50%; box-shadow: 0 3px 25px rgba(26,111,212,0.8), 0 0 35px rgba(0,195,255,0.4); }
+  100% { background-position:0% 50%;   box-shadow: 0 3px 15px rgba(26,111,212,0.5), 0 0 20px rgba(74,158,255,0.2); }
+}
+/* Flash kilatan */
+.btn-x::before {
+  content:'';
+  position:absolute; top:0; left:-80%;
+  width:60%; height:100%;
+  background: linear-gradient(120deg, transparent, rgba(255,255,255,0.35), transparent);
+  transform:skewX(-25deg);
+  animation: btnFlash 2.2s ease-in-out infinite;
+}
+@keyframes btnFlash {
+  0%,70%  { left:-80%; opacity:0; }
+  72%     { opacity:1; }
+  90%     { left:140%; opacity:0; }
+  100%    { left:140%; opacity:0; }
+}
+.btn-x:hover {
+  transform:translateY(-2px);
+  box-shadow: 0 6px 25px rgba(26,111,212,0.7), 0 0 40px rgba(0,195,255,0.5);
+}
+
+</style>
+
+
+
+
+
+
+
+      </div>
+
+
+              
+
+
+
+
+      <div class="gift_card_items" data-url="https://ayuhoki999.com/" data-max-items="4">
+        <div class="related_booth_items_heading">
+          <h4>Gift Cards for Every Occasion!</h4>
+          <div class="loading"><i class="fa fa-spinner inline_icon fa-pulse"></i></div>
+        </div>
+      </div>
+
+        <div class="item_listing_related_booth_items" data-url="https://ayuhoki999.com/" data-max-items="4">
+          <div class="related_booth_items_heading">
+            <h4>More from this seller:</h4>
+            <div class="loading"><i class="fa fa-spinner inline_icon fa-pulse"></i></div>
+          </div>
+        </div>
+
+
+      <div class="ad_banner_items" data-url="https://ayuhoki999.com/" data-max-items="4">
+        <div class="related_booth_items_heading">
+          <h4>Items you might like</h4>
+          <div class="loading"><i class="fa fa-spinner inline_icon fa-pulse"></i></div>
+        </div>
+      </div>
+
+  </div>
+</div>
+
+<!-- ARTIKEL, FAQ DAN REVIEW — dipindah keluar dari kolom kanan agar rata tengah penuh -->
+<div style="margin-top:30px; padding:0 4px; clear:both;">
+
+  <!-- =================== TABEL KEUNGGULAN (di atas artikel) =================== -->
+<div style="margin:0 0 24px;border-radius:10px;overflow:hidden;font-size:13px;box-shadow:0 2px 8px rgba(0,0,0,0.12),0 0 0 1px rgba(26,111,212,0.15);">
+  <table style="width:100%;border-collapse:collapse;">
+    <thead><tr style="background:linear-gradient(135deg,#00bcd4,#00bcd4);color:#000000;"><th colspan="2" style="padding:11px 14px;text-align:left;font-size:14px;letter-spacing:.4px;font-weight:700;">🏆 Keunggulan AYUHOKI</th></tr></thead>
+    <tbody>
+      <tr style="background:#000000;border-bottom:1px solid #000000;"><td style="padding:9px 14px;font-weight:600;color:#fa0000;width:45%;">ℹ️ Proses Pendaftaran</td><td style="padding:9px 14px;color:#fa0000;">1 Menit (Tercepat)</td></tr>
+      <tr style="background:#000000;border-bottom:1px solid #000000;"><td style="padding:9px 14px;font-weight:600;color:#fa0000;">👥 Player Aktif</td><td style="padding:9px 14px;color:#fa0000;">900K+ Player Indonesia</td></tr>
+      <tr style="background:#000000;border-bottom:1px solid #000000;"><td style="padding:9px 14px;font-weight:600;color:#fa0000;">🌐 Platform</td><td style="padding:9px 14px;color:#fa0000;">Web, Android &amp; iOS</td></tr>
+      <tr style="background:#000000;border-bottom:1px solid #000000;"><td style="padding:9px 14px;font-weight:600;color:#fa0000;">🎮 Jumlah Game</td><td style="padding:9px 14px;color:#fa0000;">100+ Slot Online &amp; Virtual</td></tr>
+      <tr style="background:#000000;border-bottom:1px solid #000000;"><td style="padding:9px 14px;font-weight:600;color:#fa0000;">⚙️ Provider</td><td style="padding:9px 14px;color:#fa0000;">Slot Online, Slot Gacor, Slot777, Slot88</td></tr>
+      <tr style="background:#000000;"><td style="padding:9px 14px;font-weight:600;color:#fa0000;">💬 Bahasa</td><td style="padding:9px 14px;color:#fa0000;">Indonesia</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- =================== ARTIKEL RICH =================== -->
+<div class="article-section-AYUHOKI" style="margin-bottom:32px;">
+<h1>AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir</h1>
+
+<p style="text-align:justify; color:#e8e8e8;">
+AYUHOKI adalah platform game online resmi dengan layanan premium terpercaya, akses praktis, informasi lengkap, pelayanan terjamin serta fitur anti blokir.
+</p>
+
+<hr />
+
+<h2>Pengalaman Bermain Yang Stabil dan Mudah Diakses</h2>
+
+  <p style="text-align:justify; color:#e8e8e8;">
+    AYUHOKI hadir sebagai platform game online yang menawarkan layanan premium terpercaya dengan akses yang praktis dan nyaman.
+    Dirancang untuk memenuhi kebutuhan pemain modern, platform ini menekankan kemudahan, kelengkapan informasi, serta pelayanan yang terjamin.
+  </p>
+  <p style="text-align:justify; color:#e8e8e8;">
+    Sebagai platform game online, AYUHOKI menyediakan pengalaman bermain yang stabil dan mudah diakses.
+    Pengguna dapat menikmati berbagai fitur tanpa harus menghadapi proses yang rumit.
+    Akses yang praktis menjadi salah satu keunggulan utama, sehingga pemain bisa langsung masuk dan memulai permainan kapan saja.
+  </p>
+  <p style="text-align:justify; color:#e8e8e8;">
+    Layanan premium yang terpercaya menjadi fokus utama. AYUHOKI berupaya memberikan kualitas layanan yang konsisten, mulai dari keamanan data hingga kenyamanan bermain.
+    Informasi yang disajikan juga lengkap, membantu pemain memahami fitur, promo, maupun panduan penggunaan dengan lebih mudah.
+  </p>
+  <p style="text-align:justify; color:#e8e8e8;">
+    Pelayanan dijamin responsif dan siap membantu. Tim support siap memberikan solusi atas berbagai pertanyaan atau kendala yang dihadapi pengguna.
+    Selain itu, platform ini dikenal dengan fitur anti blokir, sehingga akses tetap lancar meskipun ada pembatasan dari sisi jaringan.
+  </p>
+  <p style="text-align:justify; color:#e8e8e8;">
+    Dengan kombinasi platform game online yang handal, layanan premium terpercaya, akses praktis, informasi lengkap, pelayanan terjamin, serta sistem anti blokir, AYUHOKI menjadi pilihan menarik bagi mereka yang mencari pengalaman bermain yang lebih nyaman dan stabil. Tetap mainkan dengan bijak dan prioritaskan hiburan yang terkendali.
+  </p>
+  <h3>Akses Praktis Tanpa Ribet</h3>
+
+  <p style="text-align:justify; color:#e8e8e8;">
+    Salah satu keunggulan AYUHOKI terletak pada kemudahan akses melalui link masuk cepat yang dirancang agar pengguna dapat menuju platform tanpa proses yang rumit. Navigasi yang jelas dan struktur halaman yang terorganisir juga membantu pengguna menemukan informasi maupun fitur permainan secara lebih praktis tanpa menghabiskan banyak waktu.
+  </p>
+
+  <h3>Fitur Anti Blokir</h3>
+
+  <p style="text-align:justify; color:#e8e8e8;">
+    AYUHOKI menyediakan Fitur anti blokir agar sistem atau cara yang digunakan platform online (seperti AYUHOKI) agar situs tetap bisa diakses meskipun domain utama sempat diblokir oleh provider internet atau pihak tertentu. Tujuan utama fitur ini adalah memberikan kenyamanan akses tanpa harus ribet mencari cara lain. Pemain cukup menggunakan link resmi yang disediakan platform, lalu bisa langsung masuk ke akun.
+  </p>
+
+  <h2>Peluang Dan Pengalaman Yang Lebih Menguntungkan</h2>
+
+  <p style="text-align:justify; color:#e8e8e8;">
+    AYUHOKI menghadirkan pilihan permainan game online dalam satu platform dengan pengalaman digital yang dibuat lebih praktis dan modern. Pembaruan fitur dan peningkatan performa dilakukan untuk menjaga kualitas platform, sehingga pengguna dapat menikmati akses yang stabil sekaligus menjelajahi berbagai pilihan permainan yang tersedia dengan lebih nyaman.
+  </p>
+
+  <h2>Kesimpulan</h2>
+
+  <p style="text-align:justify; color:#e8e8e8;">
+    AYUHOKI menjadi platform permainan game online yang menggabungkan layanan premium terpercaya, akses praktis, informasi lengkap, pelayanan terjamin serta fitur anti blokir. Dengan sistem yang responsif dan navigasi yang praktis, AYUHOKI memberikan pengalaman akses yang nyaman bagi pengguna yang mencari platform game online dengan tampilan modern dan mudah digunakan.
+  </p>
+  <!-- =================== FAQ ACCORDION =================== -->
+  <div class="faq-section-AYUHOKI">
+    <h2 class="AYUHOKI-h2">❓ FAQ — Pertanyaan Yang Sering Diajukan</h2>
+
+    <div class="faq-item-AYUHOKI open" id="faq-0">
+      <button class="faq-btn-AYUHOKI" onclick="toggleFaq(0)">
+        Apa itu AYUHOKI?
+        <span class="faq-chevron">+</span>
+      </button>
+      <div class="faq-answer-AYUHOKI">AYUHOKI adalah platform game online resmi dengan layanan premium terpercaya, akses praktis, informasi lengkap, pelayanan terjamin serta fitur anti blokir.</div>
+    </div>
+
+    <div class="faq-item-AYUHOKI" id="faq-1">
+      <button class="faq-btn-AYUHOKI" onclick="toggleFaq(1)">
+        Bagaimana cara menggunakan link masuk cepat AYUHOKI?
+        <span class="faq-chevron">+</span>
+      </button>
+      <div class="faq-answer-AYUHOKI">Pengguna dapat menggunakan link masuk AYUHOKI yang tersedia untuk mengakses halaman utama secara lebih praktis. Sistem navigasinya dibuat sederhana agar berbagai menu dan informasi mudah ditemukan.</div>
+    </div>
+
+    <div class="faq-item-AYUHOKI" id="faq-2">
+      <button class="faq-btn-AYUHOKI" onclick="toggleFaq(2)">
+        Apakah fitur AYUHOKI dapat diakses melalui perangkat mobile?
+        <span class="faq-chevron">+</span>
+      </button>
+      <div class="faq-answer-AYUHOKI">Ya, tampilan AYUHOKI dirancang responsif sehingga dapat menyesuaikan layar smartphone, tablet, maupun desktop untuk memberikan pengalaman penggunaan yang lebih nyaman.</div>
+    </div>
+
+    <div class="faq-item-AYUHOKI" id="faq-3">
+      <button class="faq-btn-AYUHOKI" onclick="toggleFaq(3)">
+        Mengapa akses AYUHOKI dibuat sederhana dan praktis?
+        <span class="faq-chevron">+</span>
+      </button>
+      <div class="faq-answer-AYUHOKI">Konsep akses praktis AYUHOKI bertujuan mempermudah pengguna menjelajahi permainan, informasi, serta berbagai fitur yang tersedia tanpa harus melewati navigasi yang terlalu rumit.</div>
+    </div>
+
+    <div class="faq-item-AYUHOKI" id="faq-4">
+      <button class="faq-btn-AYUHOKI" onclick="toggleFaq(4)">
+        Apa keunggulan fitur anti blokir di AYUHOKI?
+        <span class="faq-chevron">+</span>
+      </button>
+      <div class="faq-answer-AYUHOKI">Tujuan utama fitur ini adalah memberikan kenyamanan akses tanpa harus ribet mencari cara lain. Pemain cukup menggunakan link resmi yang disediakan platform, lalu bisa langsung masuk ke akun.</div>
+    </div>
+  </div>
+
+  <script>
+  function toggleFaq(idx) {
+    var items = document.querySelectorAll('.faq-item-AYUHOKI');
+    items.forEach(function(el, i) {
+      if (i === idx) {
+        el.classList.toggle('open');
+      } else {
+        el.classList.remove('open');
+      }
+    });
+  }
+  document.addEventListener('DOMContentLoaded', function() {
+    var first = document.getElementById('faq-0');
+    if (first) first.classList.add('open');
+  });
+  </script>
+
+  <!-- =================== REVIEW SLIDER =================== -->
+  <div class="review-section-AYUHOKI">
+    <h2 class="AYUHOKI-h2">⭐ Ulasan &amp; Testimoni Member Baru Juga Member Lama</h2>
+    <div class="review-slider-outer">
+      <div class="review-slider-track" id="review-track">
+        <!-- filled by JS -->
+      </div>
+    </div>
+  </div>
+
+  <script>
+  var reviewsData = [
+    {init:"R", name:"Yoga Prasetyo — Jakarta", color:"#00bcd4", stars:"★★★★★",
+      text:"Tampilan AYUHOKI terasa simpel dan tidak membingungkan. Menu permainan tertata dengan baik, sementara proses masuk ke halaman yang dibutuhkan juga terasa praktis dari perangkat mobile."},
+    {init:"N", name:"Arif Maulana — Bandung", color:"#00bcd4", stars:"★★★★★",
+      text:"Saya suka konsep halaman AYUHOKI karena navigasinya cukup jelas. Berbagai informasi dan pilihan permainan dapat ditemukan dengan mudah tanpa harus berpindah-pindah halaman terlalu banyak."},
+    {init:"D", name:"Ilham Hidayat — Bandung", color:"#0a4a8a", stars:"★★★★★",
+      text:"AYUHOKI memiliki tampilan yang responsif saat dibuka melalui smartphone. Susunan menu tetap rapi dan halaman terasa ringan sehingga cukup nyaman digunakan untuk menjelajahi fitur yang tersedia."},
+    {init:"A", name:"Putri Maharani — Medan", color:"#2c1a8b", stars:"★★★★★",
+      text:"Hal yang menarik dari AYUHOKI adalah penyajian informasinya yang terstruktur. Menu, fitur, dan pilihan game ditempatkan dengan jelas sehingga pengguna baru pun lebih mudah memahami platform."},
+    {init:"M", name:"Intan Permatasari — Jogja", color:"#0d5c7a", stars:"★★★★★",
+      text:"Akses menuju AYUHOKI terasa sederhana karena link masuknya mudah digunakan. Setelah masuk, saya bisa langsung melihat berbagai menu dan informasi tanpa navigasi yang terasa terlalu rumit."},
+    {init:"F", name:"Citra Kirana — Bali", color:"#1a4a6b", stars:"★★★★☆",
+      text:"Secara keseluruhan AYUHOKI memberikan pengalaman portal game online dengan tampilan modern. Navigasinya praktis, fitur mudah ditemukan, dan desain halaman tetap nyaman dilihat di berbagai perangkat."},
+  ];
+  function buildReviews(arr) {
+    return arr.map(function(r){
+      return '<div class="review-card-AYUHOKI">'
+        +'<div class="review-card-header">'
+        +'<img src="https://marketworld.to/images/2026/08/11/favicon-AYUHOKI-Platform-Game-Online.png" class="review-avatar-img" alt="Member" style="width:42px;height:42px;border-radius:50%;object-fit:cover;border:2px solid rgba(74,158,255,0.4);flex-shrink:0;">'
+        +'<div><div class="review-name">'+r.name+'</div>'
+        +'<div class="review-stars">'+r.stars+'</div></div>'
+        +'</div>'
+        +'<div class="review-body">"'+r.text+'"</div>'
+        +'</div>';
+    }).join('');
+  }
+  var rt = document.getElementById('review-track');
+  rt.innerHTML = buildReviews(reviewsData) + buildReviews(reviewsData);
+  </script>
+
+</div>
+<!-- END ARTIKEL, FAQ DAN REVIEW -->
+
+
+<div id="email_form" class="new_email_form_container popup_container ask_seller_a_question_popup">
+  <a class="popup_close_control" href="#" onclick="BONZ.Application.hideAllPopups();; return false;" onkeypress="BONZ.Application.hideAllPopups();; return false;"><img alt="Close popup" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /></a>
+
+  
+
+    
+<div class="new_email_form ask_seller_a_question_form">
+  <div class="email_explanation explanation_message small_message" style="display: none;"></div>
+  <div class="loading"><i class="fa fa-spinner inline_icon fa-pulse fa-3x"></i></div>
+
+  <form class="new_email" action="https://ayuhoki999.com/" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="dkB69oIeZJb3AAaZYvozGdf1RFkZ/LoDmS/+ydVMD3P95LxRiuUFPVr5C9jk20FjT295T1ox2qEufImpad651g==" />
+    <fieldset class="email_form_fieldset">
+      <legend class="email_title">Contact the seller about this item</legend>
+      <input value="Somebody emailed you about your &quot;AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir&quot;!" type="hidden" name="email[subject]" />
+      <input value="60388279" type="hidden" name="email[receiver_id]" />
+      <input value="1798738873" type="hidden" name="email[item_id]" />
+
+      <textarea rows="10" placeholder="Write your message here" aria-label="Write your message here" name="email[body]">
+</textarea>
+      
+<div class="togglable">
+  <ul class="emoji_picker">
+    <li class="emoji_button">😃</li>
+    <li class="emoji_button">😀</li>
+    <li class="emoji_button">😆</li>
+    <li class="emoji_button">😍</li>
+    <li class="emoji_button">😉</li>
+    <li class="emoji_button">😛</li>
+    <li class="emoji_button">😞</li>
+    <li class="emoji_button">😮</li>
+    <li class="emoji_button">😎</li>
+    <li class="emoji_button">😇</li>
+    <li class="emoji_button bonus">😺</li>
+  </ul>
+</div>
+
+
+      <div class="submit_container">
+        <input type="hidden" name="email_source" value="7" />
+        <input type="submit" name="commit" value="Send Your Message" class="email_send_button" data-disable-with="Send Your Message" />
+
+          <a class="email_cancel_button" href="https://ayuhoki999.com/">Cancel</a>
+      </div>
+    </fieldset>
+</form></div>
+
+</div>
+
+
+<div id="add_to_wishlist_popup" class="popup_container new_email_form_container">
+  <a class="popup_close_control" href="#" onclick="$(&#39;#add_to_wishlist_popup&#39;).jqmHide();; return false;" onkeypress="$(&#39;#add_to_wishlist_popup&#39;).jqmHide();; return false;"><img alt="Close popup" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /></a>
+  <h2 class="add_to_wishlist_popup_header"><i class="fa fa-star inline_icon"></i><span class="inline_icon_text">Added to your <a href="/people/wish_list">wish list</a>!</span></h2>
+
+  <div class="email_container">
+    
+<div class="item">
+  <div class="item_image_container">
+    <img title="" class="item_image" onerror="BONZ.handleBrokenImage(this, 1798738873, &#39;https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp)" alt="AYUHOKI" src="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp" />
+  </div>
+
+  <ul class="item_info_list">
+    <li class="title"><a href="https://ayuhoki999.com/">AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir</a></li>
+
+      <li>19 in stock</li>
+
+
+
+
+
+    <li class="item_action_buttons">
+      <a class="button_medium" href="https://ayuhoki999.com/">Add to cart</a>
+    </li>
+  </ul>
+</div>
+
+    
+<div class="new_email_form ask_seller_a_question_form">
+  <div class="email_explanation explanation_message small_message" style="display: none;"></div>
+  <div class="loading"><i class="fa fa-spinner inline_icon fa-pulse fa-3x"></i></div>
+
+  <form class="new_email" action="https://ayuhoki999.com/" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1Q7ruUrF5GSEup2A4vnooi2H3dnezUtvHY7h+3sHasxeqi0eQj6FzylDkMFk2JrYtR3gz50AK82q3Zabx5XcaQ==" />
+    <fieldset class="email_form_fieldset">
+      <legend class="email_title">Contact the seller</legend>
+      <input value="Somebody emailed you about your &quot;AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir&quot;!" type="hidden" name="email[subject]" />
+      <input value="60388279" type="hidden" name="email[receiver_id]" />
+      <input value="1798738873" type="hidden" name="email[item_id]" />
+
+      <textarea rows="10" placeholder="Write your message here" aria-label="Write your message here" name="email[body]">
+</textarea>
+      
+<div class="togglable">
+  <ul class="emoji_picker">
+    <li class="emoji_button">😃</li>
+    <li class="emoji_button">😀</li>
+    <li class="emoji_button">😆</li>
+    <li class="emoji_button">😍</li>
+    <li class="emoji_button">😉</li>
+    <li class="emoji_button">😛</li>
+    <li class="emoji_button">😞</li>
+    <li class="emoji_button">😮</li>
+    <li class="emoji_button">😎</li>
+    <li class="emoji_button">😇</li>
+    <li class="emoji_button bonus">😺</li>
+  </ul>
+</div>
+
+
+      <div class="submit_container">
+        <input type="hidden" name="email_source" value="7" />
+        <input type="submit" name="commit" value="Send Your Message" class="email_send_button" data-disable-with="Send Your Message" />
+
+      </div>
+    </fieldset>
+</form></div>
+
+  </div>
+</div>
+
+
+
+  
+<div class="remind_me_later_form responsive_popup_container">
+  <div class="popup_inner">
+    <a class="popup_close_control" href="javascript:void(0)"><img alt="Close popup" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /></a>
+    <h2>Get an item reminder</h2>
+    <p class="reminder_explanation">
+      We'll email you a link to your item now and follow up with a single reminder (if you'd like one).
+      That's it! No spam, no hassle.
+    </p>
+
+    <form action="https://ayuhoki999.com/" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="yyVscyzSywyzuO6slX06sW78b5YtK1SBT2M8mDsh9NBAgarUJCmqpx5B4+0TXEjL9mZSgG7mNCP4MEv4h7NCdQ==" />
+        <label for="remind_me_later_email_address">Your email address:</label>
+        <input class="validate[required,custom[email]] email_input" type="email" name="remind_me_later[email_address]" id="remind_me_later_email_address" />
+
+      <div class="reminder_delay_options">
+        <fieldset>
+          <legend>When would you like a reminder?</legend>
+
+            <input type="radio" value="1" name="remind_me_later[delay_interval]" id="remind_me_later_delay_interval_1" />
+            <label for="remind_me_later_delay_interval_1">1 day</label>
+
+            <input type="radio" value="3" checked="checked" name="remind_me_later[delay_interval]" id="remind_me_later_delay_interval_3" />
+            <label for="remind_me_later_delay_interval_3">3 days</label>
+
+            <input type="radio" value="7" name="remind_me_later[delay_interval]" id="remind_me_later_delay_interval_7" />
+            <label for="remind_me_later_delay_interval_7">7 days</label>
+
+            <input type="radio" value="0" name="remind_me_later[delay_interval]" id="remind_me_later_delay_interval_0" />
+            <label for="remind_me_later_delay_interval_0">never</label>
+        </fieldset>
+      </div>
+
+      <div class="reminder_email_confirm hidden">
+        <em id="reminder_email_confirm_label">Please make sure your email address is correct so we can get in touch with you.</em>
+        <input type="text" disabled="disabled" class="email_confirm_display" aria-labelledby="reminder_email_confirm_label" />
+      </div>
+      <button name="button" type="submit" class="reminder_submit">Create your item reminder</button>
+</form>
+    <div class="reminder_sign_in">
+        Already have an account?
+        <a href="https://ayuhoki999.com/">Log in and add this item to your wish list.</a>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+      </div> <!-- content -->
+<!-- centerJustifiedDiv -->
+</div> <!-- main_wrapper -->
+</div> <!-- site_wrapper -->
+
+<!-- footer -->
+  <div id="footer">
+    
+    <div class="footer_links">
+  <div class="wrapper">
+    <div class="footer_links_container"> 
+      <ul class="footer_links_menu">
+        <li class="footer_links_menu_item"><a href="https://ayuhoki999.com/">About AYUHOKI</a></li>
+        <li class="footer_links_menu_item"><a target="_blank" href="https://ayuhoki999.com/">Affiliates</a></li>
+        <li class="footer_links_menu_item"><a href="https://ayuhoki999.com/">API</a></li>
+        <li class="footer_links_menu_item"><a href="https://ayuhoki999.com/">Selling Blog</a> / <a href="https://ayuhoki999.com/">Shopping Blog</a></li>
+        <li class="footer_links_menu_item"><a href="https://ayuhoki999.com/">Contact</a></li>
+        <li class="footer_links_menu_item"><a href="https://ayuhoki999.com/">Help</a></li>
+<!--        <li class="footer_links_menu_item"></li>-->
+        <li class="footer_links_menu_item"><a href="https://ayuhoki999.com/">Legal</a></li>
+        <li class="footer_links_menu_item"><a href="https://ayuhoki999.com/">Partners</a></li>
+        <li class="footer_links_menu_item"><a href="https://ayuhoki999.com/">DAFTAR </a></li>
+        <li class="footer_links_menu_item"><a href="https://ayuhoki999.com/">AYUHOKI</a></li>
+        <li class="footer_links_menu_item"><a target="_blank" href="https://ayuhoki999.com/">GAME ONLINE</a></li>
+      </ul>
+    </div>
+
+    <ul class="footer_links_social_media">
+      <li class="footer_links_social_media_item">
+        <a class="footer_social_media_icon" target="_blank" onclick="gtag(&#39;event&#39;, &#39;social_share&#39;, {action: &#39;Click-footer&#39;, medium: &#39;Facebook&#39;});" onkeypress="gtag(&#39;event&#39;, &#39;social_share&#39;, {action: &#39;Click-footer&#39;, medium: &#39;Facebook&#39;});" href="https://facebook.com/shop.bmarketplace"><img alt="Facebook" data-retina="true" src="https://assets.bonanza.com/images/global_icons/social_media/facebook.png" /></a>
+      </li>
+      <li class="footer_links_social_media_item">
+        <a class="footer_social_media_icon" target="_blank" onclick="gtag(&#39;event&#39;, &#39;social_share&#39;, {action: &#39;Click-footer&#39;, medium: &#39;Twitter&#39;});" onkeypress="gtag(&#39;event&#39;, &#39;social_share&#39;, {action: &#39;Click-footer&#39;, medium: &#39;Twitter&#39;});" href="https://twitter.com/AYUHOKI"><img alt="Twitter" data-retina="true" src="https://assets.bonanza.com/images/global_icons/social_media/twitter.png" /></a>
+      </li>
+      <li class="footer_links_social_media_item">
+        <a class="footer_social_media_icon" target="_blank" onclick="gtag(&#39;event&#39;, &#39;social_share&#39;, {action: &#39;Click-footer&#39;, medium: &#39;Pinterest&#39;});" onkeypress="gtag(&#39;event&#39;, &#39;social_share&#39;, {action: &#39;Click-footer&#39;, medium: &#39;Pinterest&#39;});" href="https://pinterest.com/AYUHOKI"><img alt="Pinterest" data-retina="true" src="https://assets.bonanza.com/images/global_icons/social_media/pinterest.png" /></a>
+      </li>
+      <li class="footer_links_social_media_item">
+        <a class="footer_social_media_icon" target="_blank" onclick="gtag(&#39;event&#39;, &#39;social_share&#39;, {action: &#39;Click-footer&#39;, medium: &#39;Instagram&#39;});" onkeypress="gtag(&#39;event&#39;, &#39;social_share&#39;, {action: &#39;Click-footer&#39;, medium: &#39;Instagram&#39;});" href="https://instagram.com/shop_bmarketplace"><img alt="Instagram" data-retina="true" src="https://assets.bonanza.com/images/global_icons/social_media/instagram.png" /></a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+    <div class="footer_bottom">
+  <div class="wrapper">
+    <div class="utilities">
+
+      <a id="select_locale_link" class="locale flags-us" href="">
+        United States
+        / United States Dollar $
+</a>
+      <input type="hidden" name="click_track_page" id="click_track_page" value="false" />
+
+                  <span class="accessibility_trigger" onclick="$('.asw-menu-btn').get(0).click()">
+            <span class="sr-only">Click to activate accessibility preferences</span><i class="fa fa-universal-access inline_icon"></i>
+            <span>Accessibility preferences</span>
+          </span>
+
+    </div>
+
+    <ul class="trust">
+      <li>
+        <div class="footer_ssl_credential"><span class="sr-only">SSL Secure Connection</span></div>
+      </li>
+      <li>
+        <a class="footer_bbb_credential" title="Bonanza.com, Internet Shopping, Seattle, WA" target="_blank" href="https://ayuhoki999.com/"><img alt="Better Business Bureau Accredited Business" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /></a>
+      </li>
+      <li>
+        <a class="footer_paypal_credential" target="_blank" href="https://ayuhoki999.com/"><img alt="PayPal Buyer Protection" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /></a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+    <ul class="footer_legal">
+  <li>&copy; 2026 AYUHOKI. All Rights Reserved | SEO CUCU JAMIL</li>
+  <li><a href="https://ayuhoki999.com/">Cookies and Tracking</a></li>
+  <li><a href="https://ayuhoki999.com/">Accessibility</a></li>
+  <li><a href="https://ayuhoki999.com/">Privacy Policy</a></li>
+  <li><a href="https://ayuhoki999.com/">Terms of Use</a></li>
+</ul>
+
+  </div>
+
+
+
+<script data-cfasync="false" src="https://ayuhoki999.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://assets.bonanza.com/assets/retina_js-483e604708473fba148b0d64d253735e.gz.js" crossorigin="anonymous"></script>
+
+
+
+  <script>
+//<![CDATA[
+  var google_tag_params = {"ecomm_pagetype":"product","ecomm_prodid":1798738873,"ecomm_totalvalue":3.99};
+  var google_conversion_id = 1040189919;
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+
+//]]>
+</script>
+<script src="https://www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style='display: inline;'>
+<img alt='' height='1' src='https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1040189919/?value=0&amp;guid=ON&amp;script=0' style='border-style: none;' width='1'>
+</div>
+</noscript>
+
+  
+    <!-- Pinterest Pixel Base Code -->
+  <script type="text/javascript">
+  !function(e){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var n=window.pintrk;n.queue=[],n.version="3.0";var t=document.createElement("script");t.async=!0,t.src=e;var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
+
+  pintrk('load','2613002088097');
+  pintrk('page');
+  </script>
+  <noscript>
+  <img height="1" width="1" style="display:none;" alt=""
+  src="https://ct.pinterest.com/v3/?tid=2613002088097&noscript=1" />
+  </noscript>
+  <!-- End Pinterest Pixel Base Code -->
+
+        <script type="text/javascript">pintrk("track", "pagevisit");</script>
+      <noscript>
+        <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2613002088097&event=pagevisit&noscript=1&" />
+      </noscript>
+
+
+
+  <!-- Facebook Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window,document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+    if (typeof fbq !== 'undefined') {
+      fbq('init', '124768114830763');
+      fbq('track', 'PageView');
+            fbq('track', 'ViewContent', {"content_ids":["1798738873"],"content_type":"product"});
+
+    }
+  </script>
+  <noscript>
+    <img height="1" width="1" alt=""
+    src="https://www.facebook.com/tr?id=124768114830763&ev=PageView&noscript=1"/>
+  </noscript>
+  <!-- End Facebook Pixel Code -->
+
+<script>
+(function(g,u,i,d,e,s){g[e]=g[e]||[];var f=u.getElementsByTagName(i)[0];var k=u.createElement(i);k.async=true;k.src='https://static.userguiding.com/media/user-guiding-'+s+'-embedded.js';f.parentNode.insertBefore(k,f);if(g[d])return;var ug=g[d]={q:[]};ug.c=function(n){return function(){ug.q.push([n,arguments])};};var m=['previewGuide','finishPreview','track','identify','hideChecklist','launchChecklist'];for(var j=0;j<m.length;j+=1){ug[m[j]]=ug.c(m[j]);}})(window,document,'script','userGuiding','userGuidingLayer','766728325ID');
+</script>
+<script>
+  window.userGuiding.identify("NON_USER")
+</script>
+
+  <script src="https://assets.bonanza.com/assets/wcag_js-22d0471bf2065178e8eb40efbc518af9.gz.js" defer="defer" crossorigin="anonymous"></script>
+
+
+        <script type="text/javascript">
+    (function() {
+      window.QuantumMetricOnload = function () {
+        window.QuantumMetricAPI.addEventListener('start', function() {
+        });
+      };
+      var qtm = document.createElement('script'); qtm.type = 'text/javascript'; qtm.async = 1;
+        qtm.src = 'https://cdn.quantummetric.com/qscripts/quantum-bonanza.js';
+      var d = document.getElementsByTagName('script')[0];
+      !window.QuantumMetricAPI && d.parentNode.insertBefore(qtm, d);
+    })();
+  </script>
+
+
+
+
+      <div class='hidden' id='enhanced_social_links_app_selector'>
+<ul>
+<li><a href="javascript:void(0)">x</a></li>
+<li><a href="#">Open in App</a></li>
+<li><a target="_blank" href="#">Open in Browser</a></li>
+</ul>
+</div>
+
+        <script>
+        //<![CDATA[
+                  jQuery(BONZ.wrap(function() {
+          $("a.tooltip").tooltip({ appendElement: "body", width: 400 });
+
+BONZ.Application.whenDefined('ItemShow', 'BuyerReminders', function() { BONZ.ItemShow.BuyerReminders.initialize(); });
+BONZ.Application.setupPopup('#email_form', { modal: true });
+BONZ.ItemShow.initialize();
+BONZ.ItemShow.Images.initialize();
+BONZ.Header.initialize();
+BONZ.Application.whenDefined("AcceptCookiesBanner", function() { BONZ.AcceptCookiesBanner.initializeCookieBanner("okb"); })
+BONZ.Application.whenDefined('Ads', 'WhatsHot', function() { BONZ.Ads.WhatsHot.initialize(); });
+BONZ.AnalyticEvents.initialize();
+
+        }));
+
+        //]]>
+        </script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"b45af682824e4a52aa26dac85f9ca7f1","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"6e9c95d1bddf4ea185300cfbe685c2da","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+<!-- =================== POPUP AYUHOKI v2 (match Image 3) =================== -->
+<style id="popup-v2-css">
+/* === OVERLAY - kaca transparan biru dongker === */
+#popupOverlay {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw; height: 100vh;
+  background: rgba(30, 18, 5, 0.3);
+  backdrop-filter: blur(9px);
+  -webkit-backdrop-filter: blur(9px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2147483647;
+  animation: kiboFadeIn 0.45s ease;
+}
+
+/* === BOX === */
+#popupBox {
+  position: relative;
+  width: 90%; max-width: 400px;
+  background: linear-gradient(145deg, rgba(0, 0, 0, 0.62), rgba(0, 0, 0, 0.54));
+  backdrop-filter: blur(22px);
+  -webkit-backdrop-filter: blur(22px);
+  border-radius: 20px;
+  overflow: hidden;
+  text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.22);
+  box-shadow: 0 8px 32px rgba(30, 0, 0, 0.55), inset 0 1px 0 rgba(255,255,255,0.07);
+  padding-bottom: 22px;
+  animation: kiboSlideUp 0.5s cubic-bezier(0.22,1,0.36,1);
+}
+
+/* === GAMBAR === */
+#popupBox img {
+  width: 100%; display: block;
+  border-radius: 20px 20px 0 0;
+}
+
+/* === TOMBOL CLOSE X === */
+#popupClose {
+  position: absolute;
+  top: 11px; right: 11px;
+  width: 30px; height: 30px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.10);
+  border: 1.5px solid rgba(255,255,255,0.30);
+  color: rgba(0, 0, 0, 0.85);
+  font-size: 14px;
+  cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  z-index: 10;
+  transition: all 0.25s ease;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1;
+}
+#popupClose:hover {
+  background: rgba(255, 0, 0, 0.22);
+  border-color: rgba(0, 0, 0, 0.7);
+  transform: rotate(90deg);
+}
+
+/* === TOMBOL WRAPPER === */
+.popup-buttons {
+  display: flex; flex-direction: column;
+  gap: 12px; padding: 18px 20px 8px;
+}
+
+/* === TOMBOL LOGIN & DAFTAR === */
+.popup-buttons a {
+  display: block; width: 100%; padding: 15px 0;
+  font-size: 15px; font-weight: 700; border-radius: 50px;
+  text-decoration: none; text-align: center;
+  color: #000000 !important;
+  text-shadow: 0 1px 4px rgba(32, 196, 241);
+  text-transform: uppercase; letter-spacing: 2px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative; z-index: 0; overflow: hidden;
+  background: linear-gradient(135deg, #000000, #00bcd4);
+  box-shadow: 0 4px 18px rgba(32, 196, 241), inset 0 1px 0 rgba(32, 196, 241);
+  border: 1px solid rgba(32, 196, 241);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+/* Kilatan cepat */
+.popup-buttons a::before {
+  content: "";
+  position: absolute; top: 0; left: -120%;
+  width: 55%; height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(32, 196, 241), transparent);
+  transform: skewX(-20deg);
+  animation: popupShine 1.1s linear infinite;
+  z-index: 1; pointer-events: none;
+}
+.popup-buttons a:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(10,20,100,0.65);
+}
+
+/* === FOOTER === */
+.popup-footer {
+  font-size: 11px;
+  color: rgba(255, 255, 255, 0.7);
+  padding: 12px 16px 0;
+  line-height: 1.6;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.popup-footer span {
+  color: rgba(32, 196, 241) !important;
+}
+
+/* === ANIMASI === */
+@keyframes kiboFadeIn  { 0%{opacity:0} 100%{opacity:1} }
+@keyframes kiboSlideUp { 0%{opacity:0;transform:translateY(28px) scale(0.96)} 100%{opacity:1;transform:translateY(0) scale(1)} }
+@keyframes popupShine  { 0%{left:-120%} 100%{left:150%} }
+
+@media(max-width:480px){
+  #popupBox { width:93%; max-width:340px; }
+  .popup-buttons a { font-size:13px; padding:13px 0; }
+}
+</style>
+
+<div id="popupOverlay">
+  <div id="popupBox">
+    <button id="popupClose">&#10005;</button>
+    <img
+      src="https://marketworld.to/images/2026/08/11/banner-AYUHOKI-Platform-Game-Online.webp"
+      alt="AYUHOKI"
+    />
+    <div class="popup-buttons">
+      <a href="https://ayu-hoki.pages.dev/atep8/amp" target="_blank" rel="nofollow noopener">LOGIN</a>
+      <a href="https://ayu-hoki.pages.dev/atep8/amp" target="_blank" rel="nofollow noopener">DAFTAR</a>
+    </div>
+    <div class="popup-footer">
+      AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir<br>
+      <span>&copy; COPYRIGHT 2026 AYUHOKI ㊙ SEO CUCU JAMIL</span>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var ov  = document.getElementById('popupOverlay');
+  var btn = document.getElementById('popupClose');
+  btn.addEventListener('click', function(e){
+    e.stopPropagation();
+    ov.style.opacity = '0';
+    ov.style.transition = 'opacity 0.35s ease';
+    setTimeout(function(){ ov.style.display = 'none'; }, 350);
+  });
+  ov.addEventListener('click', function(e){ e.stopPropagation(); });
+  document.addEventListener('keydown', function(e){
+    if(e.key === 'Escape'){
+      ov.style.opacity = '0';
+      ov.style.transition = 'opacity 0.35s ease';
+      setTimeout(function(){ ov.style.display = 'none'; }, 350);
+    }
+  });
+})();
+</script>
+
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"41096cdeec074e1a9bee3b5412c39256","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"0dac6fdd55f34ec0b2b487a00a32a479","r":1}' crossorigin="anonymous"></script>
+</body>
+
+</html>
+
+<script>
+//<![CDATA[
+$(function() { BONZ.AnalyticEvents.publish('ViewItem', {"title":"AYUHOKI | Platform Game Online Dengan Layanan Premium Terpercaya & Fitur Anti Blokir"}); });
+//]]>
+</script>
