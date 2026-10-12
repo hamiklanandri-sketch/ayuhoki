@@ -18080,7 +18080,7 @@ html.no-touch .tp-design-tile:hover .tp-design-tile__sort-ctrl {
      <meta name="robots" content="index,follow">
     <meta content='AYUHOKI merupakan platform yang menghadirkan akses Toto Togel dan Toto Slot Online terbaru 2026 dalam satu situs. Berbagai menu disusun secara terstruktur agar pengguna dapat menemukan pilihan permainan, pasaran, dan informasi terbaru dengan lebih mudah.'
     name='description'>
-    <meta content="keyword" name="AYUHOKI, fia togel, slot online, SLOT, situs toto, toto togel, situs toto togel, toto slot">
+    <meta content="keyword" name="ayuhoki, toto togel, togel online, situs toto togel, bandar togel online, toto slot, slot online">
     <meta property="og:title" content="AYUHOKI - Layanan Akses Toto Togel & Toto Slot Online Terbaru 2026">
     <meta property="og:description" content="AYUHOKI merupakan platform yang menghadirkan akses Toto Togel dan Toto Slot Online terbaru 2026 dalam satu situs. Berbagai menu disusun secara terstruktur agar pengguna dapat menemukan pilihan permainan, pasaran, dan informasi terbaru dengan lebih mudah.">
     <meta property="og:price:amount" content="100.00">
